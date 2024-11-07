@@ -16,16 +16,28 @@
             border-radius: 10px;  /* Rounded corners */
             box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Subtle shadow */
         }
-        input, .radio-group { width: 100%; margin: 5px 0; }
+        textarea { 
+            width: 100%; 
+            max-width: 100%; 
+            padding: 10px; 
+            margin: 5px 0; 
+            resize: vertical; 
+            box-sizing: border-box; /* Ensures padding doesn't affect width */
+        }
         .output { font-weight: bold; margin-top: 20px; }
-        .radio-group { display: none; justify-content: center; gap: 10px; }
+        .radio-group { 
+            display: none; 
+            justify-content: center; 
+            gap: 10px; 
+            margin: 10px 0;
+        }
     </style>
 </head>
 <body>
 
 <div class="container">
     <h1>XLR URL/Path Converter</h1>
-    <input type="text" id="input" placeholder="Enter path or URL" oninput="convert()">
+    <textarea id="input" rows="5" placeholder="Enter path or URL" oninput="convert()"></textarea>
 
     <!-- Host Suffix Radio Buttons (Initially hidden) -->
     <div id="radioGroup" class="radio-group">
