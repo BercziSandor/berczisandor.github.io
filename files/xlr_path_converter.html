@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>XLR URL/Path Converter</title>
+    <style>
+        body { font-family: Arial, sans-serif; background-color: #f4f4f9; }
+        .container {
+            max-width: 500px;
+            margin: 50px auto;
+            padding: 20px;
+            text-align: center;
+            background-color: #ffffff;
+            border: 2px solid #4CAF50;  /* Green border color */
+            border-radius: 10px;  /* Rounded corners */
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+        }
+        input, .radio-group { width: 100%; margin: 5px 0; }
+        .output { font-weight: bold; margin-top: 20px; }
+        .radio-group { display: none; justify-content: center; gap: 10px; }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <h1>XLR URL/Path Converter</h1>
+    <input type="text" id="input" placeholder="Enter path or URL" oninput="convert()">
+
+    <!-- Host Suffix Radio Buttons (Initially hidden) -->
+    <div id="radioGroup" class="radio-group">
+        <label><input type="radio" name="hostSuffix" value="" checked onchange="convert()"> PROD</label>
+        <label><input type="radio" name="hostSuffix" value="atz" onchange="convert()"> ATZ</label>
+        <label><input type="radio" name="hostSuffix" value="kaz" onchange="convert()"> KAZ</label>
+    </div>
+
+    <p id="result" class="output"></p>
+</div>
+
+<script>
+function convert() {
+    const input = document.getElementById("input").value.trim();
+    const radioGroup = document.getElementById("radioGroup");
+    const result = document.getElementById("result");
+
+    if (input.startsWith("http")) {
+        // Convert URL to Path
+        radioGroup.style.display = "none";
+        const pathPart = `Applications/${input.split('?')[0].replace(/^.*\/#\/(releases|templates)\//, "").replace(/-/g, "/")}`;
+        result.textContent = pathPart;
+    } else {
+        // Convert Path to URL
+        radioGroup.style.display = "flex";
+        const hostSuffix = document.querySelector('input[name="hostSuffix"]:checked').value;
+        const baseURL = `https://xlrelease${hostSuffix ? '-' + hostSuffix : ''}.rbgooe.at`;
+        const formattedPath = input.replace(/^Applications\//, "").replace(/\//g, "-");
+        result.innerHTML = `<a href="${baseURL}/#/releases/${formattedPath}" target="_blank">${baseURL}/#/releases/${formattedPath}</a>`;
+    }
+}
+</script>
+
+</body>
+</html>
