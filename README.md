@@ -6,3 +6,9 @@
 
 [https://docs.github.com/en/pages/quickstart](https://docs.github.com/en/pages/quickstart)
 
+
+
+[j](./journal.md.html)
+
+[w](./website.md.html)
+ 
