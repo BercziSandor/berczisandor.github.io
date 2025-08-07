@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<gpx version="1.1" creator="Locus Map web planner" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:locus="http://www.locusmap.eu" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxtrkx="http://www.garmin.com/xmlschemas/TrackStatsExtension/v1" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v2">
+  <metadata>
+    <desc>File with points/tracks from LocusWorld/</desc>
+    <time>2023-07-21T13:53:57.434Z</time>
+  </metadata>
+  <wpt lat="49.0295600" lon="12.0706100">
+    <ele>333.25</ele>
+    <time>2023-07-21T13:53:57.433Z</time>
+    <name>Zeltplatz Regensburger Kanu-Club e.V.</name>
+  </wpt>
+  <wpt lat="48.8875500" lon="12.5672470">
+    <ele>316.25</ele>
+    <time>2023-07-21T13:53:57.433Z</time>
+    <name>Vereinsheim Straubinger Kanuclub e.V. 44</name>
+  </wpt>
+  <wpt lat="48.5820440" lon="13.4732390">
+    <ele>304.50</ele>
+    <time>2023-07-21T13:53:57.433Z</time>
+    <name>Zeltplatz Ilzstadt</name>
+  </wpt>
+  <wpt lat="48.4490110" lon="13.8642170">
+    <ele>282.00</ele>
+    <time>2023-07-21T13:53:57.433Z</time>
+    <name>Camp, caravan</name>
+  </wpt>
+  <wpt lat="48.2275230" lon="14.5786340">
+    <ele>242.00</ele>
+    <time>2023-07-21T13:53:57.433Z</time>
+    <name>Camping Au an der Donau</name>
+  </wpt>
+  <wpt lat="48.2426760" lon="15.3403120">
+    <ele>209.50</ele>
+    <time>2023-07-21T13:53:57.433Z</time>
+    <name>Donau Camping Emmersdorf</name>
+  </wpt>
+</gpx>

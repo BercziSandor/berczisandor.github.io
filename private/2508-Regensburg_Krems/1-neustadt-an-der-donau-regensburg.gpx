@@ -1,0 +1,1546 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="RouteYou" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:trp="http://www.garmin.com/xmlschemas/TripExtensions/v1">
+  <trk>
+    <name>1 - Neustadt an der Donau - Regensburg</name>
+    <desc>&lt;p&gt;Százlábú kerékpáros túra 2023.&lt;/p&gt;
+
+&lt;p&gt;2023.08.22 - 1. nap&lt;/p&gt;
+
+&lt;p&gt;Első szakasz: Neustadt-Bad-Gögging-Sittling-Staubing-Weltenburg (közben komlóföldek) kis forgalmú mezőgazdasági utak és kerékpárút /14,3km/. Weltenburg kolostor; pihenő sörkóstolás stb.&lt;/p&gt;
+
+&lt;p&gt;Második szakasz: Tovább hajóval /14,5EU/ keresztül a Duna mészkőszurdokán.&lt;/p&gt;
+
+&lt;p&gt;  Menetrend: https://schifffahrt-kelheim.de/donaudurchbruch/&lt;/p&gt;
+
+&lt;p&gt;  Weltenburg -&amp;gt; Kelheim: 10:40, 11:20, 12:00, 12:40, 13:20, 14:00, 14:40, 15:20, 16:00, 16:40, 17:20, 18:00, 18:40&lt;/p&gt;
+
+&lt;p&gt;Érkezés Kelheim-be. Városnézés egymás összevárása, estleg Befreiungshalle (4,5EU)- Egy hajóval nem biztos, hogy el tudunk menni. Kalandvágyoknak alternatíva; komppal (3EU) Weltenburgnál átmenni a túloldalra majd erdei ösvényeken végig mászni/tolni/gurulni a szurdok bal oldalában. Csodaszép kilátópontok!&lt;/p&gt;
+
+&lt;p&gt;Harmadik szakasz: útvonal: Duna bal partján Kelheim-Herrnsaal-Kapfelberg-Poikam- /itt átkelés a jobb partra hídon/ -Bad-Abbach /pihenő/ -Oberndorf- /kilátópont/ -Matting-Regensburg kemping. Kelheimtól a szállásig dunaparti kerékpárút, kisforgalmú utak lesznek viszonylag sok murvás kerékpárút! Az Kelheim Regensburg távolság 36 km ezt a táblázatban látható megállókkal tagolhatjuk.&lt;/p&gt;
+
+&lt;p&gt; &lt;/p&gt;
+
+&lt;p&gt; &lt;/p&gt;
+
+&lt;p&gt; &lt;/p&gt;</desc>
+    <link href="https://www.routeyou.com/r/13224827"/>
+    <type>City bike route</type>
+    <trkseg>
+      <trkpt lat="48.81293" lon="11.75795">
+        <name>Start</name>
+        <sym>pass_place</sym>
+        <type>Via</type>
+      </trkpt>
+      <trkpt lat="48.81285" lon="11.75893"/>
+      <trkpt lat="48.81283" lon="11.75904">
+        <sym>Straight</sym>
+      </trkpt>
+      <trkpt lat="48.81262" lon="11.75988"/>
+      <trkpt lat="48.81229" lon="11.76089"/>
+      <trkpt lat="48.81213" lon="11.76108">
+        <cmt>Donaustraße, St 2223</cmt>
+        <sym>Left_slight</sym>
+      </trkpt>
+      <trkpt lat="48.81203" lon="11.76146"/>
+      <trkpt lat="48.81198" lon="11.7618"/>
+      <trkpt lat="48.81191" lon="11.76282">
+        <cmt>Donaustraße, St 2223</cmt>
+        <sym>Left_slight</sym>
+      </trkpt>
+      <trkpt lat="48.81194" lon="11.76297">
+        <cmt>Bad Gögginger Straße, St 2223</cmt>
+        <sym>roundabout_e1</sym>
+      </trkpt>
+      <trkpt lat="48.81196" lon="11.76305"/>
+      <trkpt lat="48.81196" lon="11.7631"/>
+      <trkpt lat="48.81202" lon="11.76324">
+        <cmt>Bad Gögginger Straße, St 2233</cmt>
+        <sym>Left_slight</sym>
+      </trkpt>
+      <trkpt lat="48.8122" lon="11.76344"/>
+      <trkpt lat="48.81254" lon="11.76395"/>
+      <trkpt lat="48.81279" lon="11.76438"/>
+      <trkpt lat="48.81366" lon="11.76615"/>
+      <trkpt lat="48.81403" lon="11.76678"/>
+      <trkpt lat="48.81431" lon="11.76721"/>
+      <trkpt lat="48.81518" lon="11.76833"/>
+      <trkpt lat="48.81611" lon="11.76963"/>
+      <trkpt lat="48.81634" lon="11.77007"/>
+      <trkpt lat="48.81656" lon="11.77062"/>
+      <trkpt lat="48.81737" lon="11.77281"/>
+      <trkpt lat="48.8178" lon="11.77394"/>
+      <trkpt lat="48.81802" lon="11.77448"/>
+      <trkpt lat="48.81826" lon="11.775"/>
+      <trkpt lat="48.81861" lon="11.77568"/>
+      <trkpt lat="48.81902" lon="11.77635"/>
+      <trkpt lat="48.81945" lon="11.77698"/>
+      <trkpt lat="48.81974" lon="11.77736"/>
+      <trkpt lat="48.82009" lon="11.77776"/>
+      <trkpt lat="48.82024" lon="11.77799"/>
+      <trkpt lat="48.82048" lon="11.77851"/>
+      <trkpt lat="48.82065" lon="11.77898"/>
+      <trkpt lat="48.82107" lon="11.78045"/>
+      <trkpt lat="48.82123" lon="11.78096"/>
+      <trkpt lat="48.82144" lon="11.78137"/>
+      <trkpt lat="48.82164" lon="11.78164"/>
+      <trkpt lat="48.82183" lon="11.78181"/>
+      <trkpt lat="48.82206" lon="11.78196"/>
+      <trkpt lat="48.82243" lon="11.78207"/>
+      <trkpt lat="48.82275" lon="11.78206">
+        <cmt>Am Gries</cmt>
+        <sym>Right</sym>
+      </trkpt>
+      <trkpt lat="48.82277" lon="11.78215">
+        <sym>Left</sym>
+      </trkpt>
+      <trkpt lat="48.82284" lon="11.78213">
+        <sym>Left_slight</sym>
+      </trkpt>
+      <trkpt lat="48.8233" lon="11.78192"/>
+      <trkpt lat="48.82351" lon="11.78175">
+        <sym>pass_place</sym>
+        <type>Shaping</type>
+      </trkpt>
+      <trkpt lat="48.82367" lon="11.78163">
+        <cmt>Am Gries</cmt>
+        <sym>Left</sym>
+      </trkpt>
+      <trkpt lat="48.82365" lon="11.78154">
+        <cmt>Neustädter Straße, St 2233</cmt>
+        <sym>Right</sym>
+      </trkpt>
+      <trkpt lat="48.82429" lon="11.78079"/>
+      <trkpt lat="48.82451" lon="11.78064"/>
+      <trkpt lat="48.82476" lon="11.7806"/>
+      <trkpt lat="48.82502" lon="11.7806"/>
+      <trkpt lat="48.82651" lon="11.78009"/>
+      <trkpt lat="48.82666" lon="11.77999"/>
+      <trkpt lat="48.82686" lon="11.77975"/>
+      <trkpt lat="48.82766" lon="11.77847"/>
+      <trkpt lat="48.82792" lon="11.77815"/>
+      <trkpt lat="48.8284" lon="11.77778"/>
+      <trkpt lat="48.82945" lon="11.77704">
+        <cmt>St 2233</cmt>
+        <sym>Straight</sym>
+      </trkpt>
+      <trkpt lat="48.82991" lon="11.77654"/>
+      <trkpt lat="48.83036" lon="11.7758"/>
+      <trkpt lat="48.8307" lon="11.77513">
+        <cmt>Sittling</cmt>
+        <sym>Right</sym>
+      </trkpt>
+      <trkpt lat="48.83074" lon="11.77514">
+        <cmt>Sittling</cmt>
+        <sym>pass_place</sym>
+        <type>Shaping</type>
+      </trkpt>
+      <trkpt lat="48.83089" lon="11.77516"/>
+      <trkpt lat="48.8311" lon="11.77494"/>
+      <trkpt lat="48.83167" lon="11.77466"/>
+      <trkpt lat="48.83204" lon="11.77441">
+        <sym>Right</sym>
+      </trkpt>
+      <trkpt lat="48.83275" lon="11.77675"/>
+      <trkpt lat="48.83293" lon="11.77775"/>
+      <trkpt lat="48.83302" lon="11.77864"/>
+      <trkpt lat="48.83305" lon="11.77937"/>
+      <trkpt lat="48.83298" lon="11.78086"/>
+      <trkpt lat="48.83301" lon="11.78167">
+        <sym>Straight</sym>
+      </trkpt>
+      <trkpt lat="48.83312" lon="11.78256"/>
+      <trkpt lat="48.83321" lon="11.78279"/>
+      <trkpt lat="48.83338" lon="11.78295"/>
+      <trkpt lat="48.83487" lon="11.78328"/>
+      <trkpt lat="48.83499" lon="11.78337"/>
+      <trkpt lat="48.8356" lon="11.78443"/>
+      <trkpt lat="48.8364" lon="11.78556">
+        <sym>Left_slight</sym>
+      </trkpt>
+      <trkpt lat="48.83655" lon="11.78564"/>
+      <trkpt lat="48.83804" lon="11.78597">
+        <sym>Right_slight</sym>
+      </trkpt>
+      <trkpt lat="48.83928" lon="11.78849">
+        <sym>pass_place</sym>
+        <type>Shaping</type>
+      </trkpt>
+      <trkpt lat="48.83955" lon="11.78906"/>
+      <trkpt lat="48.83959" lon="11.78931"/>
+      <trkpt lat="48.83963" lon="11.7909"/>
+      <trkpt lat="48.83967" lon="11.79111"/>
+      <trkpt lat="48.84" lon="11.79241">
+        <sym>Straight</sym>
+      </trkpt>
+      <trkpt lat="48.8403" lon="11.79365"/>
+      <trkpt lat="48.84039" lon="11.79439"/>
+      <trkpt lat="48.84054" lon="11.79458"/>
+      <trkpt lat="48.84269" lon="11.79556">
+        <sym>Straight</sym>
+      </trkpt>
+      <trkpt lat="48.8428" lon="11.79561">
+        <cmt>KEH 7</cmt>
+        <sym>Left</sym>
+      </trkpt>
+      <trkpt lat="48.84338" lon="11.79473"/>
+      <trkpt lat="48.84407" lon="11.79383">
+        <sym>Right</sym>
+      </trkpt>
+      <trkpt lat="48.84667" lon="11.79826"/>
+      <trkpt lat="48.84732" lon="11.79936"/>
+      <trkpt lat="48.8475" lon="11.79963"/>
+      <trkpt lat="48.84764" lon="11.79998">
+        <sym>Straight</sym>
+      </trkpt>
+      <trkpt lat="48.84769" lon="11.80008"/>
+      <trkpt lat="48.84873" lon="11.80374"/>
+      <trkpt lat="48.84956" lon="11.80677">
+        <sym>Left_sharp</sym>
+      </trkpt>
+      <trkpt lat="48.84961" lon="11.80669"/>
+      <trkpt lat="48.85038" lon="11.80618">
+        <sym>pass_place</sym>
+        <type>Shaping</type>
+      </trkpt>
+      <trkpt lat="48.85154" lon="11.80542"/>
+      <trkpt lat="48.85173" lon="11.80536"/>
+      <trkpt lat="48.85194" lon="11.80544"/>
+      <trkpt lat="48.85258" lon="11.80576"/>
+      <trkpt lat="48.85275" lon="11.80578"/>
+      <trkpt lat="48.85289" lon="11.80569"/>
+      <trkpt lat="48.85388" lon="11.80459"/>
+      <trkpt lat="48.85394" lon="11.80458"/>
+      <trkpt lat="48.85401" lon="11.80466"/>
+      <trkpt lat="48.85419" lon="11.80522"/>
+      <trkpt lat="48.85424" lon="11.80531">
+        <sym>Left_slight</sym>
+      </trkpt>
+      <trkpt lat="48.85432" lon="11.80535"/>
+      <trkpt lat="48.85449" lon="11.80536"/>
+      <trkpt lat="48.85519" lon="11.80476"/>
+      <trkpt lat="48.8569" lon="11.80346"/>
+      <trkpt lat="48.85698" lon="11.80338"/>
+      <trkpt lat="48.85707" lon="11.80337">
+        <sym>Straight</sym>
+      </trkpt>
+      <trkpt lat="48.85717" lon="11.80336"/>
+      <trkpt lat="48.85772" lon="11.8034"/>
+      <trkpt lat="48.85815" lon="11.80364"/>
+      <trkpt lat="48.85833" lon="11.80367"/>
+      <trkpt lat="48.85857" lon="11.80364"/>
+      <trkpt lat="48.85924" lon="11.80348"/>
+      <trkpt lat="48.86013" lon="11.80301"/>
+      <trkpt lat="48.86026" lon="11.80296"/>
+      <trkpt lat="48.86039" lon="11.80294"/>
+      <trkpt lat="48.86064" lon="11.80298">
+        <sym>Straight</sym>
+      </trkpt>
+      <trkpt lat="48.86077" lon="11.80298"/>
+      <trkpt lat="48.86179" lon="11.80323"/>
+      <trkpt lat="48.86214" lon="11.80326"/>
+      <trkpt lat="48.86239" lon="11.80325"/>
+      <trkpt lat="48.86284" lon="11.80316">
+        <sym>Straight</sym>
+      </trkpt>
+      <trkpt lat="48.86381" lon="11.80298">
+        <sym>Straight</sym>
+      </trkpt>
+      <trkpt lat="48.86636" lon="11.8025">
+        <sym>Straight</sym>
+      </trkpt>
+      <trkpt lat="48.8675" lon="11.80228">
+        <sym>Straight</sym>
+      </trkpt>
+      <trkpt lat="48.86836" lon="11.8021">
+        <sym>Straight</sym>
+      </trkpt>
+      <trkpt lat="48.87025" lon="11.80167">
+        <sym>Straight</sym>
+      </trkpt>
+      <trkpt lat="48.87154" lon="11.80159">
+        <sym>Straight</sym>
+      </trkpt>
+      <trkpt lat="48.87203" lon="11.80156"/>
+      <trkpt lat="48.87444" lon="11.8012">
+        <sym>Left_slight</sym>
+      </trkpt>
+      <trkpt lat="48.87542" lon="11.80063">
+        <sym>Straight</sym>
+      </trkpt>
+      <trkpt lat="48.87589" lon="11.80044"/>
+      <trkpt lat="48.87636" lon="11.8003">
+        <sym>Straight</sym>
+      </trkpt>
+      <trkpt lat="48.87785" lon="11.79994"/>
+      <trkpt lat="48.87804" lon="11.79991"/>
+      <trkpt lat="48.87867" lon="11.79993"/>
+      <trkpt lat="48.87905" lon="11.79999"/>
+      <trkpt lat="48.87927" lon="11.80011"/>
+      <trkpt lat="48.87971" lon="11.80044"/>
+      <trkpt lat="48.88004" lon="11.80074"/>
+      <trkpt lat="48.88026" lon="11.80102"/>
+      <trkpt lat="48.88044" lon="11.80137"/>
+      <trkpt lat="48.88099" lon="11.80297">
+        <sym>pass_place</sym>
+        <type>Shaping</type>
+      </trkpt>
+      <trkpt lat="48.88143" lon="11.80425"/>
+      <trkpt lat="48.88152" lon="11.80449"/>
+      <trkpt lat="48.88173" lon="11.80486">
+        <sym>Left_slight</sym>
+      </trkpt>
+      <trkpt lat="48.88202" lon="11.80501"/>
+      <trkpt lat="48.88226" lon="11.80504"/>
+      <trkpt lat="48.88329" lon="11.80496"/>
+      <trkpt lat="48.88413" lon="11.80507">
+        <cmt>Eininger Straße</cmt>
+        <sym>Straight</sym>
+      </trkpt>
+      <trkpt lat="48.88509" lon="11.80524"/>
+      <trkpt lat="48.88627" lon="11.80572"/>
+      <trkpt lat="48.88655" lon="11.80593"/>
+      <trkpt lat="48.88662" lon="11.80604"/>
+      <trkpt lat="48.88668" lon="11.80666"/>
+      <trkpt lat="48.88674" lon="11.80693"/>
+      <trkpt lat="48.88678" lon="11.80701"/>
+      <trkpt lat="48.88683" lon="11.80707"/>
+      <trkpt lat="48.88694" lon="11.80713">
+        <cmt>Ortsring</cmt>
+        <sym>Left_slight</sym>
+      </trkpt>
+      <trkpt lat="48.88713" lon="11.80716"/>
+      <trkpt lat="48.88718" lon="11.80719"/>
+      <trkpt lat="48.88733" lon="11.80738"/>
+      <trkpt lat="48.88745" lon="11.80764"/>
+      <trkpt lat="48.88747" lon="11.80776"/>
+      <trkpt lat="48.88752" lon="11.80838"/>
+      <trkpt lat="48.88751" lon="11.80854"/>
+      <trkpt lat="48.88748" lon="11.80882"/>
+      <trkpt lat="48.88744" lon="11.80896"/>
+      <trkpt lat="48.88729" lon="11.80926">
+        <cmt>Am Krautgarten</cmt>
+        <sym>Straight</sym>
+      </trkpt>
+      <trkpt lat="48.88714" lon="11.80962"/>
+      <trkpt lat="48.88699" lon="11.81005"/>
+      <trkpt lat="48.8869" lon="11.81057"/>
+      <trkpt lat="48.88688" lon="11.81133"/>
+      <trkpt lat="48.88693" lon="11.81189"/>
+      <trkpt lat="48.88721" lon="11.81408"/>
+      <trkpt lat="48.88727" lon="11.81483"/>
+      <trkpt lat="48.88729" lon="11.81562"/>
+      <trkpt lat="48.88725" lon="11.81602"/>
+      <trkpt lat="48.88699" lon="11.81747"/>
+      <trkpt lat="48.88697" lon="11.81809"/>
+      <trkpt lat="48.887" lon="11.81869">
+        <sym>Left</sym>
+      </trkpt>
+      <trkpt lat="48.88815" lon="11.81907">
+        <sym>Straight</sym>
+      </trkpt>
+      <trkpt lat="48.88825" lon="11.81911"/>
+      <trkpt lat="48.88867" lon="11.81917"/>
+      <trkpt lat="48.8892" lon="11.81931">
+        <sym>Right</sym>
+      </trkpt>
+      <trkpt lat="48.88939" lon="11.81979"/>
+      <trkpt lat="48.88952" lon="11.82022"/>
+      <trkpt lat="48.88958" lon="11.82032"/>
+      <trkpt lat="48.88973" lon="11.82052">
+        <sym>pass_place</sym>
+        <type>Shaping</type>
+      </trkpt>
+      <trkpt lat="48.89049" lon="11.82146"/>
+      <trkpt lat="48.89062" lon="11.8216"/>
+      <trkpt lat="48.89105" lon="11.82189"/>
+      <trkpt lat="48.89132" lon="11.8221"/>
+      <trkpt lat="48.89156" lon="11.82233">
+        <sym>Left_slight</sym>
+      </trkpt>
+      <trkpt lat="48.89192" lon="11.82253"/>
+      <trkpt lat="48.89238" lon="11.82271"/>
+      <trkpt lat="48.89248" lon="11.82277">
+        <sym>Straight</sym>
+      </trkpt>
+      <trkpt lat="48.89267" lon="11.8229"/>
+      <trkpt lat="48.89278" lon="11.82293">
+        <sym>Straight</sym>
+      </trkpt>
+      <trkpt lat="48.89296" lon="11.82295">
+        <sym>Left_slight</sym>
+      </trkpt>
+      <trkpt lat="48.89321" lon="11.82278">
+        <sym>Left_slight</sym>
+      </trkpt>
+      <trkpt lat="48.89331" lon="11.82272"/>
+      <trkpt lat="48.89336" lon="11.82271"/>
+      <trkpt lat="48.8934" lon="11.82272"/>
+      <trkpt lat="48.89349" lon="11.8228">
+        <cmt>Asamstraße</cmt>
+        <sym>Left</sym>
+      </trkpt>
+      <trkpt lat="48.89376" lon="11.82221"/>
+      <trkpt lat="48.89392" lon="11.82174"/>
+      <trkpt lat="48.894" lon="11.82156"/>
+      <trkpt lat="48.89414" lon="11.82143"/>
+      <trkpt lat="48.89485" lon="11.82093"/>
+      <trkpt lat="48.89502" lon="11.82084"/>
+      <trkpt lat="48.89643" lon="11.81957"/>
+      <trkpt lat="48.89732" lon="11.81914"/>
+      <trkpt lat="48.89785" lon="11.81899">
+        <cmt>Asamstraße</cmt>
+        <sym>Straight</sym>
+      </trkpt>
+      <trkpt lat="48.89807" lon="11.81889"/>
+      <trkpt lat="48.89818" lon="11.81887"/>
+      <trkpt lat="48.89854" lon="11.81891"/>
+      <trkpt lat="48.89908" lon="11.81913"/>
+      <trkpt lat="48.89917" lon="11.81923"/>
+      <trkpt lat="48.8992" lon="11.8193">
+        <sym>Straight</sym>
+      </trkpt>
+      <trkpt lat="48.89925" lon="11.81942"/>
+      <trkpt lat="48.89928" lon="11.81959"/>
+      <trkpt lat="48.89936" lon="11.82048"/>
+      <trkpt lat="48.8993" lon="11.82069"/>
+      <trkpt lat="48.89913" lon="11.82106">
+        <sym>Left_slight</sym>
+      </trkpt>
+      <trkpt lat="48.89894" lon="11.82151"/>
+      <trkpt lat="48.8987" lon="11.82193"/>
+      <trkpt lat="48.89807" lon="11.82292"/>
+      <trkpt lat="48.8975" lon="11.82396">
+        <sym>Left</sym>
+      </trkpt>
+      <trkpt lat="48.89758" lon="11.82406">
+        <cmt>Kelheim-Weltenburg</cmt>
+        <sym>Right_slight</sym>
+      </trkpt>
+      <trkpt lat="48.89775" lon="11.82462"/>
+      <trkpt lat="48.8976" lon="11.82501">
+        <cmt>Kelheim-Weltenburg</cmt>
+        <sym>Straight</sym>
+      </trkpt>
+      <trkpt lat="48.89752" lon="11.82522"/>
+      <trkpt lat="48.8974" lon="11.82623"/>
+      <trkpt lat="48.89757" lon="11.82707"/>
+      <trkpt lat="48.89857" lon="11.82993"/>
+      <trkpt lat="48.89863" lon="11.83076"/>
+      <trkpt lat="48.89859" lon="11.83087">
+        <cmt>Kelheim-Weltenburg</cmt>
+        <sym>pass_place</sym>
+        <type>Shaping</type>
+      </trkpt>
+      <trkpt lat="48.8981" lon="11.8323"/>
+      <trkpt lat="48.89806" lon="11.83302"/>
+      <trkpt lat="48.89821" lon="11.8335"/>
+      <trkpt lat="48.89881" lon="11.83474"/>
+      <trkpt lat="48.89949" lon="11.83573"/>
+      <trkpt lat="48.90014" lon="11.83633"/>
+      <trkpt lat="48.90065" lon="11.83706"/>
+      <trkpt lat="48.90098" lon="11.8378"/>
+      <trkpt lat="48.90175" lon="11.83986"/>
+      <trkpt lat="48.90392" lon="11.84571"/>
+      <trkpt lat="48.90448" lon="11.84727"/>
+      <trkpt lat="48.90664" lon="11.85107"/>
+      <trkpt lat="48.90881" lon="11.85295"/>
+      <trkpt lat="48.91344" lon="11.85314"/>
+      <trkpt lat="48.91436" lon="11.85355"/>
+      <trkpt lat="48.91545" lon="11.85524"/>
+      <trkpt lat="48.91618" lon="11.85742"/>
+      <trkpt lat="48.91644" lon="11.85937"/>
+      <trkpt lat="48.91648" lon="11.86092"/>
+      <trkpt lat="48.91593" lon="11.8662"/>
+      <trkpt lat="48.91517" lon="11.86955"/>
+      <trkpt lat="48.91533" lon="11.86971">
+        <sym>Straight</sym>
+      </trkpt>
+      <trkpt lat="48.91549" lon="11.86985">
+        <sym>Right</sym>
+      </trkpt>
+      <trkpt lat="48.91502" lon="11.87113">
+        <sym>pass_place</sym>
+        <type>Shaping</type>
+      </trkpt>
+      <trkpt lat="48.915" lon="11.87117"/>
+      <trkpt lat="48.91506" lon="11.87128">
+        <sym>Left</sym>
+      </trkpt>
+      <trkpt lat="48.91547" lon="11.87057">
+        <sym>Right_slight</sym>
+      </trkpt>
+      <trkpt lat="48.91565" lon="11.87029"/>
+      <trkpt lat="48.91579" lon="11.86998">
+        <sym>Straight</sym>
+      </trkpt>
+      <trkpt lat="48.91588" lon="11.86975">
+        <sym>Straight</sym>
+      </trkpt>
+      <trkpt lat="48.91595" lon="11.86955">
+        <sym>Straight</sym>
+      </trkpt>
+      <trkpt lat="48.91603" lon="11.86935">
+        <sym>Straight</sym>
+      </trkpt>
+      <trkpt lat="48.9161" lon="11.86916"/>
+      <trkpt lat="48.91615" lon="11.86914"/>
+      <trkpt lat="48.9162" lon="11.86914"/>
+      <trkpt lat="48.91634" lon="11.86928">
+        <cmt>Stadtknechtstraße</cmt>
+        <sym>pass_place</sym>
+        <type>Shaping</type>
+      </trkpt>
+      <trkpt lat="48.91641" lon="11.86935">
+        <cmt>Stadtknechtstraße</cmt>
+        <sym>pass_place</sym>
+      </trkpt>
+      <trkpt lat="48.91662" lon="11.86955">
+        <cmt>Bahnhofstraße, KEH 15</cmt>
+        <sym>Right</sym>
+      </trkpt>
+      <trkpt lat="48.91642" lon="11.86995">
+        <cmt>Bahnhofstraße, KEH 15</cmt>
+        <sym>pass_place</sym>
+        <type>Shaping</type>
+      </trkpt>
+      <trkpt lat="48.91611" lon="11.87058">
+        <cmt>Donaustraße</cmt>
+        <sym>Left</sym>
+      </trkpt>
+      <trkpt lat="48.91619" lon="11.87068">
+        <cmt>Donaustraße</cmt>
+        <sym>pass_place</sym>
+        <type>Shaping</type>
+      </trkpt>
+      <trkpt lat="48.91632" lon="11.87084"/>
+      <trkpt lat="48.91647" lon="11.87094"/>
+      <trkpt lat="48.91715" lon="11.87133"/>
+      <trkpt lat="48.91849" lon="11.87222"/>
+      <trkpt lat="48.91854" lon="11.87221">
+        <cmt>Altmühlstraße</cmt>
+        <sym>Right_slight</sym>
+      </trkpt>
+      <trkpt lat="48.92003" lon="11.87296">
+        <cmt>Torhausplatz</cmt>
+        <sym>Straight</sym>
+      </trkpt>
+      <trkpt lat="48.92031" lon="11.87313"/>
+      <trkpt lat="48.92036" lon="11.87314">
+        <cmt>Torhausplatz</cmt>
+        <sym>pass_place</sym>
+        <type>Shaping</type>
+      </trkpt>
+      <trkpt lat="48.92044" lon="11.87315">
+        <sym>Left_slight</sym>
+      </trkpt>
+      <trkpt lat="48.92047" lon="11.87311"/>
+      <trkpt lat="48.9206" lon="11.87271"/>
+      <trkpt lat="48.92066" lon="11.87263"/>
+      <trkpt lat="48.9208" lon="11.87258"/>
+      <trkpt lat="48.92089" lon="11.87259"/>
+      <trkpt lat="48.92096" lon="11.87263"/>
+      <trkpt lat="48.92107" lon="11.87278"/>
+      <trkpt lat="48.92111" lon="11.87287"/>
+      <trkpt lat="48.92113" lon="11.873"/>
+      <trkpt lat="48.92111" lon="11.8732"/>
+      <trkpt lat="48.92099" lon="11.87356">
+        <sym>Straight</sym>
+      </trkpt>
+      <trkpt lat="48.92092" lon="11.87378">
+        <sym>Straight</sym>
+      </trkpt>
+      <trkpt lat="48.92082" lon="11.87414">
+        <sym>Straight</sym>
+      </trkpt>
+      <trkpt lat="48.92069" lon="11.87449">
+        <sym>Left</sym>
+      </trkpt>
+      <trkpt lat="48.92075" lon="11.87469">
+        <cmt>Friedhofstraße</cmt>
+        <sym>Right</sym>
+      </trkpt>
+      <trkpt lat="48.92064" lon="11.87497"/>
+      <trkpt lat="48.92047" lon="11.87531">
+        <cmt>Friedhofstraße</cmt>
+        <sym>pass_place</sym>
+        <type>Shaping</type>
+      </trkpt>
+      <trkpt lat="48.92029" lon="11.87566"/>
+      <trkpt lat="48.91989" lon="11.87659">
+        <cmt>Friedhofstraße</cmt>
+        <sym>pass_place</sym>
+        <type>Shaping</type>
+      </trkpt>
+      <trkpt lat="48.91957" lon="11.8774"/>
+      <trkpt lat="48.91943" lon="11.87779">
+        <cmt>Friedhofstraße</cmt>
+        <sym>Right</sym>
+      </trkpt>
+      <trkpt lat="48.91919" lon="11.87783"/>
+      <trkpt lat="48.91908" lon="11.87775">
+        <sym>Left_slight</sym>
+      </trkpt>
+      <trkpt lat="48.91899" lon="11.87772"/>
+      <trkpt lat="48.91894" lon="11.87773"/>
+      <trkpt lat="48.91882" lon="11.87785"/>
+      <trkpt lat="48.91875" lon="11.87797"/>
+      <trkpt lat="48.91865" lon="11.87826">
+        <sym>Left_slight</sym>
+      </trkpt>
+      <trkpt lat="48.91861" lon="11.8783">
+        <sym>Right</sym>
+      </trkpt>
+      <trkpt lat="48.91859" lon="11.87834"/>
+      <trkpt lat="48.91831" lon="11.87838">
+        <sym>Left_slight</sym>
+      </trkpt>
+      <trkpt lat="48.91775" lon="11.879"/>
+      <trkpt lat="48.91741" lon="11.87927"/>
+      <trkpt lat="48.91602" lon="11.88049"/>
+      <trkpt lat="48.91593" lon="11.8806"/>
+      <trkpt lat="48.91579" lon="11.88094">
+        <sym>pass_place</sym>
+        <type>Shaping</type>
+      </trkpt>
+      <trkpt lat="48.91566" lon="11.88114">
+        <sym>Right_slight</sym>
+      </trkpt>
+      <trkpt lat="48.91539" lon="11.88138"/>
+      <trkpt lat="48.91505" lon="11.88171"/>
+      <trkpt lat="48.91436" lon="11.88245"/>
+      <trkpt lat="48.91391" lon="11.88301"/>
+      <trkpt lat="48.91348" lon="11.8836">
+        <sym>Straight</sym>
+      </trkpt>
+      <trkpt lat="48.91296" lon="11.88443"/>
+      <trkpt lat="48.91266" lon="11.88495"/>
+      <trkpt lat="48.91238" lon="11.88551">
+        <sym>Straight</sym>
+      </trkpt>
+      <trkpt lat="48.91213" lon="11.88605"/>
+      <trkpt lat="48.91186" lon="11.88667"/>
+      <trkpt lat="48.91155" lon="11.8875"/>
+      <trkpt lat="48.91136" lon="11.88807">
+        <sym>Straight</sym>
+      </trkpt>
+      <trkpt lat="48.91118" lon="11.88864"/>
+      <trkpt lat="48.91089" lon="11.88991"/>
+      <trkpt lat="48.91075" lon="11.89076"/>
+      <trkpt lat="48.91067" lon="11.89159">
+        <sym>Straight</sym>
+      </trkpt>
+      <trkpt lat="48.91066" lon="11.89163">
+        <sym>Right_slight</sym>
+      </trkpt>
+      <trkpt lat="48.91062" lon="11.89228"/>
+      <trkpt lat="48.91064" lon="11.89235"/>
+      <trkpt lat="48.91075" lon="11.89251">
+        <sym>Right</sym>
+      </trkpt>
+      <trkpt lat="48.91076" lon="11.89281"/>
+      <trkpt lat="48.91078" lon="11.89301"/>
+      <trkpt lat="48.91085" lon="11.89321"/>
+      <trkpt lat="48.91096" lon="11.89342"/>
+      <trkpt lat="48.91105" lon="11.89362"/>
+      <trkpt lat="48.9111" lon="11.89386"/>
+      <trkpt lat="48.91113" lon="11.89418"/>
+      <trkpt lat="48.91102" lon="11.89691"/>
+      <trkpt lat="48.91086" lon="11.89858"/>
+      <trkpt lat="48.91078" lon="11.89917"/>
+      <trkpt lat="48.91059" lon="11.89974"/>
+      <trkpt lat="48.91055" lon="11.89995"/>
+      <trkpt lat="48.91056" lon="11.90026"/>
+      <trkpt lat="48.91078" lon="11.90377">
+        <sym>Straight</sym>
+      </trkpt>
+      <trkpt lat="48.91081" lon="11.90424">
+        <sym>Straight</sym>
+      </trkpt>
+      <trkpt lat="48.91092" lon="11.90582"/>
+      <trkpt lat="48.91097" lon="11.90623">
+        <sym>Left_slight</sym>
+      </trkpt>
+      <trkpt lat="48.91107" lon="11.9065"/>
+      <trkpt lat="48.91112" lon="11.90657"/>
+      <trkpt lat="48.91133" lon="11.90678"/>
+      <trkpt lat="48.91137" lon="11.90684"/>
+      <trkpt lat="48.91141" lon="11.90696"/>
+      <trkpt lat="48.91143" lon="11.90717"/>
+      <trkpt lat="48.91153" lon="11.9085"/>
+      <trkpt lat="48.91153" lon="11.90869"/>
+      <trkpt lat="48.91151" lon="11.90892">
+        <sym>Left_slight</sym>
+      </trkpt>
+      <trkpt lat="48.91145" lon="11.90929">
+        <sym>pass_place</sym>
+        <type>Shaping</type>
+      </trkpt>
+      <trkpt lat="48.91143" lon="11.90965"/>
+      <trkpt lat="48.91168" lon="11.91216">
+        <sym>Left_slight</sym>
+      </trkpt>
+      <trkpt lat="48.9117" lon="11.91232"/>
+      <trkpt lat="48.9118" lon="11.91379"/>
+      <trkpt lat="48.9118" lon="11.91431">
+        <sym>Left_slight</sym>
+      </trkpt>
+      <trkpt lat="48.91192" lon="11.91496"/>
+      <trkpt lat="48.91191" lon="11.91521"/>
+      <trkpt lat="48.91187" lon="11.91546"/>
+      <trkpt lat="48.91188" lon="11.9156">
+        <sym>Left_slight</sym>
+      </trkpt>
+      <trkpt lat="48.91202" lon="11.91585"/>
+      <trkpt lat="48.91207" lon="11.916">
+        <sym>Left_slight</sym>
+      </trkpt>
+      <trkpt lat="48.91224" lon="11.91635">
+        <sym>Left_slight</sym>
+      </trkpt>
+      <trkpt lat="48.91228" lon="11.91638"/>
+      <trkpt lat="48.91245" lon="11.91637">
+        <cmt>Pfarrer-Plaß-Weg</cmt>
+        <sym>Straight</sym>
+      </trkpt>
+      <trkpt lat="48.91344" lon="11.91611">
+        <cmt>Dorfring</cmt>
+        <sym>Right</sym>
+      </trkpt>
+      <trkpt lat="48.91346" lon="11.91626">
+        <cmt>Dorfring</cmt>
+        <sym>pass_place</sym>
+        <type>Shaping</type>
+      </trkpt>
+      <trkpt lat="48.91361" lon="11.9171"/>
+      <trkpt lat="48.91368" lon="11.91743">
+        <cmt>Dorfring</cmt>
+        <sym>pass_place</sym>
+        <type>Shaping</type>
+      </trkpt>
+      <trkpt lat="48.91374" lon="11.91761"/>
+      <trkpt lat="48.91382" lon="11.91769"/>
+      <trkpt lat="48.91394" lon="11.91774"/>
+      <trkpt lat="48.91423" lon="11.91774"/>
+      <trkpt lat="48.9143" lon="11.91776">
+        <cmt>Kelheimwinzerstraße, KEH 15</cmt>
+        <sym>Right</sym>
+      </trkpt>
+      <trkpt lat="48.91429" lon="11.91822">
+        <cmt>Herrnsaaler Weg</cmt>
+        <sym>Right_slight</sym>
+      </trkpt>
+      <trkpt lat="48.9142" lon="11.91862"/>
+      <trkpt lat="48.91404" lon="11.91914">
+        <cmt>Herrnsaaler Weg</cmt>
+        <sym>pass_place</sym>
+        <type>Shaping</type>
+      </trkpt>
+      <trkpt lat="48.91396" lon="11.91938"/>
+      <trkpt lat="48.9138" lon="11.91972"/>
+      <trkpt lat="48.91362" lon="11.9202"/>
+      <trkpt lat="48.91352" lon="11.92062"/>
+      <trkpt lat="48.91352" lon="11.92081">
+        <sym>Straight</sym>
+      </trkpt>
+      <trkpt lat="48.91356" lon="11.92154">
+        <sym>Right</sym>
+      </trkpt>
+      <trkpt lat="48.91349" lon="11.9216">
+        <sym>Left</sym>
+      </trkpt>
+      <trkpt lat="48.91348" lon="11.92169">
+        <sym>Straight</sym>
+      </trkpt>
+      <trkpt lat="48.91347" lon="11.92217"/>
+      <trkpt lat="48.9134" lon="11.92251">
+        <sym>Straight</sym>
+      </trkpt>
+      <trkpt lat="48.91323" lon="11.92342">
+        <sym>Left_slight</sym>
+      </trkpt>
+      <trkpt lat="48.91323" lon="11.92378">
+        <sym>Right_slight</sym>
+      </trkpt>
+      <trkpt lat="48.91328" lon="11.92507"/>
+      <trkpt lat="48.9133" lon="11.92529">
+        <sym>Right</sym>
+      </trkpt>
+      <trkpt lat="48.91319" lon="11.92537"/>
+      <trkpt lat="48.91286" lon="11.92572"/>
+      <trkpt lat="48.91249" lon="11.92603"/>
+      <trkpt lat="48.91244" lon="11.92614"/>
+      <trkpt lat="48.91241" lon="11.92625"/>
+      <trkpt lat="48.91244" lon="11.92723"/>
+      <trkpt lat="48.91248" lon="11.92766"/>
+      <trkpt lat="48.91246" lon="11.9279">
+        <sym>pass_place</sym>
+        <type>Shaping</type>
+      </trkpt>
+      <trkpt lat="48.91224" lon="11.92954"/>
+      <trkpt lat="48.91216" lon="11.92991"/>
+      <trkpt lat="48.91207" lon="11.93095"/>
+      <trkpt lat="48.9119" lon="11.93222"/>
+      <trkpt lat="48.91161" lon="11.93355"/>
+      <trkpt lat="48.91131" lon="11.93464"/>
+      <trkpt lat="48.91006" lon="11.93781"/>
+      <trkpt lat="48.90896" lon="11.94066"/>
+      <trkpt lat="48.90843" lon="11.942"/>
+      <trkpt lat="48.90837" lon="11.94218"/>
+      <trkpt lat="48.90835" lon="11.94234"/>
+      <trkpt lat="48.90837" lon="11.9424"/>
+      <trkpt lat="48.90843" lon="11.94244">
+        <sym>Right_sharp</sym>
+      </trkpt>
+      <trkpt lat="48.90837" lon="11.94251"/>
+      <trkpt lat="48.90824" lon="11.94285">
+        <sym>pass_place</sym>
+        <type>Shaping</type>
+      </trkpt>
+      <trkpt lat="48.90806" lon="11.94335"/>
+      <trkpt lat="48.90796" lon="11.94376"/>
+      <trkpt lat="48.90782" lon="11.9442"/>
+      <trkpt lat="48.90757" lon="11.94521"/>
+      <trkpt lat="48.90755" lon="11.94542"/>
+      <trkpt lat="48.90757" lon="11.9455"/>
+      <trkpt lat="48.90759" lon="11.94555"/>
+      <trkpt lat="48.9077" lon="11.94573"/>
+      <trkpt lat="48.90774" lon="11.94584"/>
+      <trkpt lat="48.90776" lon="11.94594"/>
+      <trkpt lat="48.90778" lon="11.94631">
+        <cmt>Stiftstraße</cmt>
+        <sym>Right</sym>
+      </trkpt>
+      <trkpt lat="48.90768" lon="11.94647"/>
+      <trkpt lat="48.9076" lon="11.94669"/>
+      <trkpt lat="48.90742" lon="11.9474"/>
+      <trkpt lat="48.90737" lon="11.94772">
+        <sym>Right</sym>
+      </trkpt>
+      <trkpt lat="48.90682" lon="11.94762"/>
+      <trkpt lat="48.90672" lon="11.94764"/>
+      <trkpt lat="48.90668" lon="11.94769"/>
+      <trkpt lat="48.9065" lon="11.94815"/>
+      <trkpt lat="48.90599" lon="11.94951"/>
+      <trkpt lat="48.90587" lon="11.94966"/>
+      <trkpt lat="48.90562" lon="11.94981"/>
+      <trkpt lat="48.90555" lon="11.94992"/>
+      <trkpt lat="48.90542" lon="11.95045"/>
+      <trkpt lat="48.90517" lon="11.95194"/>
+      <trkpt lat="48.90502" lon="11.95325"/>
+      <trkpt lat="48.90497" lon="11.95419"/>
+      <trkpt lat="48.90494" lon="11.9549"/>
+      <trkpt lat="48.90496" lon="11.956">
+        <sym>pass_place</sym>
+        <type>Shaping</type>
+      </trkpt>
+      <trkpt lat="48.90499" lon="11.95648"/>
+      <trkpt lat="48.905" lon="11.95707"/>
+      <trkpt lat="48.90506" lon="11.95753"/>
+      <trkpt lat="48.90517" lon="11.95861"/>
+      <trkpt lat="48.90535" lon="11.95954"/>
+      <trkpt lat="48.90545" lon="11.95988"/>
+      <trkpt lat="48.90561" lon="11.96051"/>
+      <trkpt lat="48.90597" lon="11.96157"/>
+      <trkpt lat="48.90641" lon="11.96269"/>
+      <trkpt lat="48.90707" lon="11.96338"/>
+      <trkpt lat="48.90719" lon="11.96358"/>
+      <trkpt lat="48.90783" lon="11.96498"/>
+      <trkpt lat="48.90815" lon="11.96559"/>
+      <trkpt lat="48.90855" lon="11.96618"/>
+      <trkpt lat="48.90918" lon="11.96704"/>
+      <trkpt lat="48.90966" lon="11.96761"/>
+      <trkpt lat="48.91049" lon="11.96843"/>
+      <trkpt lat="48.91089" lon="11.96877"/>
+      <trkpt lat="48.91124" lon="11.96896">
+        <sym>pass_place</sym>
+        <type>Shaping</type>
+      </trkpt>
+      <trkpt lat="48.9115" lon="11.9691"/>
+      <trkpt lat="48.91214" lon="11.96924"/>
+      <trkpt lat="48.91278" lon="11.96919"/>
+      <trkpt lat="48.91295" lon="11.96914">
+        <sym>Straight</sym>
+      </trkpt>
+      <trkpt lat="48.91325" lon="11.96907"/>
+      <trkpt lat="48.91367" lon="11.96881"/>
+      <trkpt lat="48.91408" lon="11.96872"/>
+      <trkpt lat="48.9148" lon="11.96859">
+        <sym>Straight</sym>
+      </trkpt>
+      <trkpt lat="48.91553" lon="11.96851"/>
+      <trkpt lat="48.91604" lon="11.96864"/>
+      <trkpt lat="48.9165" lon="11.9688"/>
+      <trkpt lat="48.9168" lon="11.96893"/>
+      <trkpt lat="48.91708" lon="11.96911"/>
+      <trkpt lat="48.91848" lon="11.96972"/>
+      <trkpt lat="48.91877" lon="11.96988"/>
+      <trkpt lat="48.92021" lon="11.97049"/>
+      <trkpt lat="48.92098" lon="11.97109"/>
+      <trkpt lat="48.92131" lon="11.97132"/>
+      <trkpt lat="48.92136" lon="11.97126">
+        <cmt>Römerbruchstraße, KEH 15</cmt>
+        <sym>Right</sym>
+      </trkpt>
+      <trkpt lat="48.92165" lon="11.97158"/>
+      <trkpt lat="48.92197" lon="11.97201"/>
+      <trkpt lat="48.92397" lon="11.97493">
+        <cmt>Römerbruchstraße, KEH 15</cmt>
+        <sym>pass_place</sym>
+        <type>Shaping</type>
+      </trkpt>
+      <trkpt lat="48.92444" lon="11.97562"/>
+      <trkpt lat="48.92521" lon="11.97668"/>
+      <trkpt lat="48.92638" lon="11.97824"/>
+      <trkpt lat="48.9273" lon="11.97926"/>
+      <trkpt lat="48.9289" lon="11.98087">
+        <cmt>Am Jachthafen</cmt>
+        <sym>Right</sym>
+      </trkpt>
+      <trkpt lat="48.92881" lon="11.98113"/>
+      <trkpt lat="48.92882" lon="11.98131"/>
+      <trkpt lat="48.92896" lon="11.98187"/>
+      <trkpt lat="48.92933" lon="11.98407"/>
+      <trkpt lat="48.92956" lon="11.98492"/>
+      <trkpt lat="48.92988" lon="11.98585"/>
+      <trkpt lat="48.93036" lon="11.98691"/>
+      <trkpt lat="48.93083" lon="11.98802"/>
+      <trkpt lat="48.93087" lon="11.98814">
+        <cmt>Am Jachthafen</cmt>
+        <sym>pass_place</sym>
+        <type>Shaping</type>
+      </trkpt>
+      <trkpt lat="48.93115" lon="11.98912"/>
+      <trkpt lat="48.93133" lon="11.9898"/>
+      <trkpt lat="48.93167" lon="11.99154"/>
+      <trkpt lat="48.93196" lon="11.9932"/>
+      <trkpt lat="48.93201" lon="11.99363"/>
+      <trkpt lat="48.93209" lon="11.99469">
+        <cmt>Kanalstraße</cmt>
+        <sym>Straight</sym>
+      </trkpt>
+      <trkpt lat="48.93211" lon="11.99565"/>
+      <trkpt lat="48.9321" lon="11.99678"/>
+      <trkpt lat="48.93202" lon="11.99805"/>
+      <trkpt lat="48.93194" lon="11.99872"/>
+      <trkpt lat="48.9318" lon="11.9995"/>
+      <trkpt lat="48.93156" lon="12.00049"/>
+      <trkpt lat="48.93124" lon="12.00144"/>
+      <trkpt lat="48.93052" lon="12.00323"/>
+      <trkpt lat="48.93017" lon="12.00416"/>
+      <trkpt lat="48.92991" lon="12.00501"/>
+      <trkpt lat="48.92969" lon="12.00588"/>
+      <trkpt lat="48.92922" lon="12.00805">
+        <cmt>Kanalstraße</cmt>
+        <sym>Straight</sym>
+      </trkpt>
+      <trkpt lat="48.92879" lon="12.00961"/>
+      <trkpt lat="48.9287" lon="12.01007"/>
+      <trkpt lat="48.92869" lon="12.0105">
+        <cmt>Kanalstraße</cmt>
+        <sym>pass_place</sym>
+        <type>Shaping</type>
+      </trkpt>
+      <trkpt lat="48.92882" lon="12.01103">
+        <cmt>Am Yachthafen</cmt>
+        <sym>Left_slight</sym>
+      </trkpt>
+      <trkpt lat="48.92901" lon="12.01134"/>
+      <trkpt lat="48.92944" lon="12.01172"/>
+      <trkpt lat="48.93028" lon="12.01225">
+        <cmt>Dorfstraße</cmt>
+        <sym>Right</sym>
+      </trkpt>
+      <trkpt lat="48.93003" lon="12.01296"/>
+      <trkpt lat="48.92983" lon="12.01342">
+        <cmt>Dorfstraße</cmt>
+        <sym>pass_place</sym>
+        <type>Shaping</type>
+      </trkpt>
+      <trkpt lat="48.92962" lon="12.01389"/>
+      <trkpt lat="48.92956" lon="12.01405"/>
+      <trkpt lat="48.92953" lon="12.01426"/>
+      <trkpt lat="48.92951" lon="12.01482"/>
+      <trkpt lat="48.92947" lon="12.01493"/>
+      <trkpt lat="48.92931" lon="12.01509"/>
+      <trkpt lat="48.92928" lon="12.01522"/>
+      <trkpt lat="48.92932" lon="12.01568">
+        <cmt>Zur Donaubrücke</cmt>
+        <sym>Right</sym>
+      </trkpt>
+      <trkpt lat="48.92867" lon="12.01569">
+        <cmt>Brückenstraße, KEH 11</cmt>
+        <sym>Right</sym>
+      </trkpt>
+      <trkpt lat="48.92876" lon="12.0145"/>
+      <trkpt lat="48.92877" lon="12.01412"/>
+      <trkpt lat="48.92868" lon="12.01385"/>
+      <trkpt lat="48.92855" lon="12.0137"/>
+      <trkpt lat="48.9284" lon="12.01361"/>
+      <trkpt lat="48.92606" lon="12.01354">
+        <cmt>Brückenstraße, KEH 11</cmt>
+        <sym>pass_place</sym>
+        <type>Shaping</type>
+      </trkpt>
+      <trkpt lat="48.92576" lon="12.01353"/>
+      <trkpt lat="48.92555" lon="12.01356"/>
+      <trkpt lat="48.92532" lon="12.01368">
+        <cmt>Industriestraße</cmt>
+        <sym>Right</sym>
+      </trkpt>
+      <trkpt lat="48.92529" lon="12.0135"/>
+      <trkpt lat="48.92529" lon="12.01331"/>
+      <trkpt lat="48.92531" lon="12.0132">
+        <cmt>Industriestraße</cmt>
+        <sym>pass_place</sym>
+        <type>Shaping</type>
+      </trkpt>
+      <trkpt lat="48.92532" lon="12.01314"/>
+      <trkpt lat="48.9254" lon="12.01308"/>
+      <trkpt lat="48.92553" lon="12.013"/>
+      <trkpt lat="48.92578" lon="12.01295"/>
+      <trkpt lat="48.92588" lon="12.01289">
+        <sym>Right</sym>
+      </trkpt>
+      <trkpt lat="48.92597" lon="12.01305"/>
+      <trkpt lat="48.92601" lon="12.01341">
+        <sym>Right_slight</sym>
+      </trkpt>
+      <trkpt lat="48.92598" lon="12.0138">
+        <sym>Right</sym>
+      </trkpt>
+      <trkpt lat="48.92594" lon="12.01381">
+        <sym>pass_place</sym>
+        <type>Shaping</type>
+      </trkpt>
+      <trkpt lat="48.92557" lon="12.01382"/>
+      <trkpt lat="48.92553" lon="12.01386"/>
+      <trkpt lat="48.92557" lon="12.01432"/>
+      <trkpt lat="48.92554" lon="12.01457"/>
+      <trkpt lat="48.92539" lon="12.0149"/>
+      <trkpt lat="48.9252" lon="12.0152"/>
+      <trkpt lat="48.92514" lon="12.01537">
+        <sym>Left_slight</sym>
+      </trkpt>
+      <trkpt lat="48.92511" lon="12.01552"/>
+      <trkpt lat="48.92516" lon="12.01579"/>
+      <trkpt lat="48.92525" lon="12.01608">
+        <sym>Straight</sym>
+      </trkpt>
+      <trkpt lat="48.92534" lon="12.01631">
+        <sym>pass_place</sym>
+        <type>Shaping</type>
+      </trkpt>
+      <trkpt lat="48.92616" lon="12.01825"/>
+      <trkpt lat="48.92634" lon="12.01847"/>
+      <trkpt lat="48.92655" lon="12.01895"/>
+      <trkpt lat="48.92663" lon="12.01928"/>
+      <trkpt lat="48.92744" lon="12.021"/>
+      <trkpt lat="48.92755" lon="12.02139">
+        <sym>pass_place</sym>
+        <type>Shaping</type>
+      </trkpt>
+      <trkpt lat="48.92781" lon="12.02229"/>
+      <trkpt lat="48.92792" lon="12.02279"/>
+      <trkpt lat="48.92801" lon="12.02328"/>
+      <trkpt lat="48.92812" lon="12.02415"/>
+      <trkpt lat="48.92821" lon="12.02432"/>
+      <trkpt lat="48.92839" lon="12.02555"/>
+      <trkpt lat="48.92863" lon="12.02682"/>
+      <trkpt lat="48.92887" lon="12.02765">
+        <sym>Straight</sym>
+      </trkpt>
+      <trkpt lat="48.9292" lon="12.02856"/>
+      <trkpt lat="48.92983" lon="12.02973"/>
+      <trkpt lat="48.93043" lon="12.03091">
+        <sym>Straight</sym>
+      </trkpt>
+      <trkpt lat="48.93089" lon="12.03183"/>
+      <trkpt lat="48.93131" lon="12.03276">
+        <sym>Left_slight</sym>
+      </trkpt>
+      <trkpt lat="48.93157" lon="12.03299"/>
+      <trkpt lat="48.93172" lon="12.03322">
+        <sym>pass_place</sym>
+        <type>Shaping</type>
+      </trkpt>
+      <trkpt lat="48.93182" lon="12.03349"/>
+      <trkpt lat="48.932" lon="12.03427"/>
+      <trkpt lat="48.93221" lon="12.03469">
+        <sym>Right_sharp</sym>
+      </trkpt>
+      <trkpt lat="48.93203" lon="12.03453"/>
+      <trkpt lat="48.93189" lon="12.03436">
+        <sym>Left_slight</sym>
+      </trkpt>
+      <trkpt lat="48.93155" lon="12.03342"/>
+      <trkpt lat="48.93153" lon="12.03341"/>
+      <trkpt lat="48.93151" lon="12.03343"/>
+      <trkpt lat="48.93114" lon="12.03378">
+        <cmt>Kaiser-Karl-V.-Allee</cmt>
+        <sym>Left</sym>
+      </trkpt>
+      <trkpt lat="48.9314" lon="12.03434"/>
+      <trkpt lat="48.93211" lon="12.03574">
+        <cmt>Kaiser-Karl-V.-Allee</cmt>
+        <sym>pass_place</sym>
+        <type>Shaping</type>
+      </trkpt>
+      <trkpt lat="48.93212" lon="12.03577">
+        <cmt>Kaiser-Karl-V.-Allee</cmt>
+        <sym>Straight</sym>
+      </trkpt>
+      <trkpt lat="48.93244" lon="12.03632"/>
+      <trkpt lat="48.93311" lon="12.03732"/>
+      <trkpt lat="48.93364" lon="12.03801"/>
+      <trkpt lat="48.93436" lon="12.03886">
+        <cmt>Kaiser-Karl-V.-Allee</cmt>
+        <sym>pass_place</sym>
+        <type>Shaping</type>
+      </trkpt>
+      <trkpt lat="48.93456" lon="12.03913"/>
+      <trkpt lat="48.93464" lon="12.03934"/>
+      <trkpt lat="48.93466" lon="12.03946"/>
+      <trkpt lat="48.93466" lon="12.03975">
+        <cmt>Am Markt</cmt>
+        <sym>Left</sym>
+      </trkpt>
+      <trkpt lat="48.93485" lon="12.03982">
+        <cmt>Am Markt</cmt>
+        <sym>Straight</sym>
+      </trkpt>
+      <trkpt lat="48.93539" lon="12.04001">
+        <cmt>Am Markt</cmt>
+        <sym>Straight</sym>
+      </trkpt>
+      <trkpt lat="48.93575" lon="12.04016">
+        <cmt>Am Markt</cmt>
+        <sym>Straight</sym>
+      </trkpt>
+      <trkpt lat="48.93606" lon="12.0403">
+        <cmt>Am Markt</cmt>
+        <sym>Straight</sym>
+      </trkpt>
+      <trkpt lat="48.93651" lon="12.04055">
+        <cmt>Kaiser-Heinrich-II.-Straße</cmt>
+        <sym>Left_slight</sym>
+      </trkpt>
+      <trkpt lat="48.93689" lon="12.04056"/>
+      <trkpt lat="48.93734" lon="12.04072">
+        <cmt>Kaiser-Heinrich-II.-Straße</cmt>
+        <sym>pass_place</sym>
+        <type>Shaping</type>
+      </trkpt>
+      <trkpt lat="48.93801" lon="12.04076"/>
+      <trkpt lat="48.93836" lon="12.04081"/>
+      <trkpt lat="48.93881" lon="12.04096">
+        <cmt>Oberndorfer Straße</cmt>
+        <sym>Straight</sym>
+      </trkpt>
+      <trkpt lat="48.93891" lon="12.04097"/>
+      <trkpt lat="48.93915" lon="12.04095"/>
+      <trkpt lat="48.93942" lon="12.04066"/>
+      <trkpt lat="48.94012" lon="12.03965"/>
+      <trkpt lat="48.94057" lon="12.0389"/>
+      <trkpt lat="48.94073" lon="12.0385">
+        <cmt>Donaustraße</cmt>
+        <sym>Straight</sym>
+      </trkpt>
+      <trkpt lat="48.94093" lon="12.03794"/>
+      <trkpt lat="48.94114" lon="12.03722"/>
+      <trkpt lat="48.94129" lon="12.03663"/>
+      <trkpt lat="48.94138" lon="12.03616"/>
+      <trkpt lat="48.94143" lon="12.03559"/>
+      <trkpt lat="48.94153" lon="12.03499"/>
+      <trkpt lat="48.94182" lon="12.03395"/>
+      <trkpt lat="48.94272" lon="12.03052"/>
+      <trkpt lat="48.94295" lon="12.02985"/>
+      <trkpt lat="48.94312" lon="12.02948"/>
+      <trkpt lat="48.94469" lon="12.02665"/>
+      <trkpt lat="48.945" lon="12.02603"/>
+      <trkpt lat="48.9451" lon="12.02579"/>
+      <trkpt lat="48.94523" lon="12.02541"/>
+      <trkpt lat="48.94544" lon="12.02457"/>
+      <trkpt lat="48.94554" lon="12.02401"/>
+      <trkpt lat="48.94557" lon="12.02344"/>
+      <trkpt lat="48.94586" lon="12.02205"/>
+      <trkpt lat="48.94608" lon="12.02134"/>
+      <trkpt lat="48.94667" lon="12.02021"/>
+      <trkpt lat="48.94727" lon="12.01878"/>
+      <trkpt lat="48.94747" lon="12.01851"/>
+      <trkpt lat="48.94795" lon="12.01724"/>
+      <trkpt lat="48.94809" lon="12.01681"/>
+      <trkpt lat="48.94828" lon="12.01648"/>
+      <trkpt lat="48.94859" lon="12.01577"/>
+      <trkpt lat="48.94883" lon="12.01497"/>
+      <trkpt lat="48.94911" lon="12.01438"/>
+      <trkpt lat="48.95071" lon="12.01211"/>
+      <trkpt lat="48.95102" lon="12.01157"/>
+      <trkpt lat="48.95132" lon="12.01099"/>
+      <trkpt lat="48.95162" lon="12.01028"/>
+      <trkpt lat="48.95179" lon="12.00981"/>
+      <trkpt lat="48.9519" lon="12.00933">
+        <cmt>Donaustraße</cmt>
+        <sym>pass_place</sym>
+        <type>Shaping</type>
+      </trkpt>
+      <trkpt lat="48.95198" lon="12.00872"/>
+      <trkpt lat="48.95205" lon="12.00775"/>
+      <trkpt lat="48.95202" lon="12.00699"/>
+      <trkpt lat="48.95191" lon="12.00626"/>
+      <trkpt lat="48.95168" lon="12.00512">
+        <sym>Straight</sym>
+      </trkpt>
+      <trkpt lat="48.95157" lon="12.00461">
+        <sym>Straight</sym>
+      </trkpt>
+      <trkpt lat="48.951" lon="12.0018"/>
+      <trkpt lat="48.95088" lon="12.00113"/>
+      <trkpt lat="48.95073" lon="11.99995"/>
+      <trkpt lat="48.95067" lon="11.99868"/>
+      <trkpt lat="48.95071" lon="11.99764">
+        <sym>Straight</sym>
+      </trkpt>
+      <trkpt lat="48.95074" lon="11.99741">
+        <sym>Straight</sym>
+      </trkpt>
+      <trkpt lat="48.95079" lon="11.99698"/>
+      <trkpt lat="48.95104" lon="11.99545">
+        <sym>Left</sym>
+      </trkpt>
+      <trkpt lat="48.95099" lon="11.99542">
+        <sym>Straight</sym>
+      </trkpt>
+      <trkpt lat="48.95093" lon="11.99537"/>
+      <trkpt lat="48.9509" lon="11.99529"/>
+      <trkpt lat="48.95098" lon="11.99477"/>
+      <trkpt lat="48.95109" lon="11.99418"/>
+      <trkpt lat="48.95109" lon="11.99385">
+        <sym>pass_place</sym>
+        <type>Shaping</type>
+      </trkpt>
+      <trkpt lat="48.9511" lon="11.99361"/>
+      <trkpt lat="48.95119" lon="11.99275"/>
+      <trkpt lat="48.95134" lon="11.99169"/>
+      <trkpt lat="48.9514" lon="11.99143"/>
+      <trkpt lat="48.95142" lon="11.99093"/>
+      <trkpt lat="48.95152" lon="11.99061"/>
+      <trkpt lat="48.95177" lon="11.99011"/>
+      <trkpt lat="48.95244" lon="11.9891"/>
+      <trkpt lat="48.95299" lon="11.98861"/>
+      <trkpt lat="48.9534" lon="11.98832"/>
+      <trkpt lat="48.95363" lon="11.98821"/>
+      <trkpt lat="48.95424" lon="11.98805"/>
+      <trkpt lat="48.95467" lon="11.98807"/>
+      <trkpt lat="48.95499" lon="11.98815"/>
+      <trkpt lat="48.95545" lon="11.98831"/>
+      <trkpt lat="48.95692" lon="11.98893"/>
+      <trkpt lat="48.95806" lon="11.98958">
+        <sym>Straight</sym>
+      </trkpt>
+      <trkpt lat="48.9588" lon="11.99016"/>
+      <trkpt lat="48.9595" lon="11.99086"/>
+      <trkpt lat="48.96006" lon="11.99149">
+        <sym>pass_place</sym>
+        <type>Shaping</type>
+      </trkpt>
+      <trkpt lat="48.96019" lon="11.99164"/>
+      <trkpt lat="48.96074" lon="11.99246"/>
+      <trkpt lat="48.96139" lon="11.99363"/>
+      <trkpt lat="48.9617" lon="11.99425"/>
+      <trkpt lat="48.96228" lon="11.99552"/>
+      <trkpt lat="48.96256" lon="11.99617">
+        <sym>Straight</sym>
+      </trkpt>
+      <trkpt lat="48.96305" lon="11.99748"/>
+      <trkpt lat="48.96379" lon="11.99974"/>
+      <trkpt lat="48.96433" lon="12.00142"/>
+      <trkpt lat="48.96462" lon="12.00252"/>
+      <trkpt lat="48.96481" lon="12.00303"/>
+      <trkpt lat="48.96494" lon="12.00325"/>
+      <trkpt lat="48.96506" lon="12.00338"/>
+      <trkpt lat="48.96511" lon="12.00355">
+        <sym>Straight</sym>
+      </trkpt>
+      <trkpt lat="48.96514" lon="12.00373">
+        <cmt>Fährenweg</cmt>
+        <sym>Right</sym>
+      </trkpt>
+      <trkpt lat="48.96495" lon="12.00404">
+        <cmt>An der Donau</cmt>
+        <sym>Left</sym>
+      </trkpt>
+      <trkpt lat="48.96501" lon="12.00414"/>
+      <trkpt lat="48.96507" lon="12.00434"/>
+      <trkpt lat="48.96508" lon="12.00463"/>
+      <trkpt lat="48.96532" lon="12.00565">
+        <cmt>An der Donau</cmt>
+        <sym>pass_place</sym>
+        <type>Shaping</type>
+      </trkpt>
+      <trkpt lat="48.96608" lon="12.00911"/>
+      <trkpt lat="48.96644" lon="12.01133">
+        <sym>Left_slight</sym>
+      </trkpt>
+      <trkpt lat="48.96649" lon="12.01147"/>
+      <trkpt lat="48.96657" lon="12.01155"/>
+      <trkpt lat="48.96702" lon="12.01166"/>
+      <trkpt lat="48.9671" lon="12.01173">
+        <sym>Straight</sym>
+      </trkpt>
+      <trkpt lat="48.96711" lon="12.01174"/>
+      <trkpt lat="48.9672" lon="12.01228">
+        <sym>Straight</sym>
+      </trkpt>
+      <trkpt lat="48.96748" lon="12.01441">
+        <sym>pass_place</sym>
+        <type>Shaping</type>
+      </trkpt>
+      <trkpt lat="48.96776" lon="12.01652"/>
+      <trkpt lat="48.96813" lon="12.01884"/>
+      <trkpt lat="48.96844" lon="12.02102"/>
+      <trkpt lat="48.96856" lon="12.0216">
+        <sym>Straight</sym>
+      </trkpt>
+      <trkpt lat="48.96873" lon="12.02237"/>
+      <trkpt lat="48.96905" lon="12.02339"/>
+      <trkpt lat="48.96934" lon="12.02426"/>
+      <trkpt lat="48.96999" lon="12.02597">
+        <sym>pass_place</sym>
+        <type>Shaping</type>
+      </trkpt>
+      <trkpt lat="48.97029" lon="12.02676"/>
+      <trkpt lat="48.97068" lon="12.02772"/>
+      <trkpt lat="48.97169" lon="12.02994"/>
+      <trkpt lat="48.97249" lon="12.03179"/>
+      <trkpt lat="48.97363" lon="12.03382"/>
+      <trkpt lat="48.97435" lon="12.03499"/>
+      <trkpt lat="48.97442" lon="12.03518">
+        <sym>Left_slight</sym>
+      </trkpt>
+      <trkpt lat="48.9749" lon="12.03557"/>
+      <trkpt lat="48.97535" lon="12.03602"/>
+      <trkpt lat="48.97557" lon="12.03621"/>
+      <trkpt lat="48.97587" lon="12.03643"/>
+      <trkpt lat="48.97629" lon="12.03679"/>
+      <trkpt lat="48.97664" lon="12.03716"/>
+      <trkpt lat="48.97727" lon="12.03779"/>
+      <trkpt lat="48.97755" lon="12.03833">
+        <sym>Left_slight</sym>
+      </trkpt>
+      <trkpt lat="48.97776" lon="12.0385"/>
+      <trkpt lat="48.98072" lon="12.0415"/>
+      <trkpt lat="48.98229" lon="12.04299"/>
+      <trkpt lat="48.983" lon="12.0435"/>
+      <trkpt lat="48.98402" lon="12.04419"/>
+      <trkpt lat="48.98418" lon="12.04439">
+        <sym>Straight</sym>
+      </trkpt>
+      <trkpt lat="48.98444" lon="12.04469"/>
+      <trkpt lat="48.98528" lon="12.04534"/>
+      <trkpt lat="48.9856" lon="12.04561"/>
+      <trkpt lat="48.98652" lon="12.04664">
+        <sym>Straight</sym>
+      </trkpt>
+      <trkpt lat="48.98679" lon="12.0469"/>
+      <trkpt lat="48.98714" lon="12.04717">
+        <sym>pass_place</sym>
+        <type>Shaping</type>
+      </trkpt>
+      <trkpt lat="48.98751" lon="12.04733"/>
+      <trkpt lat="48.98854" lon="12.04753"/>
+      <trkpt lat="48.98973" lon="12.04766"/>
+      <trkpt lat="48.98987" lon="12.04766">
+        <sym>Straight</sym>
+      </trkpt>
+      <trkpt lat="48.99009" lon="12.04765"/>
+      <trkpt lat="48.99102" lon="12.0473"/>
+      <trkpt lat="48.99118" lon="12.04715"/>
+      <trkpt lat="48.99154" lon="12.04649"/>
+      <trkpt lat="48.99166" lon="12.04634"/>
+      <trkpt lat="48.99183" lon="12.04624"/>
+      <trkpt lat="48.99324" lon="12.04568"/>
+      <trkpt lat="48.99421" lon="12.04522"/>
+      <trkpt lat="48.99506" lon="12.04485">
+        <sym>Straight</sym>
+      </trkpt>
+      <trkpt lat="48.99555" lon="12.04455"/>
+      <trkpt lat="48.9963" lon="12.04401"/>
+      <trkpt lat="48.99729" lon="12.0431"/>
+      <trkpt lat="48.99854" lon="12.04182"/>
+      <trkpt lat="48.99863" lon="12.04178"/>
+      <trkpt lat="48.99867" lon="12.04181"/>
+      <trkpt lat="48.99874" lon="12.04194"/>
+      <trkpt lat="48.99881" lon="12.042"/>
+      <trkpt lat="48.99889" lon="12.04198"/>
+      <trkpt lat="49.00005" lon="12.04069"/>
+      <trkpt lat="49.00038" lon="12.04021">
+        <sym>pass_place</sym>
+        <type>Shaping</type>
+      </trkpt>
+      <trkpt lat="49.0004" lon="12.04019">
+        <sym>pass_place</sym>
+      </trkpt>
+      <trkpt lat="49.00079" lon="12.0397"/>
+      <trkpt lat="49.00189" lon="12.03806"/>
+      <trkpt lat="49.00263" lon="12.03703"/>
+      <trkpt lat="49.00291" lon="12.0366"/>
+      <trkpt lat="49.00393" lon="12.03529"/>
+      <trkpt lat="49.00514" lon="12.03404">
+        <sym>Straight</sym>
+      </trkpt>
+      <trkpt lat="49.00562" lon="12.03337">
+        <sym>Straight</sym>
+      </trkpt>
+      <trkpt lat="49.00615" lon="12.03275"/>
+      <trkpt lat="49.00618" lon="12.03274"/>
+      <trkpt lat="49.00623" lon="12.03276"/>
+      <trkpt lat="49.00628" lon="12.0329"/>
+      <trkpt lat="49.00635" lon="12.03295">
+        <cmt>Donau-Radwanderweg</cmt>
+        <sym>Left_sharp</sym>
+      </trkpt>
+      <trkpt lat="49.00639" lon="12.03249"/>
+      <trkpt lat="49.00643" lon="12.03241"/>
+      <trkpt lat="49.00743" lon="12.03116">
+        <cmt>Donau-Radwanderweg</cmt>
+        <sym>Straight</sym>
+      </trkpt>
+      <trkpt lat="49.00769" lon="12.03082"/>
+      <trkpt lat="49.00802" lon="12.03048"/>
+      <trkpt lat="49.00834" lon="12.0302"/>
+      <trkpt lat="49.00884" lon="12.02985"/>
+      <trkpt lat="49.00912" lon="12.02968">
+        <cmt>Donau-Radwanderweg</cmt>
+        <sym>pass_place</sym>
+        <type>Shaping</type>
+      </trkpt>
+      <trkpt lat="49.00939" lon="12.02951"/>
+      <trkpt lat="49.01007" lon="12.02925"/>
+      <trkpt lat="49.01069" lon="12.02913"/>
+      <trkpt lat="49.01097" lon="12.0291"/>
+      <trkpt lat="49.01146" lon="12.02914"/>
+      <trkpt lat="49.01175" lon="12.02922"/>
+      <trkpt lat="49.01202" lon="12.02934">
+        <cmt>Donau-Radwanderweg</cmt>
+        <sym>Straight</sym>
+      </trkpt>
+      <trkpt lat="49.01241" lon="12.02953"/>
+      <trkpt lat="49.01334" lon="12.0302"/>
+      <trkpt lat="49.01406" lon="12.03129">
+        <cmt>Donau-Radwanderweg</cmt>
+        <sym>Straight</sym>
+      </trkpt>
+      <trkpt lat="49.01526" lon="12.03279">
+        <cmt>Donau-Radwanderweg</cmt>
+        <sym>Straight</sym>
+      </trkpt>
+      <trkpt lat="49.01637" lon="12.03416"/>
+      <trkpt lat="49.01733" lon="12.03554">
+        <cmt>Donau-Radwanderweg</cmt>
+        <sym>Straight</sym>
+      </trkpt>
+      <trkpt lat="49.01799" lon="12.03651">
+        <cmt>Donau-Radwanderweg</cmt>
+        <sym>pass_place</sym>
+        <type>Shaping</type>
+      </trkpt>
+      <trkpt lat="49.01918" lon="12.03825"/>
+      <trkpt lat="49.02134" lon="12.04147">
+        <cmt>Donau-Radwanderweg</cmt>
+        <sym>Straight</sym>
+      </trkpt>
+      <trkpt lat="49.02269" lon="12.04348">
+        <cmt>Donau-Radwanderweg</cmt>
+        <sym>Straight</sym>
+      </trkpt>
+      <trkpt lat="49.02348" lon="12.04468"/>
+      <trkpt lat="49.02364" lon="12.04494"/>
+      <trkpt lat="49.02375" lon="12.04522">
+        <cmt>Donau-Radwanderweg</cmt>
+        <sym>Straight</sym>
+      </trkpt>
+      <trkpt lat="49.02387" lon="12.04548">
+        <cmt>Donau-Radwanderweg</cmt>
+        <sym>Straight</sym>
+      </trkpt>
+      <trkpt lat="49.02446" lon="12.0464">
+        <cmt>Donau-Radwanderweg</cmt>
+        <sym>Straight</sym>
+      </trkpt>
+      <trkpt lat="49.02526" lon="12.04768"/>
+      <trkpt lat="49.02561" lon="12.04829"/>
+      <trkpt lat="49.02621" lon="12.04939"/>
+      <trkpt lat="49.02683" lon="12.05066">
+        <cmt>Donau-Radwanderweg</cmt>
+        <sym>Straight</sym>
+      </trkpt>
+      <trkpt lat="49.0273" lon="12.05169"/>
+      <trkpt lat="49.02781" lon="12.0529"/>
+      <trkpt lat="49.02818" lon="12.05365"/>
+      <trkpt lat="49.02831" lon="12.054">
+        <cmt>Donau-Radwanderweg</cmt>
+        <sym>Straight</sym>
+      </trkpt>
+      <trkpt lat="49.02844" lon="12.0545"/>
+      <trkpt lat="49.02849" lon="12.05481">
+        <cmt>Donau-Radwanderweg</cmt>
+        <sym>Straight</sym>
+      </trkpt>
+      <trkpt lat="49.0285" lon="12.05485">
+        <cmt>Donau-Radwanderweg</cmt>
+        <sym>Straight</sym>
+      </trkpt>
+      <trkpt lat="49.02856" lon="12.05509"/>
+      <trkpt lat="49.02884" lon="12.05596">
+        <cmt>Donau-Radwanderweg</cmt>
+        <sym>Straight</sym>
+      </trkpt>
+      <trkpt lat="49.02894" lon="12.05629">
+        <cmt>Donau-Radwanderweg</cmt>
+        <sym>Straight</sym>
+      </trkpt>
+      <trkpt lat="49.02906" lon="12.05673">
+        <cmt>Donau-Radwanderweg</cmt>
+        <sym>Straight</sym>
+      </trkpt>
+      <trkpt lat="49.02941" lon="12.05799"/>
+      <trkpt lat="49.02973" lon="12.05931">
+        <cmt>Donau-Radwanderweg</cmt>
+        <sym>Straight</sym>
+      </trkpt>
+      <trkpt lat="49.02996" lon="12.06027"/>
+      <trkpt lat="49.03025" lon="12.06222"/>
+      <trkpt lat="49.03029" lon="12.06316"/>
+      <trkpt lat="49.03034" lon="12.06451">
+        <cmt>Donau-Radwanderweg</cmt>
+        <sym>Straight</sym>
+      </trkpt>
+      <trkpt lat="49.03034" lon="12.06498">
+        <cmt>Donau-Radwanderweg</cmt>
+        <sym>Straight</sym>
+      </trkpt>
+      <trkpt lat="49.03033" lon="12.06552"/>
+      <trkpt lat="49.03031" lon="12.066"/>
+      <trkpt lat="49.03025" lon="12.06691"/>
+      <trkpt lat="49.0302" lon="12.06732">
+        <cmt>Donau-Radwanderweg</cmt>
+        <sym>Straight</sym>
+      </trkpt>
+      <trkpt lat="49.03013" lon="12.06786"/>
+      <trkpt lat="49.02997" lon="12.06877"/>
+      <trkpt lat="49.02972" lon="12.06992">
+        <cmt>Donau-Radwanderweg</cmt>
+        <sym>Straight</sym>
+      </trkpt>
+      <trkpt lat="49.02943" lon="12.07116"/>
+      <trkpt lat="49.02924" lon="12.07186">
+        <sym>Right</sym>
+      </trkpt>
+      <trkpt lat="49.0292" lon="12.07183">
+        <name>End</name>
+        <sym>pass_place</sym>
+        <type>Via</type>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

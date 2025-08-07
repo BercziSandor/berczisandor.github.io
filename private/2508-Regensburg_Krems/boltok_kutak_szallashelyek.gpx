@@ -1,0 +1,1339 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<gpx version="1.1" creator="Locus Map, Android"
+ xmlns="http://www.topografix.com/GPX/1/1"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd"
+ xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3"
+ xmlns:gpxtrkx="http://www.garmin.com/xmlschemas/TrackStatsExtension/v1"
+ xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v2"
+ xmlns:locus="http://www.locusmap.eu">
+	<metadata>
+		<desc>File with points/tracks from Locus Map Classic/3.69.2</desc>
+		<time>2023-08-21T02:02:31.281Z</time>
+	</metadata>
+<wpt lat="48.8091230" lon="11.7646410">
+	<ele>354.00</ele>
+	<time>2023-07-21T13:42:50.334Z</time>
+	<name>0 Neustadt</name>
+	<desc><![CDATA[<!-- desc_gen:start -->
+<font color="#ff000000"><table width="100%"><tr><td><table width="100%"><tr><td align="left" valign="center"><small><b>Magasság</b></small></td><td align="center" valign="center">354 m</td></tr>
+<tr><td align="left" valign="center"><small><b>Létrehozva</b></small></td><td align="center" valign="center">2023-07-21 16:56:39</td></tr>
+</table></td></tr></table></font>
+<!-- desc_gen:end -->]]></desc>
+</wpt>
+<wpt lat="49.0295600" lon="12.0706100">
+	<ele>333.00</ele>
+	<time>2023-07-21T13:42:50.334Z</time>
+	<name>1 Regensburg</name>
+	<desc><![CDATA[<!-- desc_gen:start -->
+<font color="#ff000000"><table width="100%"><tr><td><table width="100%"><tr><td align="left" valign="center"><small><b>Magasság</b></small></td><td align="center" valign="center">333 m</td></tr>
+<tr><td align="left" valign="center"><small><b>Létrehozva</b></small></td><td align="center" valign="center">2023-07-21 16:57:48</td></tr>
+</table></td></tr><tr><td><table width="100%"></table></td></tr></table></font>
+<!-- desc_gen:end -->]]></desc>
+	<sym>tourism-campingsite</sym>
+</wpt>
+<wpt lat="48.8875500" lon="12.5672470">
+	<ele>316.00</ele>
+	<time>2023-07-21T13:53:57.433Z</time>
+	<name>2 Straubing</name>
+	<desc><![CDATA[<!-- desc_gen:start -->
+<font color="#ff000000"><table width="100%"><tr><td><table width="100%"><tr><td align="left" valign="center"><small><b>Magasság</b></small></td><td align="center" valign="center">316 m</td></tr>
+<tr><td align="left" valign="center"><small><b>Létrehozva</b></small></td><td align="center" valign="center">2023-07-21 16:58:09</td></tr>
+</table></td></tr><tr><td><table width="100%"></table></td></tr></table></font>
+<!-- desc_gen:end -->]]></desc>
+	<sym>tourism-campingsite</sym>
+</wpt>
+<wpt lat="48.5820440" lon="13.4732390">
+	<ele>304.00</ele>
+	<time>2023-07-21T13:53:57.433Z</time>
+	<name>3 Passau</name>
+	<desc><![CDATA[<!-- desc_gen:start -->
+<font color="#ff000000"><table width="100%"><tr><td><table width="100%"><tr><td align="left" valign="center"><small><b>Magasság</b></small></td><td align="center" valign="center">304 m</td></tr>
+<tr><td align="left" valign="center"><small><b>Létrehozva</b></small></td><td align="center" valign="center">2023-07-21 16:58:23</td></tr>
+</table></td></tr><tr><td><table width="100%"></table></td></tr></table></font>
+<!-- desc_gen:end -->]]></desc>
+	<sym>tourism-campingsite</sym>
+</wpt>
+<wpt lat="48.4490110" lon="13.8642170">
+	<ele>282.00</ele>
+	<time>2023-07-21T13:53:57.433Z</time>
+	<name>4 Inzell</name>
+	<desc><![CDATA[<!-- desc_gen:start -->
+<font color="#ff000000"><table width="100%"><tr><td><table width="100%"><tr><td align="left" valign="center"><small><b>Magasság</b></small></td><td align="center" valign="center">282 m</td></tr>
+<tr><td align="left" valign="center"><small><b>Létrehozva</b></small></td><td align="center" valign="center">2023-07-21 16:58:53</td></tr>
+</table></td></tr><tr><td><table width="100%"></table></td></tr></table></font>
+<!-- desc_gen:end -->]]></desc>
+	<sym>tourism-campingsite</sym>
+</wpt>
+<wpt lat="48.8875500" lon="12.5672470">
+	<ele>316.34</ele>
+	<time>2023-07-21T13:53:57.433Z</time>
+	<name>Vereinsheim Straubinger Kanuclub e.V. 44</name>
+	<desc><![CDATA[<!-- desc_gen:start -->
+<font color="#ff000000"><table width="100%"><tr><td><table width="100%"><tr><td align="left" valign="center"><small><b>Magasság</b></small></td><td align="center" valign="center">316 m</td></tr>
+<tr><td align="left" valign="center"><small><b>Létrehozva</b></small></td><td align="center" valign="center">2023-08-20 20:54:22</td></tr>
+</table></td></tr><tr><td><table width="100%"></table></td></tr></table></font>
+<!-- desc_gen:end -->]]></desc>
+	<sym>tourism-campingsite</sym>
+</wpt>
+<wpt lat="48.4490110" lon="13.8642170">
+	<ele>281.58</ele>
+	<time>2023-07-21T13:53:57.433Z</time>
+	<name>Camp, caravan</name>
+	<desc><![CDATA[<!-- desc_gen:start -->
+<font color="#ff000000"><table width="100%"><tr><td><table width="100%"><tr><td align="left" valign="center"><small><b>Magasság</b></small></td><td align="center" valign="center">282 m</td></tr>
+<tr><td align="left" valign="center"><small><b>Létrehozva</b></small></td><td align="center" valign="center">2023-08-20 20:54:22</td></tr>
+</table></td></tr><tr><td><table width="100%"></table></td></tr></table></font>
+<!-- desc_gen:end -->]]></desc>
+	<sym>tourism-campingsite</sym>
+</wpt>
+<wpt lat="49.0248120" lon="12.0614010">
+	<time>2023-08-19T03:16:36.787Z</time>
+	<name>Netto Marken-Discount</name>
+	<desc><![CDATA[<!-- desc_gen:start -->
+<font color="#ff000000"><table width="100%"><tr><td><table width="100%"><tr><td align="left" valign="center"><small><b>URL</b></small></td><td align="center" valign="center"><a href="https://www.openstreetmap.org/node/320935096" target="_blank">További infó az Openstreetmap.org-on</a></td></tr>
+<tr><td align="left" valign="center"><small><b>URL</b></small></td><td align="center" valign="center"><a href="http://www.netto-online.de" target="_blank">Weboldal</a></td></tr>
+<tr><td colspan="2"><hr></td></tr></table></td></tr></table></font>
+<!-- desc_gen:end -->]]></desc>
+	<link href="http://www.netto-online.de">
+	</link>
+	<link href="https://www.openstreetmap.org/node/320935096">
+		<text>További infó az Openstreetmap.org-on</text>
+	</link>
+	<sym>stores-convenience</sym>
+</wpt>
+<wpt lat="49.0208900" lon="12.0721960">
+	<time>2023-08-19T03:16:36.797Z</time>
+	<name>Netto Marken-Discount 2</name>
+	<desc><![CDATA[<!-- desc_gen:start -->
+<font color="#ff000000"><table width="100%"><tr><td><table width="100%"><tr><td align="left" valign="center"><small><b>URL</b></small></td><td align="center" valign="center"><a href="https://www.openstreetmap.org/way/96217100" target="_blank">További infó az Openstreetmap.org-on</a></td></tr>
+<tr><td align="left" valign="center"><small><b>URL</b></small></td><td align="center" valign="center"><a href="https://www.netto-online.de" target="_blank">Weboldal</a></td></tr>
+<tr><td colspan="2"><hr></td></tr></table></td></tr></table></font>
+<!-- desc_gen:end -->]]></desc>
+	<link href="https://www.netto-online.de">
+	</link>
+	<link href="https://www.openstreetmap.org/way/96217100">
+		<text>További infó az Openstreetmap.org-on</text>
+	</link>
+	<sym>stores-convenience</sym>
+</wpt>
+<wpt lat="49.0311470" lon="12.2240430">
+	<ele>395.00</ele>
+	<time>2023-08-19T03:30:45.416Z</time>
+	<name>Walhalla</name>
+	<desc><![CDATA[<!-- desc_gen:start -->
+<font color="#ff000000"><table width="100%"><tr><td><table width="100%"><tr><td align="left" valign="center"><small><b>Magasság</b></small></td><td align="center" valign="center">395 m</td></tr>
+<tr><td align="left" valign="center"><small><b>Létrehozva</b></small></td><td align="center" valign="center">2023-08-19 05:31:00</td></tr>
+</table></td></tr><tr><td><table width="100%"><tr><td align="left" valign="center"><small><b>URL</b></small></td><td align="center" valign="center"><a href="https://www.openstreetmap.org/way/600728544" target="_blank">További infó az Openstreetmap.org-on</a></td></tr>
+<tr><td align="left" valign="center"><small><b>URL</b></small></td><td align="center" valign="center"><a href="http://www.walhalla-regensburg.de" target="_blank">Weboldal</a></td></tr>
+<tr><td colspan="2"><hr></td></tr></table></td></tr></table></font>
+<!-- desc_gen:end -->]]></desc>
+	<link href="http://www.walhalla-regensburg.de">
+	</link>
+	<link href="https://www.openstreetmap.org/way/600728544">
+		<text>További infó az Openstreetmap.org-on</text>
+	</link>
+</wpt>
+<wpt lat="49.0288900" lon="12.1046500">
+	<ele>332.00</ele>
+	<time>2023-08-20T04:48:17.323Z</time>
+	<name>Netto Marken-Discount x</name>
+	<desc><![CDATA[<!-- desc_gen:start -->
+<font color="#ff000000"><table width="100%"><tr><td><table width="100%"><tr><td align="left" valign="center"><small><b>Magasság</b></small></td><td align="center" valign="center">332 m</td></tr>
+<tr><td align="left" valign="center"><small><b>Létrehozva</b></small></td><td align="center" valign="center">2023-08-20 20:52:08</td></tr>
+</table></td></tr><tr><td><table width="100%"><tr><td align="left" valign="center"><small><b>URL</b></small></td><td align="center" valign="center"><a href="https://www.openstreetmap.org/way/113120297" target="_blank">További infó az Openstreetmap.org-on</a></td></tr>
+<tr><td align="left" valign="center"><small><b>URL</b></small></td><td align="center" valign="center"><a href="https://www.netto-online.de" target="_blank">Weboldal</a></td></tr>
+<tr><td colspan="2"><hr></td></tr></table></td></tr></table></font>
+<!-- desc_gen:end -->]]></desc>
+	<link href="https://www.netto-online.de">
+	</link>
+	<link href="https://www.openstreetmap.org/way/113120297">
+		<text>További infó az Openstreetmap.org-on</text>
+	</link>
+	<sym>stores-convenience</sym>
+</wpt>
+<wpt lat="48.8799780" lon="12.5645750">
+	<ele>332.00</ele>
+	<time>2023-08-20T04:53:13.330Z</time>
+	<name>Rewe Straubing</name>
+	<desc><![CDATA[<!-- desc_gen:start -->
+<font color="#ff000000"><table width="100%"><tr><td><table width="100%"><tr><td align="left" valign="center"><small><b>Magasság</b></small></td><td align="center" valign="center">332 m</td></tr>
+<tr><td align="left" valign="center"><small><b>Létrehozva</b></small></td><td align="center" valign="center">2023-08-20 20:52:08</td></tr>
+</table></td></tr><tr><td><table width="100%"><tr><td align="left" valign="center"><small><b>URL</b></small></td><td align="center" valign="center"><a href="https://www.openstreetmap.org/node/1433956316" target="_blank">További infó az Openstreetmap.org-on</a></td></tr>
+<tr><td align="left" valign="center"><small><b>URL</b></small></td><td align="center" valign="center"><a href="https://rewe.de" target="_blank">Weboldal</a></td></tr>
+<tr><td colspan="2"><hr></td></tr></table></td></tr></table></font>
+<!-- desc_gen:end -->]]></desc>
+	<link href="https://rewe.de">
+	</link>
+	<link href="https://www.openstreetmap.org/node/1433956316">
+		<text>További infó az Openstreetmap.org-on</text>
+	</link>
+	<sym>stores-convenience</sym>
+</wpt>
+<wpt lat="48.8893070" lon="12.5776700">
+	<ele>317.00</ele>
+	<time>2023-08-20T04:54:50.471Z</time>
+	<name>Aldi Süd Straubing</name>
+	<desc><![CDATA[<!-- desc_gen:start -->
+<font color="#ff000000"><table width="100%"><tr><td><table width="100%"><tr><td align="left" valign="center"><small><b>Magasság</b></small></td><td align="center" valign="center">317 m</td></tr>
+<tr><td align="left" valign="center"><small><b>Létrehozva</b></small></td><td align="center" valign="center">2023-08-20 20:53:53</td></tr>
+</table></td></tr><tr><td><table width="100%"><tr><td align="left" valign="center"><small><b>URL</b></small></td><td align="center" valign="center"><a href="https://www.openstreetmap.org/way/81111463" target="_blank">További infó az Openstreetmap.org-on</a></td></tr>
+<tr><td align="left" valign="center"><small><b>URL</b></small></td><td align="center" valign="center"><a href="https://aldi-sued.de" target="_blank">Weboldal</a></td></tr>
+<tr><td colspan="2"><hr></td></tr></table></td></tr></table></font>
+<!-- desc_gen:end -->]]></desc>
+	<link href="https://aldi-sued.de">
+	</link>
+	<link href="https://www.openstreetmap.org/way/81111463">
+		<text>További infó az Openstreetmap.org-on</text>
+	</link>
+	<sym>stores-convenience</sym>
+</wpt>
+<wpt lat="48.9092510" lon="12.6855550">
+	<ele>316.00</ele>
+	<time>2023-08-20T04:56:18.124Z</time>
+	<name>Norma Bogen</name>
+	<desc><![CDATA[<!-- desc_gen:start -->
+<font color="#ff000000"><table width="100%"><tr><td><table width="100%"><tr><td align="left" valign="center"><small><b>Magasság</b></small></td><td align="center" valign="center">316 m</td></tr>
+<tr><td align="left" valign="center"><small><b>Létrehozva</b></small></td><td align="center" valign="center">2023-08-20 20:52:08</td></tr>
+</table></td></tr><tr><td><table width="100%"><tr><td align="left" valign="center"><small><b>URL</b></small></td><td align="center" valign="center"><a href="https://www.openstreetmap.org/way/158055766" target="_blank">További infó az Openstreetmap.org-on</a></td></tr>
+<tr><td colspan="2"><hr></td></tr></table></td></tr></table></font>
+<!-- desc_gen:end -->]]></desc>
+	<link href="https://www.openstreetmap.org/way/158055766">
+		<text>További infó az Openstreetmap.org-on</text>
+	</link>
+	<sym>stores-convenience</sym>
+</wpt>
+<wpt lat="48.4015782" lon="15.5805337">
+	<ele>196.92</ele>
+	<time>2023-08-20T05:41:46.000Z</time>
+	<name>WILLma</name>
+	<desc><![CDATA[<!-- desc_gen:start -->
+<font color="#ff000000"><table width="100%"><tr><td><table width="100%"><tr><td align="left" valign="center"><small><b>Magasság</b></small></td><td align="center" valign="center">197 m</td></tr>
+<tr><td align="left" valign="center"><small><b>Létrehozva</b></small></td><td align="center" valign="center">2023-08-20 20:52:08</td></tr>
+</table></td></tr><tr><td><table width="100%"></table></td></tr></table></font>
+<!-- desc_gen:end -->]]></desc>
+	<sym>stores-convenience</sym>
+</wpt>
+<wpt lat="48.3645361" lon="15.4174179">
+	<ele>205.89</ele>
+	<time>2023-08-20T05:42:08.000Z</time>
+	<name>Spar</name>
+	<desc><![CDATA[<!-- desc_gen:start -->
+<font color="#ff000000"><table width="100%"><tr><td><table width="100%"><tr><td align="left" valign="center"><small><b>Magasság</b></small></td><td align="center" valign="center">206 m</td></tr>
+<tr><td align="left" valign="center"><small><b>Létrehozva</b></small></td><td align="center" valign="center">2023-08-20 20:52:08</td></tr>
+</table></td></tr><tr><td><table width="100%"></table></td></tr></table></font>
+<!-- desc_gen:end -->]]></desc>
+	<sym>stores-convenience</sym>
+</wpt>
+<wpt lat="48.2937618" lon="15.4022902">
+	<ele>211.62</ele>
+	<time>2023-08-20T05:41:24.000Z</time>
+	<name>Nah &amp; Frisch</name>
+	<desc><![CDATA[<!-- desc_gen:start -->
+<font color="#ff000000"><table width="100%"><tr><td><table width="100%"><tr><td align="left" valign="center"><small><b>Magasság</b></small></td><td align="center" valign="center">212 m</td></tr>
+<tr><td align="left" valign="center"><small><b>Létrehozva</b></small></td><td align="center" valign="center">2023-08-20 20:52:08</td></tr>
+</table></td></tr><tr><td><table width="100%"></table></td></tr></table></font>
+<!-- desc_gen:end -->]]></desc>
+	<sym>stores-convenience</sym>
+</wpt>
+<wpt lat="48.2122699" lon="15.2077603">
+	<ele>215.88</ele>
+	<time>2023-08-20T18:44:32.000Z</time>
+	<name>Drinking water</name>
+	<desc><![CDATA[<!-- desc_gen:start -->
+<font color="#ff000000"><table width="100%"><tr><td><table width="100%"><tr><td align="left" valign="center"><small><b>Magasság</b></small></td><td align="center" valign="center">216 m</td></tr>
+<tr><td align="left" valign="center"><small><b>Létrehozva</b></small></td><td align="center" valign="center">2023-08-20 20:53:04</td></tr>
+</table></td></tr><tr><td><table width="100%"></table></td></tr></table></font>
+<!-- desc_gen:end -->]]></desc>
+	<sym>tourism-drinkingwater</sym>
+</wpt>
+<wpt lat="48.2113155" lon="15.2039087">
+	<ele>213.81</ele>
+	<time>2023-08-20T05:39:51.000Z</time>
+	<name>PENNY</name>
+	<desc><![CDATA[<!-- desc_gen:start -->
+<font color="#ff000000"><table width="100%"><tr><td><table width="100%"><tr><td align="left" valign="center"><small><b>Magasság</b></small></td><td align="center" valign="center">214 m</td></tr>
+<tr><td align="left" valign="center"><small><b>Létrehozva</b></small></td><td align="center" valign="center">2023-08-20 20:52:08</td></tr>
+</table></td></tr><tr><td><table width="100%"></table></td></tr></table></font>
+<!-- desc_gen:end -->]]></desc>
+	<sym>stores-convenience</sym>
+</wpt>
+<wpt lat="48.1751082" lon="15.0844485">
+	<ele>218.99</ele>
+	<time>2023-08-20T05:38:43.000Z</time>
+	<name>Lidl</name>
+	<desc><![CDATA[<!-- desc_gen:start -->
+<font color="#ff000000"><table width="100%"><tr><td><table width="100%"><tr><td align="left" valign="center"><small><b>Magasság</b></small></td><td align="center" valign="center">219 m</td></tr>
+<tr><td align="left" valign="center"><small><b>Létrehozva</b></small></td><td align="center" valign="center">2023-08-20 20:52:08</td></tr>
+</table></td></tr><tr><td><table width="100%"></table></td></tr></table></font>
+<!-- desc_gen:end -->]]></desc>
+	<sym>stores-convenience</sym>
+</wpt>
+<wpt lat="48.1716703" lon="15.0851512">
+	<ele>219.87</ele>
+	<time>2023-08-20T05:38:51.000Z</time>
+	<name>Billa</name>
+	<desc><![CDATA[<!-- desc_gen:start -->
+<font color="#ff000000"><table width="100%"><tr><td><table width="100%"><tr><td align="left" valign="center"><small><b>Magasság</b></small></td><td align="center" valign="center">220 m</td></tr>
+<tr><td align="left" valign="center"><small><b>Létrehozva</b></small></td><td align="center" valign="center">2023-08-20 20:53:53</td></tr>
+</table></td></tr><tr><td><table width="100%"></table></td></tr></table></font>
+<!-- desc_gen:end -->]]></desc>
+	<sym>stores-convenience</sym>
+</wpt>
+<wpt lat="48.1880885" lon="15.0673467">
+	<ele>234.37</ele>
+	<time>2023-08-20T18:41:06.000Z</time>
+	<name>Drinking water</name>
+	<desc><![CDATA[<!-- desc_gen:start -->
+<font color="#ff000000"><table width="100%"><tr><td><table width="100%"><tr><td align="left" valign="center"><small><b>Magasság</b></small></td><td align="center" valign="center">234 m</td></tr>
+<tr><td align="left" valign="center"><small><b>Létrehozva</b></small></td><td align="center" valign="center">2023-08-20 20:53:04</td></tr>
+</table></td></tr><tr><td><table width="100%"></table></td></tr></table></font>
+<!-- desc_gen:end -->]]></desc>
+	<sym>tourism-drinkingwater</sym>
+</wpt>
+<wpt lat="48.1678028" lon="15.0864762">
+	<ele>218.61</ele>
+	<time>2023-08-20T05:39:14.000Z</time>
+	<name>Hofer</name>
+	<desc><![CDATA[<!-- desc_gen:start -->
+<font color="#ff000000"><table width="100%"><tr><td><table width="100%"><tr><td align="left" valign="center"><small><b>Magasság</b></small></td><td align="center" valign="center">219 m</td></tr>
+<tr><td align="left" valign="center"><small><b>Létrehozva</b></small></td><td align="center" valign="center">2023-08-20 20:52:08</td></tr>
+</table></td></tr><tr><td><table width="100%"></table></td></tr></table></font>
+<!-- desc_gen:end -->]]></desc>
+	<sym>stores-convenience</sym>
+</wpt>
+<wpt lat="48.1957200" lon="14.9791986">
+	<ele>228.36</ele>
+	<time>2023-08-20T18:40:31.000Z</time>
+	<name>Drinking water</name>
+	<desc><![CDATA[<!-- desc_gen:start -->
+<font color="#ff000000"><table width="100%"><tr><td><table width="100%"><tr><td align="left" valign="center"><small><b>Magasság</b></small></td><td align="center" valign="center">228 m</td></tr>
+<tr><td align="left" valign="center"><small><b>Létrehozva</b></small></td><td align="center" valign="center">2023-08-20 20:53:04</td></tr>
+</table></td></tr><tr><td><table width="100%"></table></td></tr></table></font>
+<!-- desc_gen:end -->]]></desc>
+	<sym>tourism-drinkingwater</sym>
+</wpt>
+<wpt lat="48.1957450" lon="14.7267866">
+	<ele>235.15</ele>
+	<time>2023-08-20T18:40:04.000Z</time>
+	<name>Drinking water</name>
+	<desc><![CDATA[<!-- desc_gen:start -->
+<font color="#ff000000"><table width="100%"><tr><td><table width="100%"><tr><td align="left" valign="center"><small><b>Magasság</b></small></td><td align="center" valign="center">235 m</td></tr>
+<tr><td align="left" valign="center"><small><b>Létrehozva</b></small></td><td align="center" valign="center">2023-08-20 20:53:04</td></tr>
+</table></td></tr><tr><td><table width="100%"></table></td></tr></table></font>
+<!-- desc_gen:end -->]]></desc>
+	<sym>tourism-drinkingwater</sym>
+</wpt>
+<wpt lat="48.1712803" lon="14.6947718">
+	<ele>238.72</ele>
+	<time>2023-08-20T18:39:58.000Z</time>
+	<name>Drinking water</name>
+	<desc><![CDATA[<!-- desc_gen:start -->
+<font color="#ff000000"><table width="100%"><tr><td><table width="100%"><tr><td align="left" valign="center"><small><b>Magasság</b></small></td><td align="center" valign="center">239 m</td></tr>
+<tr><td align="left" valign="center"><small><b>Létrehozva</b></small></td><td align="center" valign="center">2023-08-20 20:53:04</td></tr>
+</table></td></tr><tr><td><table width="100%"></table></td></tr></table></font>
+<!-- desc_gen:end -->]]></desc>
+	<sym>tourism-drinkingwater</sym>
+</wpt>
+<wpt lat="48.2383193" lon="14.5399332">
+	<ele>243.99</ele>
+	<time>2023-08-20T05:36:35.000Z</time>
+	<name>Eurospar</name>
+	<desc><![CDATA[<!-- desc_gen:start -->
+<font color="#ff000000"><table width="100%"><tr><td><table width="100%"><tr><td align="left" valign="center"><small><b>Magasság</b></small></td><td align="center" valign="center">244 m</td></tr>
+<tr><td align="left" valign="center"><small><b>Létrehozva</b></small></td><td align="center" valign="center">2023-08-20 20:52:22</td></tr>
+</table></td></tr><tr><td><table width="100%"></table></td></tr></table></font>
+<!-- desc_gen:end -->]]></desc>
+	<sym>stores-convenience</sym>
+</wpt>
+<wpt lat="48.2404987" lon="14.5352125">
+	<ele>244.33</ele>
+	<time>2023-08-20T05:36:28.000Z</time>
+	<name>Penny</name>
+	<desc><![CDATA[<!-- desc_gen:start -->
+<font color="#ff000000"><table width="100%"><tr><td><table width="100%"><tr><td align="left" valign="center"><small><b>Magasság</b></small></td><td align="center" valign="center">244 m</td></tr>
+<tr><td align="left" valign="center"><small><b>Létrehozva</b></small></td><td align="center" valign="center">2023-08-20 20:52:08</td></tr>
+</table></td></tr><tr><td><table width="100%"></table></td></tr></table></font>
+<!-- desc_gen:end -->]]></desc>
+	<sym>stores-convenience</sym>
+</wpt>
+<wpt lat="48.2405023" lon="14.5305187">
+	<ele>248.18</ele>
+	<time>2023-08-20T05:36:19.000Z</time>
+	<name>Hofer</name>
+	<desc><![CDATA[<!-- desc_gen:start -->
+<font color="#ff000000"><table width="100%"><tr><td><table width="100%"><tr><td align="left" valign="center"><small><b>Magasság</b></small></td><td align="center" valign="center">248 m</td></tr>
+<tr><td align="left" valign="center"><small><b>Létrehozva</b></small></td><td align="center" valign="center">2023-08-20 20:52:08</td></tr>
+</table></td></tr><tr><td><table width="100%"></table></td></tr></table></font>
+<!-- desc_gen:end -->]]></desc>
+	<sym>stores-convenience</sym>
+</wpt>
+<wpt lat="48.2398235" lon="14.5279974">
+	<ele>244.75</ele>
+	<time>2023-08-20T05:36:15.000Z</time>
+	<name>McDonald&apos;s</name>
+	<desc><![CDATA[<!-- desc_gen:start -->
+<font color="#ff000000"><table width="100%"><tr><td><table width="100%"><tr><td align="left" valign="center"><small><b>Magasság</b></small></td><td align="center" valign="center">245 m</td></tr>
+<tr><td align="left" valign="center"><small><b>Létrehozva</b></small></td><td align="center" valign="center">2023-08-20 20:52:08</td></tr>
+</table></td></tr><tr><td><table width="100%"></table></td></tr></table></font>
+<!-- desc_gen:end -->]]></desc>
+	<sym>stores-convenience</sym>
+</wpt>
+<wpt lat="48.2399092" lon="14.5265114">
+	<ele>244.88</ele>
+	<time>2023-08-20T05:36:06.000Z</time>
+	<name>Billa</name>
+	<desc><![CDATA[<!-- desc_gen:start -->
+<font color="#ff000000"><table width="100%"><tr><td><table width="100%"><tr><td align="left" valign="center"><small><b>Magasság</b></small></td><td align="center" valign="center">245 m</td></tr>
+<tr><td align="left" valign="center"><small><b>Létrehozva</b></small></td><td align="center" valign="center">2023-08-20 20:53:53</td></tr>
+</table></td></tr><tr><td><table width="100%"></table></td></tr></table></font>
+<!-- desc_gen:end -->]]></desc>
+	<sym>stores-convenience</sym>
+</wpt>
+<wpt lat="48.2465827" lon="14.5018673">
+	<ele>248.64</ele>
+	<time>2023-08-20T05:35:56.000Z</time>
+	<name>Lidl</name>
+	<desc><![CDATA[<!-- desc_gen:start -->
+<font color="#ff000000"><table width="100%"><tr><td><table width="100%"><tr><td align="left" valign="center"><small><b>Magasság</b></small></td><td align="center" valign="center">249 m</td></tr>
+<tr><td align="left" valign="center"><small><b>Létrehozva</b></small></td><td align="center" valign="center">2023-08-20 20:52:08</td></tr>
+</table></td></tr><tr><td><table width="100%"></table></td></tr></table></font>
+<!-- desc_gen:end -->]]></desc>
+	<sym>stores-convenience</sym>
+</wpt>
+<wpt lat="48.2529553" lon="14.4749755">
+	<ele>249.38</ele>
+	<time>2023-08-20T05:35:48.000Z</time>
+	<name>Unimarkt</name>
+	<desc><![CDATA[<!-- desc_gen:start -->
+<font color="#ff000000"><table width="100%"><tr><td><table width="100%"><tr><td align="left" valign="center"><small><b>Magasság</b></small></td><td align="center" valign="center">249 m</td></tr>
+<tr><td align="left" valign="center"><small><b>Létrehozva</b></small></td><td align="center" valign="center">2023-08-20 20:52:08</td></tr>
+</table></td></tr><tr><td><table width="100%"></table></td></tr></table></font>
+<!-- desc_gen:end -->]]></desc>
+	<sym>stores-convenience</sym>
+</wpt>
+<wpt lat="48.2635769" lon="14.4537270">
+	<ele>247.94</ele>
+	<time>2023-08-20T05:35:34.000Z</time>
+	<name>Billa</name>
+	<desc><![CDATA[<!-- desc_gen:start -->
+<font color="#ff000000"><table width="100%"><tr><td><table width="100%"><tr><td align="left" valign="center"><small><b>Magasság</b></small></td><td align="center" valign="center">248 m</td></tr>
+<tr><td align="left" valign="center"><small><b>Létrehozva</b></small></td><td align="center" valign="center">2023-08-20 20:53:53</td></tr>
+</table></td></tr><tr><td><table width="100%"></table></td></tr></table></font>
+<!-- desc_gen:end -->]]></desc>
+	<sym>stores-convenience</sym>
+</wpt>
+<wpt lat="48.2655517" lon="14.4527400">
+	<ele>251.75</ele>
+	<time>2023-08-20T05:35:36.000Z</time>
+	<name>Spar</name>
+	<desc><![CDATA[<!-- desc_gen:start -->
+<font color="#ff000000"><table width="100%"><tr><td><table width="100%"><tr><td align="left" valign="center"><small><b>Magasság</b></small></td><td align="center" valign="center">252 m</td></tr>
+<tr><td align="left" valign="center"><small><b>Létrehozva</b></small></td><td align="center" valign="center">2023-08-20 20:52:08</td></tr>
+</table></td></tr><tr><td><table width="100%"></table></td></tr></table></font>
+<!-- desc_gen:end -->]]></desc>
+	<sym>stores-convenience</sym>
+</wpt>
+<wpt lat="48.3194594" lon="14.3294388">
+	<ele>253.76</ele>
+	<time>2023-08-20T18:38:17.000Z</time>
+	<name>Drinking water</name>
+	<desc><![CDATA[<!-- desc_gen:start -->
+<font color="#ff000000"><table width="100%"><tr><td><table width="100%"><tr><td align="left" valign="center"><small><b>Magasság</b></small></td><td align="center" valign="center">254 m</td></tr>
+<tr><td align="left" valign="center"><small><b>Létrehozva</b></small></td><td align="center" valign="center">2023-08-20 20:53:04</td></tr>
+</table></td></tr><tr><td><table width="100%"></table></td></tr></table></font>
+<!-- desc_gen:end -->]]></desc>
+	<sym>tourism-drinkingwater</sym>
+</wpt>
+<wpt lat="48.3206258" lon="14.2965013">
+	<ele>254.22</ele>
+	<time>2023-08-20T18:38:06.000Z</time>
+	<name>Drinking water</name>
+	<desc><![CDATA[<!-- desc_gen:start -->
+<font color="#ff000000"><table width="100%"><tr><td><table width="100%"><tr><td align="left" valign="center"><small><b>Magasság</b></small></td><td align="center" valign="center">254 m</td></tr>
+<tr><td align="left" valign="center"><small><b>Létrehozva</b></small></td><td align="center" valign="center">2023-08-20 20:53:04</td></tr>
+</table></td></tr><tr><td><table width="100%"></table></td></tr></table></font>
+<!-- desc_gen:end -->]]></desc>
+	<sym>tourism-drinkingwater</sym>
+</wpt>
+<wpt lat="48.3061698" lon="14.2726028">
+	<ele>255.60</ele>
+	<time>2023-08-20T18:37:54.000Z</time>
+	<name>Drinking water</name>
+	<desc><![CDATA[<!-- desc_gen:start -->
+<font color="#ff000000"><table width="100%"><tr><td><table width="100%"><tr><td align="left" valign="center"><small><b>Magasság</b></small></td><td align="center" valign="center">256 m</td></tr>
+<tr><td align="left" valign="center"><small><b>Létrehozva</b></small></td><td align="center" valign="center">2023-08-20 20:53:04</td></tr>
+</table></td></tr><tr><td><table width="100%"></table></td></tr></table></font>
+<!-- desc_gen:end -->]]></desc>
+	<sym>tourism-drinkingwater</sym>
+</wpt>
+<wpt lat="48.3103408" lon="14.2342955">
+	<ele>264.06</ele>
+	<time>2023-08-20T05:35:04.000Z</time>
+	<name>Eurospar</name>
+	<desc><![CDATA[<!-- desc_gen:start -->
+<font color="#ff000000"><table width="100%"><tr><td><table width="100%"><tr><td align="left" valign="center"><small><b>Magasság</b></small></td><td align="center" valign="center">264 m</td></tr>
+<tr><td align="left" valign="center"><small><b>Létrehozva</b></small></td><td align="center" valign="center">2023-08-20 20:52:08</td></tr>
+</table></td></tr><tr><td><table width="100%"></table></td></tr></table></font>
+<!-- desc_gen:end -->]]></desc>
+	<sym>stores-convenience</sym>
+</wpt>
+<wpt lat="48.3117964" lon="14.2288291">
+	<ele>265.79</ele>
+	<time>2023-08-20T05:34:57.000Z</time>
+	<name>Spar Express</name>
+	<desc><![CDATA[<!-- desc_gen:start -->
+<font color="#ff000000"><table width="100%"><tr><td><table width="100%"><tr><td align="left" valign="center"><small><b>Magasság</b></small></td><td align="center" valign="center">266 m</td></tr>
+<tr><td align="left" valign="center"><small><b>Létrehozva</b></small></td><td align="center" valign="center">2023-08-20 20:52:08</td></tr>
+</table></td></tr><tr><td><table width="100%"></table></td></tr></table></font>
+<!-- desc_gen:end -->]]></desc>
+	<sym>stores-convenience</sym>
+</wpt>
+<wpt lat="48.3740406" lon="14.0282696">
+	<ele>269.27</ele>
+	<time>2023-08-20T18:37:18.000Z</time>
+	<name>Drinking water</name>
+	<desc><![CDATA[<!-- desc_gen:start -->
+<font color="#ff000000"><table width="100%"><tr><td><table width="100%"><tr><td align="left" valign="center"><small><b>Magasság</b></small></td><td align="center" valign="center">269 m</td></tr>
+<tr><td align="left" valign="center"><small><b>Létrehozva</b></small></td><td align="center" valign="center">2023-08-20 20:53:04</td></tr>
+</table></td></tr><tr><td><table width="100%"></table></td></tr></table></font>
+<!-- desc_gen:end -->]]></desc>
+	<sym>tourism-drinkingwater</sym>
+</wpt>
+<wpt lat="48.3686061" lon="14.0266925">
+	<ele>266.57</ele>
+	<time>2023-08-20T18:37:22.000Z</time>
+	<name>Drinking water</name>
+	<desc><![CDATA[<!-- desc_gen:start -->
+<font color="#ff000000"><table width="100%"><tr><td><table width="100%"><tr><td align="left" valign="center"><small><b>Magasság</b></small></td><td align="center" valign="center">267 m</td></tr>
+<tr><td align="left" valign="center"><small><b>Létrehozva</b></small></td><td align="center" valign="center">2023-08-20 20:53:04</td></tr>
+</table></td></tr><tr><td><table width="100%"></table></td></tr></table></font>
+<!-- desc_gen:end -->]]></desc>
+	<sym>tourism-drinkingwater</sym>
+</wpt>
+<wpt lat="48.3640087" lon="14.0231681">
+	<ele>267.53</ele>
+	<time>2023-08-20T05:33:40.000Z</time>
+	<name>Spar</name>
+	<desc><![CDATA[<!-- desc_gen:start -->
+<font color="#ff000000"><table width="100%"><tr><td><table width="100%"><tr><td align="left" valign="center"><small><b>Magasság</b></small></td><td align="center" valign="center">268 m</td></tr>
+<tr><td align="left" valign="center"><small><b>Létrehozva</b></small></td><td align="center" valign="center">2023-08-20 20:52:08</td></tr>
+</table></td></tr><tr><td><table width="100%"></table></td></tr></table></font>
+<!-- desc_gen:end -->]]></desc>
+	<sym>stores-convenience</sym>
+</wpt>
+<wpt lat="48.4590918" lon="13.8095838">
+	<ele>285.95</ele>
+	<time>2023-08-20T05:32:49.000Z</time>
+	<name>mini Markt</name>
+	<desc><![CDATA[<!-- desc_gen:start -->
+<font color="#ff000000"><table width="100%"><tr><td><table width="100%"><tr><td align="left" valign="center"><small><b>Magasság</b></small></td><td align="center" valign="center">286 m</td></tr>
+<tr><td align="left" valign="center"><small><b>Létrehozva</b></small></td><td align="center" valign="center">2023-08-20 20:52:08</td></tr>
+</table></td></tr><tr><td><table width="100%"></table></td></tr></table></font>
+<!-- desc_gen:end -->]]></desc>
+	<sym>stores-convenience</sym>
+</wpt>
+<wpt lat="48.5058293" lon="13.7326044">
+	<ele>288.83</ele>
+	<time>2023-08-20T05:32:36.000Z</time>
+	<name>Spar</name>
+	<desc><![CDATA[<!-- desc_gen:start -->
+<font color="#ff000000"><table width="100%"><tr><td><table width="100%"><tr><td align="left" valign="center"><small><b>Magasság</b></small></td><td align="center" valign="center">289 m</td></tr>
+<tr><td align="left" valign="center"><small><b>Létrehozva</b></small></td><td align="center" valign="center">2023-08-20 20:52:08</td></tr>
+</table></td></tr><tr><td><table width="100%"></table></td></tr></table></font>
+<!-- desc_gen:end -->]]></desc>
+	<sym>stores-convenience</sym>
+</wpt>
+<wpt lat="48.5556767" lon="13.6306268">
+	<ele>292.75</ele>
+	<time>2023-08-20T05:32:18.000Z</time>
+	<name>Netto Marken-Discount</name>
+	<desc><![CDATA[<!-- desc_gen:start -->
+<font color="#ff000000"><table width="100%"><tr><td><table width="100%"><tr><td align="left" valign="center"><small><b>Magasság</b></small></td><td align="center" valign="center">293 m</td></tr>
+<tr><td align="left" valign="center"><small><b>Létrehozva</b></small></td><td align="center" valign="center">2023-08-20 20:52:08</td></tr>
+</table></td></tr><tr><td><table width="100%"></table></td></tr></table></font>
+<!-- desc_gen:end -->]]></desc>
+	<sym>stores-convenience</sym>
+</wpt>
+<wpt lat="48.5841805" lon="13.5002929">
+	<ele>297.80</ele>
+	<time>2023-08-20T05:32:01.000Z</time>
+	<name>Lidl</name>
+	<desc><![CDATA[<!-- desc_gen:start -->
+<font color="#ff000000"><table width="100%"><tr><td><table width="100%"><tr><td align="left" valign="center"><small><b>Magasság</b></small></td><td align="center" valign="center">298 m</td></tr>
+<tr><td align="left" valign="center"><small><b>Létrehozva</b></small></td><td align="center" valign="center">2023-08-20 20:52:08</td></tr>
+</table></td></tr><tr><td><table width="100%"></table></td></tr></table></font>
+<!-- desc_gen:end -->]]></desc>
+	<sym>stores-convenience</sym>
+</wpt>
+<wpt lat="48.5784065" lon="13.4737337">
+	<ele>296.20</ele>
+	<time>2023-08-20T18:35:46.000Z</time>
+	<name>Drinking water</name>
+	<desc><![CDATA[<!-- desc_gen:start -->
+<font color="#ff000000"><table width="100%"><tr><td><table width="100%"><tr><td align="left" valign="center"><small><b>Magasság</b></small></td><td align="center" valign="center">296 m</td></tr>
+<tr><td align="left" valign="center"><small><b>Létrehozva</b></small></td><td align="center" valign="center">2023-08-20 20:53:04</td></tr>
+</table></td></tr><tr><td><table width="100%"></table></td></tr></table></font>
+<!-- desc_gen:end -->]]></desc>
+	<sym>tourism-drinkingwater</sym>
+</wpt>
+<wpt lat="48.5744989" lon="13.4521741">
+	<ele>299.34</ele>
+	<time>2023-08-20T05:31:34.000Z</time>
+	<name>Netto Marken-Discount</name>
+	<desc><![CDATA[<!-- desc_gen:start -->
+<font color="#ff000000"><table width="100%"><tr><td><table width="100%"><tr><td align="left" valign="center"><small><b>Magasság</b></small></td><td align="center" valign="center">299 m</td></tr>
+<tr><td align="left" valign="center"><small><b>Létrehozva</b></small></td><td align="center" valign="center">2023-08-20 20:52:08</td></tr>
+</table></td></tr><tr><td><table width="100%"></table></td></tr></table></font>
+<!-- desc_gen:end -->]]></desc>
+	<sym>stores-convenience</sym>
+</wpt>
+<wpt lat="48.5754572" lon="13.4092855">
+	<ele>301.90</ele>
+	<time>2023-08-20T05:30:55.000Z</time>
+	<name>NORMA</name>
+	<desc><![CDATA[<!-- desc_gen:start -->
+<font color="#ff000000"><table width="100%"><tr><td><table width="100%"><tr><td align="left" valign="center"><small><b>Magasság</b></small></td><td align="center" valign="center">302 m</td></tr>
+<tr><td align="left" valign="center"><small><b>Létrehozva</b></small></td><td align="center" valign="center">2023-08-20 20:52:08</td></tr>
+</table></td></tr><tr><td><table width="100%"></table></td></tr></table></font>
+<!-- desc_gen:end -->]]></desc>
+	<sym>stores-convenience</sym>
+</wpt>
+<wpt lat="48.6279840" lon="13.2159412">
+	<ele>312.36</ele>
+	<time>2023-08-20T05:30:37.000Z</time>
+	<name>Netto Marken-Discount</name>
+	<desc><![CDATA[<!-- desc_gen:start -->
+<font color="#ff000000"><table width="100%"><tr><td><table width="100%"><tr><td align="left" valign="center"><small><b>Magasság</b></small></td><td align="center" valign="center">312 m</td></tr>
+<tr><td align="left" valign="center"><small><b>Létrehozva</b></small></td><td align="center" valign="center">2023-08-20 20:52:08</td></tr>
+</table></td></tr><tr><td><table width="100%"></table></td></tr></table></font>
+<!-- desc_gen:end -->]]></desc>
+	<sym>stores-convenience</sym>
+</wpt>
+<wpt lat="48.6387047" lon="13.1862009">
+	<ele>302.14</ele>
+	<time>2023-08-20T18:34:36.000Z</time>
+	<name>Drinking water</name>
+	<desc><![CDATA[<!-- desc_gen:start -->
+<font color="#ff000000"><table width="100%"><tr><td><table width="100%"><tr><td align="left" valign="center"><small><b>Magasság</b></small></td><td align="center" valign="center">302 m</td></tr>
+<tr><td align="left" valign="center"><small><b>Létrehozva</b></small></td><td align="center" valign="center">2023-08-20 20:53:04</td></tr>
+</table></td></tr><tr><td><table width="100%"></table></td></tr></table></font>
+<!-- desc_gen:end -->]]></desc>
+	<sym>tourism-drinkingwater</sym>
+</wpt>
+<wpt lat="48.6746684" lon="13.1220746">
+	<ele>306.35</ele>
+	<time>2023-08-20T05:30:24.000Z</time>
+	<name>Roland Gotzler Aktiv-Markt e.K.</name>
+	<desc><![CDATA[<!-- desc_gen:start -->
+<font color="#ff000000"><table width="100%"><tr><td><table width="100%"><tr><td align="left" valign="center"><small><b>Magasság</b></small></td><td align="center" valign="center">306 m</td></tr>
+<tr><td align="left" valign="center"><small><b>Létrehozva</b></small></td><td align="center" valign="center">2023-08-20 20:52:08</td></tr>
+</table></td></tr><tr><td><table width="100%"></table></td></tr></table></font>
+<!-- desc_gen:end -->]]></desc>
+	<sym>stores-convenience</sym>
+</wpt>
+<wpt lat="48.6779556" lon="13.1175578">
+	<ele>308.00</ele>
+	<time>2023-08-20T18:34:59.000Z</time>
+	<name>Drinking water</name>
+	<desc><![CDATA[<!-- desc_gen:start -->
+<font color="#ff000000"><table width="100%"><tr><td><table width="100%"><tr><td align="left" valign="center"><small><b>Magasság</b></small></td><td align="center" valign="center">308 m</td></tr>
+<tr><td align="left" valign="center"><small><b>Létrehozva</b></small></td><td align="center" valign="center">2023-08-20 20:53:04</td></tr>
+</table></td></tr><tr><td><table width="100%"></table></td></tr></table></font>
+<!-- desc_gen:end -->]]></desc>
+	<sym>tourism-drinkingwater</sym>
+</wpt>
+<wpt lat="48.7300326" lon="13.0626690">
+	<ele>308.93</ele>
+	<time>2023-08-20T05:29:57.000Z</time>
+	<name>Netto Marken-Discount</name>
+	<desc><![CDATA[<!-- desc_gen:start -->
+<font color="#ff000000"><table width="100%"><tr><td><table width="100%"><tr><td align="left" valign="center"><small><b>Magasság</b></small></td><td align="center" valign="center">309 m</td></tr>
+<tr><td align="left" valign="center"><small><b>Létrehozva</b></small></td><td align="center" valign="center">2023-08-20 20:52:08</td></tr>
+</table></td></tr><tr><td><table width="100%"></table></td></tr></table></font>
+<!-- desc_gen:end -->]]></desc>
+	<sym>stores-convenience</sym>
+</wpt>
+<wpt lat="48.8159071" lon="12.9765701">
+	<ele>317.04</ele>
+	<time>2023-08-20T05:29:10.000Z</time>
+	<name>Netto Marken-Discount</name>
+	<desc><![CDATA[<!-- desc_gen:start -->
+<font color="#ff000000"><table width="100%"><tr><td><table width="100%"><tr><td align="left" valign="center"><small><b>Magasság</b></small></td><td align="center" valign="center">317 m</td></tr>
+<tr><td align="left" valign="center"><small><b>Létrehozva</b></small></td><td align="center" valign="center">2023-08-20 20:52:08</td></tr>
+</table></td></tr><tr><td><table width="100%"></table></td></tr></table></font>
+<!-- desc_gen:end -->]]></desc>
+	<sym>stores-convenience</sym>
+</wpt>
+<wpt lat="48.8276756" lon="12.9604340">
+	<ele>311.88</ele>
+	<time>2023-08-20T05:28:58.000Z</time>
+	<name>Edeka</name>
+	<desc><![CDATA[<!-- desc_gen:start -->
+<font color="#ff000000"><table width="100%"><tr><td><table width="100%"><tr><td align="left" valign="center"><small><b>Magasság</b></small></td><td align="center" valign="center">312 m</td></tr>
+<tr><td align="left" valign="center"><small><b>Létrehozva</b></small></td><td align="center" valign="center">2023-08-20 20:52:08</td></tr>
+</table></td></tr><tr><td><table width="100%"></table></td></tr></table></font>
+<!-- desc_gen:end -->]]></desc>
+	<sym>stores-convenience</sym>
+</wpt>
+<wpt lat="48.8478401" lon="12.9116660">
+	<ele>311.95</ele>
+	<time>2023-08-20T05:28:39.000Z</time>
+	<name>Netto Marken-Discount</name>
+	<desc><![CDATA[<!-- desc_gen:start -->
+<font color="#ff000000"><table width="100%"><tr><td><table width="100%"><tr><td align="left" valign="center"><small><b>Magasság</b></small></td><td align="center" valign="center">312 m</td></tr>
+<tr><td align="left" valign="center"><small><b>Létrehozva</b></small></td><td align="center" valign="center">2023-08-20 20:52:08</td></tr>
+</table></td></tr><tr><td><table width="100%"></table></td></tr></table></font>
+<!-- desc_gen:end -->]]></desc>
+	<sym>stores-convenience</sym>
+</wpt>
+<wpt lat="48.8434732" lon="12.7972430">
+	<ele>313.79</ele>
+	<time>2023-08-20T05:28:12.000Z</time>
+	<name>Edeka Krönauer</name>
+	<desc><![CDATA[<!-- desc_gen:start -->
+<font color="#ff000000"><table width="100%"><tr><td><table width="100%"><tr><td align="left" valign="center"><small><b>Magasság</b></small></td><td align="center" valign="center">314 m</td></tr>
+<tr><td align="left" valign="center"><small><b>Létrehozva</b></small></td><td align="center" valign="center">2023-08-20 20:52:08</td></tr>
+</table></td></tr><tr><td><table width="100%"></table></td></tr></table></font>
+<!-- desc_gen:end -->]]></desc>
+	<sym>stores-convenience</sym>
+</wpt>
+<wpt lat="48.9045087" lon="12.6931089">
+	<ele>318.76</ele>
+	<time>2023-08-20T05:27:35.000Z</time>
+	<name>Netto Marken-Discount</name>
+	<desc><![CDATA[<!-- desc_gen:start -->
+<font color="#ff000000"><table width="100%"><tr><td><table width="100%"><tr><td align="left" valign="center"><small><b>Magasság</b></small></td><td align="center" valign="center">319 m</td></tr>
+<tr><td align="left" valign="center"><small><b>Létrehozva</b></small></td><td align="center" valign="center">2023-08-20 20:52:08</td></tr>
+</table></td></tr><tr><td><table width="100%"></table></td></tr></table></font>
+<!-- desc_gen:end -->]]></desc>
+	<sym>stores-convenience</sym>
+</wpt>
+<wpt lat="48.9092511" lon="12.6855612">
+	<ele>316.15</ele>
+	<time>2023-08-20T04:57:38.000Z</time>
+	<name>Norma</name>
+	<desc><![CDATA[<!-- desc_gen:start -->
+<font color="#ff000000"><table width="100%"><tr><td><table width="100%"><tr><td align="left" valign="center"><small><b>Magasság</b></small></td><td align="center" valign="center">316 m</td></tr>
+<tr><td align="left" valign="center"><small><b>Létrehozva</b></small></td><td align="center" valign="center">2023-08-20 20:52:08</td></tr>
+</table></td></tr><tr><td><table width="100%"></table></td></tr></table></font>
+<!-- desc_gen:end -->]]></desc>
+	<sym>stores-convenience</sym>
+</wpt>
+<wpt lat="48.8893653" lon="12.5775272">
+	<ele>316.98</ele>
+	<time>2023-08-20T04:58:02.000Z</time>
+	<name>Aldi Süd</name>
+	<desc><![CDATA[<!-- desc_gen:start -->
+<font color="#ff000000"><table width="100%"><tr><td><table width="100%"><tr><td align="left" valign="center"><small><b>Magasság</b></small></td><td align="center" valign="center">317 m</td></tr>
+<tr><td align="left" valign="center"><small><b>Létrehozva</b></small></td><td align="center" valign="center">2023-08-20 20:53:53</td></tr>
+</table></td></tr><tr><td><table width="100%"></table></td></tr></table></font>
+<!-- desc_gen:end -->]]></desc>
+	<sym>stores-convenience</sym>
+</wpt>
+<wpt lat="48.8799786" lon="12.5645721">
+	<ele>332.07</ele>
+	<time>2023-08-20T04:58:19.000Z</time>
+	<name>Rewe</name>
+	<desc><![CDATA[<!-- desc_gen:start -->
+<font color="#ff000000"><table width="100%"><tr><td><table width="100%"><tr><td align="left" valign="center"><small><b>Magasság</b></small></td><td align="center" valign="center">332 m</td></tr>
+<tr><td align="left" valign="center"><small><b>Létrehozva</b></small></td><td align="center" valign="center">2023-08-20 20:52:08</td></tr>
+</table></td></tr><tr><td><table width="100%"></table></td></tr></table></font>
+<!-- desc_gen:end -->]]></desc>
+	<sym>stores-convenience</sym>
+</wpt>
+<wpt lat="49.0282066" lon="12.2023451">
+	<ele>327.94</ele>
+	<time>2023-08-20T10:04:18.000Z</time>
+	<name>Edeka Lattus</name>
+	<desc><![CDATA[<!-- desc_gen:start -->
+<font color="#ff000000"><table width="100%"><tr><td><table width="100%"><tr><td align="left" valign="center"><small><b>Magasság</b></small></td><td align="center" valign="center">328 m</td></tr>
+<tr><td align="left" valign="center"><small><b>Létrehozva</b></small></td><td align="center" valign="center">2023-08-20 20:52:08</td></tr>
+</table></td></tr><tr><td><table width="100%"></table></td></tr></table></font>
+<!-- desc_gen:end -->]]></desc>
+	<sym>stores-convenience</sym>
+</wpt>
+<wpt lat="49.0288890" lon="12.1045464">
+	<ele>332.12</ele>
+	<time>2023-08-20T04:58:42.000Z</time>
+	<name>Netto Marken-Discount</name>
+	<desc><![CDATA[<!-- desc_gen:start -->
+<font color="#ff000000"><table width="100%"><tr><td><table width="100%"><tr><td align="left" valign="center"><small><b>Magasság</b></small></td><td align="center" valign="center">332 m</td></tr>
+<tr><td align="left" valign="center"><small><b>Létrehozva</b></small></td><td align="center" valign="center">2023-08-20 20:52:08</td></tr>
+</table></td></tr><tr><td><table width="100%"></table></td></tr></table></font>
+<!-- desc_gen:end -->]]></desc>
+	<sym>stores-convenience</sym>
+</wpt>
+<wpt lat="49.0216181" lon="12.0581120">
+	<ele>337.91</ele>
+	<time>2023-08-20T18:14:44.000Z</time>
+	<name>Norma</name>
+	<desc><![CDATA[<!-- desc_gen:start -->
+<font color="#ff000000"><table width="100%"><tr><td><table width="100%"><tr><td align="left" valign="center"><small><b>Magasság</b></small></td><td align="center" valign="center">338 m</td></tr>
+<tr><td align="left" valign="center"><small><b>Létrehozva</b></small></td><td align="center" valign="center">2023-08-20 20:52:08</td></tr>
+</table></td></tr><tr><td><table width="100%"></table></td></tr></table></font>
+<!-- desc_gen:end -->]]></desc>
+	<sym>stores-convenience</sym>
+</wpt>
+<wpt lat="49.0210131" lon="12.0557195">
+	<ele>341.37</ele>
+	<time>2023-08-20T18:14:49.000Z</time>
+	<name>REWE</name>
+	<desc><![CDATA[<!-- desc_gen:start -->
+<font color="#ff000000"><table width="100%"><tr><td><table width="100%"><tr><td align="left" valign="center"><small><b>Magasság</b></small></td><td align="center" valign="center">341 m</td></tr>
+<tr><td align="left" valign="center"><small><b>Létrehozva</b></small></td><td align="center" valign="center">2023-08-20 20:52:08</td></tr>
+</table></td></tr><tr><td><table width="100%"></table></td></tr></table></font>
+<!-- desc_gen:end -->]]></desc>
+	<sym>stores-convenience</sym>
+</wpt>
+<wpt lat="48.9470015" lon="12.0191503">
+	<ele>337.65</ele>
+	<time>2023-08-20T18:29:16.000Z</time>
+	<name>Brunnen</name>
+	<desc><![CDATA[<!-- desc_gen:start -->
+<font color="#ff000000"><table width="100%"><tr><td><table width="100%"><tr><td align="left" valign="center"><small><b>Magasság</b></small></td><td align="center" valign="center">338 m</td></tr>
+<tr><td align="left" valign="center"><small><b>Létrehozva</b></small></td><td align="center" valign="center">2023-08-20 20:53:04</td></tr>
+</table></td></tr><tr><td><table width="100%"></table></td></tr></table></font>
+<!-- desc_gen:end -->]]></desc>
+	<sym>tourism-drinkingwater</sym>
+</wpt>
+<wpt lat="48.9086623" lon="11.9458294">
+	<ele>352.43</ele>
+	<time>2023-08-20T09:59:38.000Z</time>
+	<name>Hofladen Aunkofer</name>
+	<desc><![CDATA[<!-- desc_gen:start -->
+<font color="#ff000000"><table width="100%"><tr><td><table width="100%"><tr><td align="left" valign="center"><small><b>Magasság</b></small></td><td align="center" valign="center">352 m</td></tr>
+<tr><td align="left" valign="center"><small><b>Létrehozva</b></small></td><td align="center" valign="center">2023-08-20 20:52:08</td></tr>
+</table></td></tr><tr><td><table width="100%"></table></td></tr></table></font>
+<!-- desc_gen:end -->]]></desc>
+	<sym>stores-convenience</sym>
+</wpt>
+<wpt lat="48.9217802" lon="11.8737853">
+	<ele>343.75</ele>
+	<time>2023-08-20T18:27:37.000Z</time>
+	<name>Drinking water</name>
+	<desc><![CDATA[<!-- desc_gen:start -->
+<font color="#ff000000"><table width="100%"><tr><td><table width="100%"><tr><td align="left" valign="center"><small><b>Magasság</b></small></td><td align="center" valign="center">344 m</td></tr>
+<tr><td align="left" valign="center"><small><b>Létrehozva</b></small></td><td align="center" valign="center">2023-08-20 20:53:04</td></tr>
+</table></td></tr><tr><td><table width="100%"></table></td></tr></table></font>
+<!-- desc_gen:end -->]]></desc>
+	<sym>tourism-drinkingwater</sym>
+</wpt>
+<wpt lat="48.9120964" lon="11.8703735">
+	<ele>348.81</ele>
+	<time>2023-08-20T09:59:25.000Z</time>
+	<name>EDEKA</name>
+	<desc><![CDATA[<!-- desc_gen:start -->
+<font color="#ff000000"><table width="100%"><tr><td><table width="100%"><tr><td align="left" valign="center"><small><b>Magasság</b></small></td><td align="center" valign="center">349 m</td></tr>
+<tr><td align="left" valign="center"><small><b>Létrehozva</b></small></td><td align="center" valign="center">2023-08-20 20:52:08</td></tr>
+</table></td></tr><tr><td><table width="100%"></table></td></tr></table></font>
+<!-- desc_gen:end -->]]></desc>
+	<sym>stores-convenience</sym>
+</wpt>
+<wpt lat="48.2276782" lon="14.5784444">
+	<ele>241.58</ele>
+	<time>2023-07-21T13:53:57.433Z</time>
+	<name>Camping Au an der Donau</name>
+	<desc><![CDATA[<!-- desc_gen:start -->
+<font color="#ff000000"><table width="100%"><tr><td><table width="100%"><tr><td align="left" valign="center"><small><b>Magasság</b></small></td><td align="center" valign="center">242 m</td></tr>
+<tr><td align="left" valign="center"><small><b>Létrehozva</b></small></td><td align="center" valign="center">2023-08-21 03:51:21</td></tr>
+</table></td></tr><tr><td><table width="100%"></table></td></tr></table></font>
+<!-- desc_gen:end -->]]></desc>
+	<sym>tourism-campingsite</sym>
+</wpt>
+<wpt lat="48.2426566" lon="15.3402025">
+	<ele>209.69</ele>
+	<time>2023-07-21T13:53:57.433Z</time>
+	<name>Donau Camping Emmersdorf</name>
+	<desc><![CDATA[<!-- desc_gen:start -->
+<font color="#ff000000"><table width="100%"><tr><td><table width="100%"><tr><td align="left" valign="center"><small><b>Magasság</b></small></td><td align="center" valign="center">210 m</td></tr>
+<tr><td align="left" valign="center"><small><b>Létrehozva</b></small></td><td align="center" valign="center">2023-08-21 03:51:23</td></tr>
+</table></td></tr><tr><td><table width="100%"></table></td></tr></table></font>
+<!-- desc_gen:end -->]]></desc>
+	<sym>tourism-campingsite</sym>
+</wpt>
+<wpt lat="48.4087505" lon="15.6043947">
+	<ele>198.22</ele>
+	<time>2023-08-21T01:41:46.000Z</time>
+	<name>Drinking water</name>
+	<desc><![CDATA[<!-- desc_gen:start -->
+<font color="#ff000000"><table width="100%"><tr><td><table width="100%"><tr><td align="left" valign="center"><small><b>Magasság</b></small></td><td align="center" valign="center">198 m</td></tr>
+<tr><td align="left" valign="center"><small><b>Létrehozva</b></small></td><td align="center" valign="center">2023-08-21 04:01:57</td></tr>
+</table></td></tr><tr><td><table width="100%"></table></td></tr></table></font>
+<!-- desc_gen:end -->]]></desc>
+	<sym>tourism-drinkingwater</sym>
+</wpt>
+<wpt lat="48.4041175" lon="15.5881083">
+	<ele>196.37</ele>
+	<time>2023-08-21T01:41:37.000Z</time>
+	<name>Drinking water</name>
+	<desc><![CDATA[<!-- desc_gen:start -->
+<font color="#ff000000"><table width="100%"><tr><td><table width="100%"><tr><td align="left" valign="center"><small><b>Magasság</b></small></td><td align="center" valign="center">196 m</td></tr>
+<tr><td align="left" valign="center"><small><b>Létrehozva</b></small></td><td align="center" valign="center">2023-08-21 04:01:57</td></tr>
+</table></td></tr><tr><td><table width="100%"></table></td></tr></table></font>
+<!-- desc_gen:end -->]]></desc>
+	<sym>tourism-drinkingwater</sym>
+</wpt>
+<wpt lat="48.8136888" lon="11.7585200">
+	<ele>349.27</ele>
+	<time>2023-08-20T05:28:53.000Z</time>
+	<name>ALDI Süd</name>
+	<desc><![CDATA[<!-- desc_gen:start -->
+<font color="#ff000000"><table width="100%"><tr><td><table width="100%"><tr><td align="left" valign="center"><small><b>Magasság</b></small></td><td align="center" valign="center">349 m</td></tr>
+<tr><td align="left" valign="center"><small><b>Létrehozva</b></small></td><td align="center" valign="center">2023-08-21 03:51:32</td></tr>
+</table></td></tr><tr><td><table width="100%"></table></td></tr></table></font>
+<!-- desc_gen:end -->]]></desc>
+	<sym>stores-convenience</sym>
+</wpt>
+<wpt lat="48.8133602" lon="11.7571360">
+	<ele>348.50</ele>
+	<time>2023-08-21T01:39:51.000Z</time>
+	<name>Netto Marken-Discount</name>
+	<desc><![CDATA[<!-- desc_gen:start -->
+<font color="#ff000000"><table width="100%"><tr><td><table width="100%"><tr><td align="left" valign="center"><small><b>Magasság</b></small></td><td align="center" valign="center">348 m</td></tr>
+<tr><td align="left" valign="center"><small><b>Létrehozva</b></small></td><td align="center" valign="center">2023-08-21 04:00:58</td></tr>
+</table></td></tr><tr><td><table width="100%"></table></td></tr></table></font>
+<!-- desc_gen:end -->]]></desc>
+	<sym>stores-convenience</sym>
+</wpt>
+<wpt lat="48.9127521" lon="11.9163787">
+	<ele>341.26</ele>
+	<time>2023-08-21T01:38:37.000Z</time>
+	<name>Drinking water</name>
+	<desc><![CDATA[<!-- desc_gen:start -->
+<font color="#ff000000"><table width="100%"><tr><td><table width="100%"><tr><td align="left" valign="center"><small><b>Magasság</b></small></td><td align="center" valign="center">341 m</td></tr>
+<tr><td align="left" valign="center"><small><b>Létrehozva</b></small></td><td align="center" valign="center">2023-08-21 04:01:57</td></tr>
+</table></td></tr><tr><td><table width="100%"></table></td></tr></table></font>
+<!-- desc_gen:end -->]]></desc>
+	<sym>tourism-drinkingwater</sym>
+</wpt>
+<wpt lat="48.9076857" lon="11.9466501">
+	<ele>342.88</ele>
+	<time>2023-08-21T01:38:24.000Z</time>
+	<name>Drinking water</name>
+	<desc><![CDATA[<!-- desc_gen:start -->
+<font color="#ff000000"><table width="100%"><tr><td><table width="100%"><tr><td align="left" valign="center"><small><b>Magasság</b></small></td><td align="center" valign="center">343 m</td></tr>
+<tr><td align="left" valign="center"><small><b>Létrehozva</b></small></td><td align="center" valign="center">2023-08-21 04:01:57</td></tr>
+</table></td></tr><tr><td><table width="100%"></table></td></tr></table></font>
+<!-- desc_gen:end -->]]></desc>
+	<sym>tourism-drinkingwater</sym>
+</wpt>
+<wpt lat="49.0294025" lon="12.0705199">
+	<ele>333.30</ele>
+	<time>2023-07-21T13:53:57.433Z</time>
+	<name>Zeltplatz Regensburger Kanu-Club e.V.</name>
+	<desc><![CDATA[<!-- desc_gen:start -->
+<font color="#ff000000"><table width="100%"><tr><td><table width="100%"><tr><td align="left" valign="center"><small><b>Magasság</b></small></td><td align="center" valign="center">333 m</td></tr>
+<tr><td align="left" valign="center"><small><b>Létrehozva</b></small></td><td align="center" valign="center">2023-08-21 03:51:43</td></tr>
+</table></td></tr><tr><td><table width="100%"></table></td></tr></table></font>
+<!-- desc_gen:end -->]]></desc>
+	<sym>tourism-campingsite</sym>
+</wpt>
+<wpt lat="48.5821862" lon="13.4730524">
+	<ele>300.23</ele>
+	<time>2023-07-21T13:53:57.433Z</time>
+	<name>Zeltplatz Ilzstadt</name>
+	<desc><![CDATA[<!-- desc_gen:start -->
+<font color="#ff000000"><table width="100%"><tr><td><table width="100%"><tr><td align="left" valign="center"><small><b>Magasság</b></small></td><td align="center" valign="center">300 m</td></tr>
+<tr><td align="left" valign="center"><small><b>Létrehozva</b></small></td><td align="center" valign="center">2023-08-21 03:51:45</td></tr>
+</table></td></tr><tr><td><table width="100%"></table></td></tr></table></font>
+<!-- desc_gen:end -->]]></desc>
+	<sym>tourism-campingsite</sym>
+</wpt>
+<wpt lat="48.8878944" lon="12.5668734">
+	<ele>317.28</ele>
+	<time>2023-08-21T01:45:10.000Z</time>
+	<name>Camp site</name>
+	<desc><![CDATA[<!-- desc_gen:start -->
+<font color="#ff000000"><table width="100%"><tr><td><table width="100%"><tr><td align="left" valign="center"><small><b>Magasság</b></small></td><td align="center" valign="center">317 m</td></tr>
+<tr><td align="left" valign="center"><small><b>Létrehozva</b></small></td><td align="center" valign="center">2023-08-21 04:01:23</td></tr>
+</table></td></tr><tr><td><table width="100%"></table></td></tr></table></font>
+<!-- desc_gen:end -->]]></desc>
+	<sym>tourism-campingsite</sym>
+</wpt>
+<wpt lat="48.9084826" lon="12.6243424">
+	<ele>317.02</ele>
+	<time>2023-08-21T01:34:20.000Z</time>
+	<name>Drinking water</name>
+	<desc><![CDATA[<!-- desc_gen:start -->
+<font color="#ff000000"><table width="100%"><tr><td><table width="100%"><tr><td align="left" valign="center"><small><b>Magasság</b></small></td><td align="center" valign="center">317 m</td></tr>
+<tr><td align="left" valign="center"><small><b>Létrehozva</b></small></td><td align="center" valign="center">2023-08-21 04:01:57</td></tr>
+</table></td></tr><tr><td><table width="100%"></table></td></tr></table></font>
+<!-- desc_gen:end -->]]></desc>
+	<sym>tourism-drinkingwater</sym>
+</wpt>
+<wpt lat="48.8461351" lon="12.9094559">
+	<ele>312.74</ele>
+	<time>2023-08-21T01:31:18.000Z</time>
+	<name>Drinking water</name>
+	<desc><![CDATA[<!-- desc_gen:start -->
+<font color="#ff000000"><table width="100%"><tr><td><table width="100%"><tr><td align="left" valign="center"><small><b>Magasság</b></small></td><td align="center" valign="center">313 m</td></tr>
+<tr><td align="left" valign="center"><small><b>Létrehozva</b></small></td><td align="center" valign="center">2023-08-21 04:01:57</td></tr>
+</table></td></tr><tr><td><table width="100%"></table></td></tr></table></font>
+<!-- desc_gen:end -->]]></desc>
+	<sym>tourism-drinkingwater</sym>
+</wpt>
+<wpt lat="48.8317579" lon="12.9460734">
+	<ele>316.31</ele>
+	<time>2023-08-21T01:31:03.000Z</time>
+	<name>40</name>
+	<desc><![CDATA[<!-- desc_gen:start -->
+<font color="#ff000000"><table width="100%"><tr><td><table width="100%"><tr><td align="left" valign="center"><small><b>Magasság</b></small></td><td align="center" valign="center">316 m</td></tr>
+<tr><td align="left" valign="center"><small><b>Létrehozva</b></small></td><td align="center" valign="center">2023-08-21 03:59:54</td></tr>
+</table></td></tr><tr><td><table width="100%"></table></td></tr></table></font>
+<!-- desc_gen:end -->]]></desc>
+	<sym>tourism-drinkingwater</sym>
+</wpt>
+<wpt lat="48.8143599" lon="12.9744565">
+	<ele>312.88</ele>
+	<time>2023-08-21T01:30:28.000Z</time>
+	<name>Water tap</name>
+	<desc><![CDATA[<!-- desc_gen:start -->
+<font color="#ff000000"><table width="100%"><tr><td><table width="100%"><tr><td align="left" valign="center"><small><b>Magasság</b></small></td><td align="center" valign="center">313 m</td></tr>
+<tr><td align="left" valign="center"><small><b>Létrehozva</b></small></td><td align="center" valign="center">2023-08-21 04:02:19</td></tr>
+</table></td></tr><tr><td><table width="100%"></table></td></tr></table></font>
+<!-- desc_gen:end -->]]></desc>
+	<sym>tourism-drinkingwater</sym>
+</wpt>
+<wpt lat="48.5753755" lon="13.4642440">
+	<ele>303.90</ele>
+	<time>2023-08-21T01:28:07.000Z</time>
+	<name>Water tap</name>
+	<desc><![CDATA[<!-- desc_gen:start -->
+<font color="#ff000000"><table width="100%"><tr><td><table width="100%"><tr><td align="left" valign="center"><small><b>Magasság</b></small></td><td align="center" valign="center">304 m</td></tr>
+<tr><td align="left" valign="center"><small><b>Létrehozva</b></small></td><td align="center" valign="center">2023-08-21 04:02:19</td></tr>
+</table></td></tr><tr><td><table width="100%"></table></td></tr></table></font>
+<!-- desc_gen:end -->]]></desc>
+	<sym>tourism-drinkingwater</sym>
+</wpt>
+<wpt lat="48.5159861" lon="13.7062812">
+	<ele>293.42</ele>
+	<time>2023-08-21T01:27:39.000Z</time>
+	<name>Drinking water</name>
+	<desc><![CDATA[<!-- desc_gen:start -->
+<font color="#ff000000"><table width="100%"><tr><td><table width="100%"><tr><td align="left" valign="center"><small><b>Magasság</b></small></td><td align="center" valign="center">293 m</td></tr>
+<tr><td align="left" valign="center"><small><b>Létrehozva</b></small></td><td align="center" valign="center">2023-08-21 04:01:57</td></tr>
+</table></td></tr><tr><td><table width="100%"></table></td></tr></table></font>
+<!-- desc_gen:end -->]]></desc>
+	<sym>tourism-drinkingwater</sym>
+</wpt>
+<wpt lat="48.3311620" lon="14.1699386">
+	<ele>261.67</ele>
+	<time>2023-08-21T01:26:11.000Z</time>
+	<name>Drinking water</name>
+	<desc><![CDATA[<!-- desc_gen:start -->
+<font color="#ff000000"><table width="100%"><tr><td><table width="100%"><tr><td align="left" valign="center"><small><b>Magasság</b></small></td><td align="center" valign="center">262 m</td></tr>
+<tr><td align="left" valign="center"><small><b>Létrehozva</b></small></td><td align="center" valign="center">2023-08-21 04:01:57</td></tr>
+</table></td></tr><tr><td><table width="100%"></table></td></tr></table></font>
+<!-- desc_gen:end -->]]></desc>
+	<sym>tourism-drinkingwater</sym>
+</wpt>
+<wpt lat="48.3306342" lon="14.1770089">
+	<ele>256.49</ele>
+	<time>2023-08-21T01:26:05.000Z</time>
+	<name>Drinking water</name>
+	<desc><![CDATA[<!-- desc_gen:start -->
+<font color="#ff000000"><table width="100%"><tr><td><table width="100%"><tr><td align="left" valign="center"><small><b>Magasság</b></small></td><td align="center" valign="center">256 m</td></tr>
+<tr><td align="left" valign="center"><small><b>Létrehozva</b></small></td><td align="center" valign="center">2023-08-21 04:01:57</td></tr>
+</table></td></tr><tr><td><table width="100%"></table></td></tr></table></font>
+<!-- desc_gen:end -->]]></desc>
+	<sym>tourism-drinkingwater</sym>
+</wpt>
+<wpt lat="48.3106726" lon="14.2396814">
+	<ele>263.32</ele>
+	<time>2023-08-21T01:25:52.000Z</time>
+	<name>Drinking water</name>
+	<desc><![CDATA[<!-- desc_gen:start -->
+<font color="#ff000000"><table width="100%"><tr><td><table width="100%"><tr><td align="left" valign="center"><small><b>Magasság</b></small></td><td align="center" valign="center">263 m</td></tr>
+<tr><td align="left" valign="center"><small><b>Létrehozva</b></small></td><td align="center" valign="center">2023-08-21 04:01:57</td></tr>
+</table></td></tr><tr><td><table width="100%"></table></td></tr></table></font>
+<!-- desc_gen:end -->]]></desc>
+	<sym>tourism-drinkingwater</sym>
+</wpt>
+<wpt lat="48.3079609" lon="14.2791313">
+	<ele>253.60</ele>
+	<time>2023-08-21T01:25:17.000Z</time>
+	<name>Drinking water</name>
+	<desc><![CDATA[<!-- desc_gen:start -->
+<font color="#ff000000"><table width="100%"><tr><td><table width="100%"><tr><td align="left" valign="center"><small><b>Magasság</b></small></td><td align="center" valign="center">254 m</td></tr>
+<tr><td align="left" valign="center"><small><b>Létrehozva</b></small></td><td align="center" valign="center">2023-08-21 04:01:57</td></tr>
+</table></td></tr><tr><td><table width="100%"></table></td></tr></table></font>
+<!-- desc_gen:end -->]]></desc>
+	<sym>tourism-drinkingwater</sym>
+</wpt>
+<wpt lat="48.3170265" lon="14.3314987">
+	<ele>251.61</ele>
+	<time>2023-08-21T01:24:58.000Z</time>
+	<name>Drinking water</name>
+	<desc><![CDATA[<!-- desc_gen:start -->
+<font color="#ff000000"><table width="100%"><tr><td><table width="100%"><tr><td align="left" valign="center"><small><b>Magasság</b></small></td><td align="center" valign="center">252 m</td></tr>
+<tr><td align="left" valign="center"><small><b>Létrehozva</b></small></td><td align="center" valign="center">2023-08-21 04:01:58</td></tr>
+</table></td></tr><tr><td><table width="100%"></table></td></tr></table></font>
+<!-- desc_gen:end -->]]></desc>
+	<sym>tourism-drinkingwater</sym>
+</wpt>
+<wpt lat="48.2418563" lon="14.5131540">
+	<ele>246.08</ele>
+	<time>2023-08-21T01:23:48.000Z</time>
+	<name>Drinking water</name>
+	<desc><![CDATA[<!-- desc_gen:start -->
+<font color="#ff000000"><table width="100%"><tr><td><table width="100%"><tr><td align="left" valign="center"><small><b>Magasság</b></small></td><td align="center" valign="center">246 m</td></tr>
+<tr><td align="left" valign="center"><small><b>Létrehozva</b></small></td><td align="center" valign="center">2023-08-21 04:01:58</td></tr>
+</table></td></tr><tr><td><table width="100%"></table></td></tr></table></font>
+<!-- desc_gen:end -->]]></desc>
+	<sym>tourism-drinkingwater</sym>
+</wpt>
+<wpt lat="48.2314661" lon="15.3277355">
+	<ele>208.69</ele>
+	<time>2023-08-21T01:21:07.000Z</time>
+	<name>Drinking water</name>
+	<desc><![CDATA[<!-- desc_gen:start -->
+<font color="#ff000000"><table width="100%"><tr><td><table width="100%"><tr><td align="left" valign="center"><small><b>Magasság</b></small></td><td align="center" valign="center">209 m</td></tr>
+<tr><td align="left" valign="center"><small><b>Létrehozva</b></small></td><td align="center" valign="center">2023-08-21 04:01:58</td></tr>
+</table></td></tr><tr><td><table width="100%"></table></td></tr></table></font>
+<!-- desc_gen:end -->]]></desc>
+	<sym>tourism-drinkingwater</sym>
+</wpt>
+<wpt lat="48.2939510" lon="15.4033202">
+	<ele>208.77</ele>
+	<time>2023-08-21T01:20:13.000Z</time>
+	<name>Drinking water</name>
+	<desc><![CDATA[<!-- desc_gen:start -->
+<font color="#ff000000"><table width="100%"><tr><td><table width="100%"><tr><td align="left" valign="center"><small><b>Magasság</b></small></td><td align="center" valign="center">209 m</td></tr>
+<tr><td align="left" valign="center"><small><b>Létrehozva</b></small></td><td align="center" valign="center">2023-08-21 04:01:58</td></tr>
+</table></td></tr><tr><td><table width="100%"></table></td></tr></table></font>
+<!-- desc_gen:end -->]]></desc>
+	<sym>tourism-drinkingwater</sym>
+</wpt>
+<wpt lat="48.3628254" lon="15.4176486">
+	<ele>202.54</ele>
+	<time>2023-08-21T01:19:55.000Z</time>
+	<name>Drinking water</name>
+	<desc><![CDATA[<!-- desc_gen:start -->
+<font color="#ff000000"><table width="100%"><tr><td><table width="100%"><tr><td align="left" valign="center"><small><b>Magasság</b></small></td><td align="center" valign="center">203 m</td></tr>
+<tr><td align="left" valign="center"><small><b>Létrehozva</b></small></td><td align="center" valign="center">2023-08-21 04:01:58</td></tr>
+</table></td></tr><tr><td><table width="100%"></table></td></tr></table></font>
+<!-- desc_gen:end -->]]></desc>
+	<sym>tourism-drinkingwater</sym>
+</wpt>
+<wpt lat="48.4101428" lon="15.6038046">
+	<ele>197.43</ele>
+	<time>2023-08-20T05:42:08.000Z</time>
+	<name>Spar</name>
+	<desc><![CDATA[<!-- desc_gen:start -->
+<font color="#ff000000"><table width="100%"><tr><td><table width="100%"><tr><td align="left" valign="center"><small><b>Magasság</b></small></td><td align="center" valign="center">197 m</td></tr>
+<tr><td align="left" valign="center"><small><b>Létrehozva</b></small></td><td align="center" valign="center">2023-08-21 04:00:58</td></tr>
+</table></td></tr><tr><td><table width="100%"></table></td></tr></table></font>
+<!-- desc_gen:end -->]]></desc>
+	<sym>stores-convenience</sym>
+</wpt>
+<wpt lat="48.3999114" lon="15.5747509">
+	<ele>197.02</ele>
+	<time>2023-08-20T18:44:32.000Z</time>
+	<name>Drinking water</name>
+	<desc><![CDATA[<!-- desc_gen:start -->
+<font color="#ff000000"><table width="100%"><tr><td><table width="100%"><tr><td align="left" valign="center"><small><b>Magasság</b></small></td><td align="center" valign="center">197 m</td></tr>
+<tr><td align="left" valign="center"><small><b>Létrehozva</b></small></td><td align="center" valign="center">2023-08-21 04:01:58</td></tr>
+</table></td></tr><tr><td><table width="100%"></table></td></tr></table></font>
+<!-- desc_gen:end -->]]></desc>
+	<sym>tourism-drinkingwater</sym>
+</wpt>
+<wpt lat="48.3935749" lon="15.5240786">
+	<ele>207.13</ele>
+	<time>2023-08-20T05:41:24.000Z</time>
+	<name>Nah &amp; Frisch</name>
+	<desc><![CDATA[<!-- desc_gen:start -->
+<font color="#ff000000"><table width="100%"><tr><td><table width="100%"><tr><td align="left" valign="center"><small><b>Magasság</b></small></td><td align="center" valign="center">207 m</td></tr>
+<tr><td align="left" valign="center"><small><b>Létrehozva</b></small></td><td align="center" valign="center">2023-08-21 04:00:58</td></tr>
+</table></td></tr><tr><td><table width="100%"></table></td></tr></table></font>
+<!-- desc_gen:end -->]]></desc>
+	<sym>stores-convenience</sym>
+</wpt>
+<wpt lat="48.3941841" lon="15.4696190">
+	<ele>200.50</ele>
+	<time>2023-08-20T18:44:01.000Z</time>
+	<name>Drinking water</name>
+	<desc><![CDATA[<!-- desc_gen:start -->
+<font color="#ff000000"><table width="100%"><tr><td><table width="100%"><tr><td align="left" valign="center"><small><b>Magasság</b></small></td><td align="center" valign="center">201 m</td></tr>
+<tr><td align="left" valign="center"><small><b>Létrehozva</b></small></td><td align="center" valign="center">2023-08-21 04:01:58</td></tr>
+</table></td></tr><tr><td><table width="100%"></table></td></tr></table></font>
+<!-- desc_gen:end -->]]></desc>
+	<sym>tourism-drinkingwater</sym>
+</wpt>
+<wpt lat="48.3943906" lon="15.4671782">
+	<ele>203.41</ele>
+	<time>2023-08-20T05:41:13.000Z</time>
+	<name>Spar</name>
+	<desc><![CDATA[<!-- desc_gen:start -->
+<font color="#ff000000"><table width="100%"><tr><td><table width="100%"><tr><td align="left" valign="center"><small><b>Magasság</b></small></td><td align="center" valign="center">203 m</td></tr>
+<tr><td align="left" valign="center"><small><b>Létrehozva</b></small></td><td align="center" valign="center">2023-08-21 04:00:58</td></tr>
+</table></td></tr><tr><td><table width="100%"></table></td></tr></table></font>
+<!-- desc_gen:end -->]]></desc>
+	<sym>stores-convenience</sym>
+</wpt>
+<wpt lat="48.3577497" lon="15.4086202">
+	<ele>206.78</ele>
+	<time>2023-08-20T18:43:47.000Z</time>
+	<name>Drinking water</name>
+	<desc><![CDATA[<!-- desc_gen:start -->
+<font color="#ff000000"><table width="100%"><tr><td><table width="100%"><tr><td align="left" valign="center"><small><b>Magasság</b></small></td><td align="center" valign="center">207 m</td></tr>
+<tr><td align="left" valign="center"><small><b>Létrehozva</b></small></td><td align="center" valign="center">2023-08-21 04:01:58</td></tr>
+</table></td></tr><tr><td><table width="100%"></table></td></tr></table></font>
+<!-- desc_gen:end -->]]></desc>
+	<sym>tourism-drinkingwater</sym>
+</wpt>
+<wpt lat="48.2281534" lon="15.3331590">
+	<ele>244.47</ele>
+	<time>2023-08-20T18:42:04.000Z</time>
+	<name>Drinking water</name>
+	<desc><![CDATA[<!-- desc_gen:start -->
+<font color="#ff000000"><table width="100%"><tr><td><table width="100%"><tr><td align="left" valign="center"><small><b>Magasság</b></small></td><td align="center" valign="center">244 m</td></tr>
+<tr><td align="left" valign="center"><small><b>Létrehozva</b></small></td><td align="center" valign="center">2023-08-21 04:01:58</td></tr>
+</table></td></tr><tr><td><table width="100%"></table></td></tr></table></font>
+<!-- desc_gen:end -->]]></desc>
+	<sym>tourism-drinkingwater</sym>
+</wpt>
+<wpt lat="48.1724072" lon="15.0833648">
+	<ele>219.89</ele>
+	<time>2023-08-20T05:38:57.000Z</time>
+	<name>PENNY</name>
+	<desc><![CDATA[<!-- desc_gen:start -->
+<font color="#ff000000"><table width="100%"><tr><td><table width="100%"><tr><td align="left" valign="center"><small><b>Magasság</b></small></td><td align="center" valign="center">220 m</td></tr>
+<tr><td align="left" valign="center"><small><b>Létrehozva</b></small></td><td align="center" valign="center">2023-08-21 04:00:58</td></tr>
+</table></td></tr><tr><td><table width="100%"></table></td></tr></table></font>
+<!-- desc_gen:end -->]]></desc>
+	<sym>stores-convenience</sym>
+</wpt>
+<wpt lat="48.3061698" lon="14.2726028">
+	<ele>255.60</ele>
+	<time>2023-08-20T18:37:54.000Z</time>
+	<name>Drinking water</name>
+	<desc><![CDATA[<!-- desc_gen:start -->
+<font color="#ff000000"><table width="100%"><tr><td><table width="100%"><tr><td align="left" valign="center"><small><b>Magasság</b></small></td><td align="center" valign="center">256 m</td></tr>
+<tr><td align="left" valign="center"><small><b>Létrehozva</b></small></td><td align="center" valign="center">2023-08-21 04:01:58</td></tr>
+</table></td></tr><tr><td><table width="100%"></table></td></tr></table></font>
+<!-- desc_gen:end -->]]></desc>
+	<sym>tourism-drinkingwater</sym>
+</wpt>
+<wpt lat="48.3103408" lon="14.2342955">
+	<ele>264.06</ele>
+	<time>2023-08-20T05:35:04.000Z</time>
+	<name>Eurospar</name>
+	<desc><![CDATA[<!-- desc_gen:start -->
+<font color="#ff000000"><table width="100%"><tr><td><table width="100%"><tr><td align="left" valign="center"><small><b>Magasság</b></small></td><td align="center" valign="center">264 m</td></tr>
+<tr><td align="left" valign="center"><small><b>Létrehozva</b></small></td><td align="center" valign="center">2023-08-21 04:00:58</td></tr>
+</table></td></tr><tr><td><table width="100%"></table></td></tr></table></font>
+<!-- desc_gen:end -->]]></desc>
+	<sym>stores-convenience</sym>
+</wpt>
+<wpt lat="48.7300326" lon="13.0626690">
+	<ele>308.93</ele>
+	<time>2023-08-20T05:29:57.000Z</time>
+	<name>Netto Marken-Discount</name>
+	<desc><![CDATA[<!-- desc_gen:start -->
+<font color="#ff000000"><table width="100%"><tr><td><table width="100%"><tr><td align="left" valign="center"><small><b>Magasság</b></small></td><td align="center" valign="center">309 m</td></tr>
+<tr><td align="left" valign="center"><small><b>Létrehozva</b></small></td><td align="center" valign="center">2023-08-21 04:00:58</td></tr>
+</table></td></tr><tr><td><table width="100%"></table></td></tr></table></font>
+<!-- desc_gen:end -->]]></desc>
+	<sym>stores-convenience</sym>
+</wpt>
+<wpt lat="48.8159071" lon="12.9765701">
+	<ele>317.04</ele>
+	<time>2023-08-20T05:29:10.000Z</time>
+	<name>Netto Marken-Discount</name>
+	<desc><![CDATA[<!-- desc_gen:start -->
+<font color="#ff000000"><table width="100%"><tr><td><table width="100%"><tr><td align="left" valign="center"><small><b>Magasság</b></small></td><td align="center" valign="center">317 m</td></tr>
+<tr><td align="left" valign="center"><small><b>Létrehozva</b></small></td><td align="center" valign="center">2023-08-21 04:00:58</td></tr>
+</table></td></tr><tr><td><table width="100%"></table></td></tr></table></font>
+<!-- desc_gen:end -->]]></desc>
+	<sym>stores-convenience</sym>
+</wpt>
+<wpt lat="48.8276756" lon="12.9604340">
+	<ele>311.88</ele>
+	<time>2023-08-20T05:28:58.000Z</time>
+	<name>Edeka</name>
+	<desc><![CDATA[<!-- desc_gen:start -->
+<font color="#ff000000"><table width="100%"><tr><td><table width="100%"><tr><td align="left" valign="center"><small><b>Magasság</b></small></td><td align="center" valign="center">312 m</td></tr>
+<tr><td align="left" valign="center"><small><b>Létrehozva</b></small></td><td align="center" valign="center">2023-08-21 04:00:58</td></tr>
+</table></td></tr><tr><td><table width="100%"></table></td></tr></table></font>
+<!-- desc_gen:end -->]]></desc>
+	<sym>stores-convenience</sym>
+</wpt>
+<wpt lat="48.8289505" lon="12.9597741">
+	<ele>311.19</ele>
+	<time>2023-08-20T05:28:53.000Z</time>
+	<name>ALDI Süd</name>
+	<desc><![CDATA[<!-- desc_gen:start -->
+<font color="#ff000000"><table width="100%"><tr><td><table width="100%"><tr><td align="left" valign="center"><small><b>Magasság</b></small></td><td align="center" valign="center">311 m</td></tr>
+<tr><td align="left" valign="center"><small><b>Létrehozva</b></small></td><td align="center" valign="center">2023-08-21 04:00:58</td></tr>
+</table></td></tr><tr><td><table width="100%"></table></td></tr></table></font>
+<!-- desc_gen:end -->]]></desc>
+	<sym>stores-convenience</sym>
+</wpt>
+<wpt lat="48.8478401" lon="12.9116660">
+	<ele>311.95</ele>
+	<time>2023-08-20T05:28:39.000Z</time>
+	<name>Netto Marken-Discount</name>
+	<desc><![CDATA[<!-- desc_gen:start -->
+<font color="#ff000000"><table width="100%"><tr><td><table width="100%"><tr><td align="left" valign="center"><small><b>Magasság</b></small></td><td align="center" valign="center">312 m</td></tr>
+<tr><td align="left" valign="center"><small><b>Létrehozva</b></small></td><td align="center" valign="center">2023-08-21 04:00:58</td></tr>
+</table></td></tr><tr><td><table width="100%"></table></td></tr></table></font>
+<!-- desc_gen:end -->]]></desc>
+	<sym>stores-convenience</sym>
+</wpt>
+<wpt lat="48.8434732" lon="12.7972430">
+	<ele>313.79</ele>
+	<time>2023-08-20T05:28:12.000Z</time>
+	<name>Edeka Krönauer</name>
+	<desc><![CDATA[<!-- desc_gen:start -->
+<font color="#ff000000"><table width="100%"><tr><td><table width="100%"><tr><td align="left" valign="center"><small><b>Magasság</b></small></td><td align="center" valign="center">314 m</td></tr>
+<tr><td align="left" valign="center"><small><b>Létrehozva</b></small></td><td align="center" valign="center">2023-08-21 04:00:58</td></tr>
+</table></td></tr><tr><td><table width="100%"></table></td></tr></table></font>
+<!-- desc_gen:end -->]]></desc>
+	<sym>stores-convenience</sym>
+</wpt>
+<wpt lat="48.9045087" lon="12.6931089">
+	<ele>318.76</ele>
+	<time>2023-08-20T05:27:35.000Z</time>
+	<name>Netto Marken-Discount</name>
+	<desc><![CDATA[<!-- desc_gen:start -->
+<font color="#ff000000"><table width="100%"><tr><td><table width="100%"><tr><td align="left" valign="center"><small><b>Magasság</b></small></td><td align="center" valign="center">319 m</td></tr>
+<tr><td align="left" valign="center"><small><b>Létrehozva</b></small></td><td align="center" valign="center">2023-08-21 04:00:58</td></tr>
+</table></td></tr><tr><td><table width="100%"></table></td></tr></table></font>
+<!-- desc_gen:end -->]]></desc>
+	<sym>stores-convenience</sym>
+</wpt>
+<wpt lat="48.9092511" lon="12.6855612">
+	<ele>316.15</ele>
+	<time>2023-08-20T04:57:38.000Z</time>
+	<name>Norma</name>
+	<desc><![CDATA[<!-- desc_gen:start -->
+<font color="#ff000000"><table width="100%"><tr><td><table width="100%"><tr><td align="left" valign="center"><small><b>Magasság</b></small></td><td align="center" valign="center">316 m</td></tr>
+<tr><td align="left" valign="center"><small><b>Létrehozva</b></small></td><td align="center" valign="center">2023-08-21 04:00:58</td></tr>
+</table></td></tr><tr><td><table width="100%"></table></td></tr></table></font>
+<!-- desc_gen:end -->]]></desc>
+	<sym>stores-convenience</sym>
+</wpt>
+<wpt lat="48.8893653" lon="12.5775272">
+	<ele>316.98</ele>
+	<time>2023-08-20T04:58:02.000Z</time>
+	<name>Aldi Süd</name>
+	<desc><![CDATA[<!-- desc_gen:start -->
+<font color="#ff000000"><table width="100%"><tr><td><table width="100%"><tr><td align="left" valign="center"><small><b>Magasság</b></small></td><td align="center" valign="center">317 m</td></tr>
+<tr><td align="left" valign="center"><small><b>Létrehozva</b></small></td><td align="center" valign="center">2023-08-21 04:00:58</td></tr>
+</table></td></tr><tr><td><table width="100%"></table></td></tr></table></font>
+<!-- desc_gen:end -->]]></desc>
+	<sym>stores-convenience</sym>
+</wpt>
+<wpt lat="48.8799786" lon="12.5645721">
+	<ele>332.07</ele>
+	<time>2023-08-20T04:58:19.000Z</time>
+	<name>Rewe</name>
+	<desc><![CDATA[<!-- desc_gen:start -->
+<font color="#ff000000"><table width="100%"><tr><td><table width="100%"><tr><td align="left" valign="center"><small><b>Magasság</b></small></td><td align="center" valign="center">332 m</td></tr>
+<tr><td align="left" valign="center"><small><b>Létrehozva</b></small></td><td align="center" valign="center">2023-08-21 04:00:58</td></tr>
+</table></td></tr><tr><td><table width="100%"></table></td></tr></table></font>
+<!-- desc_gen:end -->]]></desc>
+	<sym>stores-convenience</sym>
+</wpt>
+</gpx>
