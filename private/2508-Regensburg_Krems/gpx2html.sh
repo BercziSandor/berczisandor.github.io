@@ -1,5 +1,6 @@
 #!/bin/bash
 set -e
+set -vx
 
 SCRIPTDIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 cd "${SCRIPTDIR}" >/dev/null || exit
@@ -10,13 +11,5 @@ if [ ! -d "${interactiveMapDir}" ]; then
     exit 1
 fi
 
-if [ "$(ls -A "${interactiveMapDir}/input")" ]; then
-    echo "Directory ${interactiveMapDir}/input is not empty. Exiting."
-    rm ${interactiveMapDir}/input/*.gpx # DEMO
-    # exit 1
-fi
-
-cp ./*.gpx ${interactiveMapDir}/input/
-
 cd "${interactiveMapDir}"
-./install_and_run.sh ./input
+./install_and_run.sh "${SCRIPTDIR}/gpx"
