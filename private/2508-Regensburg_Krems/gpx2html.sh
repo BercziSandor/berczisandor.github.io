@@ -1,6 +1,6 @@
 #!/bin/bash
 set -e
-set -vx
+# set -vx
 
 SCRIPTDIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 cd "${SCRIPTDIR}" >/dev/null || exit
