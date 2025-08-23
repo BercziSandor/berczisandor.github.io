@@ -1,0 +1,21 @@
+{
+    "ikonok": "🏰;🏛;🏔; 💧;🍴;🍺;☕;⛺;🏠;🚲;🚴;🛠;🚻;🏧; 🛒 📍; ℹ; 🪑; 🛑;🚨",
+	"points": [
+        {
+            "name": "Klinik St. Hedwig",
+            "icon": "🚨",
+            "description": "Jó hely megpihenni",
+            "lat": 49.016758,
+            "lon": 12.078835,
+            "color": "green",
+            "popup": "Pihenőhely szép kilátással<br>Erdő közepén<br>Ivóvíz nincs"
+        }
+    , {"osm_url": "https://www.openstreetmap.org/relation/2901896", "popup": "Kloster Weltenburg"}
+    , {"osm_url": "https://www.openstreetmap.org/way/24719324", "popup": "Befreiungshalle Kehlheim"}
+    , {"osm_url": "https://www.openstreetmap.org/way/94950461", "popup": "Pihenő", "icon": "\uD83E\uDE91"}
+    , {"osm_url": "https://www.openstreetmap.org/node/12554940185", "popup": "Trinkbrunnen Brücke"}
+    , {"osm_url": "https://www.openstreetmap.org/node/386893204", "popup": "Barlangok, kilátók"}
+    , {"osm_url": "https://www.openstreetmap.org/way/176431514", "popup": "Szállás"}
+    , {"osm_url": "https://www.openstreetmap.org/way/94950461", "popup": "Norma"}
+    ]
+}
