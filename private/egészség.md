@@ -1,0 +1,43 @@
+
+Egészség
+ - Reggeli rutin       
+   - https://www.facebook.com/reel/1220492176128777
+   - ttps://www.facebook.com/reel/2356909524656152
+ - Erősítés
+   - Kézisúlyzós edzés
+     - https://www.facebook.com/reel/1000583912287877
+     - https://www.facebook.com/reel/1937177843724750
+     - https://www.youtube.com/watch?v=nBn3QlFv4V0
+     - https://www.youtube.com/watch?v=v2vLQiU8lJQ
+     - https://www.facebook.com/reel/1196928728403366
+     - https://www.facebook.com/reel/1666941030746710
+ - Nyújtás
+   - Full body
+     - https://www.youtube.com/watch?v=Kvoq4luIYVc
+     - https://www.youtube.com/watch?v=4C-gxOE0j7s
+ - Nyújtás, erősítés
+   - Derék   
+     - https://www.facebook.com/watch/?v=509372968841560&rdid=v8eCz5Dfug1arLQf
+       - AQPRypKoOhnvChWwmRlK7AobLZQJ7-RyXTkHxktL2h-yvzfBJOOUe2cSJNgD3aDSdwVKFv8g35fz8PJcXKsPqkwh.mp4
+     - https://www.facebook.com/reel/1098670988460291
+       - AQPwICIYIEWCoG3xfcEoz21s1cPHuvrSO6QOwXQp3S3g9RrwIixw2DRv6iEF12u9jVQLWyIYhdBN2cXP_wkJ-QE-rD6GTPyehw_9HPzehw.mp4
+     - https://www.facebook.com/reel/1199786081858693
+       - AQPbXWNlaqludrLnLJ4T1ObWyBdr4NzVcmCTM_zW97KMEHgK6vosjWTrYSPv_GBhR4IaJcFIKZ-9DpMMXoP_ke51-5fQVj49gGlFrzY.mp4 
+    - Lapocka
+       - https://www.facebook.com/reel/1253580029045523
+       - https://www.facebook.com/reel/1369409827566882
+       - https://www.facebook.com/reel/1441788500121897
+       - https://www.facebook.com/reel/1690793661848574
+       - https://www.facebook.com/reel/754127423866452
+       - https://www.facebook.com/reel/1509297289736492
+    - Váll
+       - https://www.facebook.com/reel/1334686187519406
+       - https://www.facebook.com/reel/1365297591568513
+       - https://www.facebook.com/reel/2272514296485056
+       - https://www.facebook.com/reel/610643532095450
+       - https://www.facebook.com/reel/733767695774374
+       - https://www.facebook.com/share/r/19dZ7magXQ/
+       - https://www.facebook.com/share/r/1CQzewABex/
+    - Talpi bőnye     
+       - https://www.youtube.com/watch?v=JOkGFewUg88
+
