@@ -18,14 +18,18 @@ Egészség
  - Nyújtás, erősítés
    - Derék   
      - [Facebook](https://www.facebook.com/watch/?v=509372968841560&rdid=v8eCz5Dfug1arLQf)
-        <video width="640" height="360" controls>
+       - <video width="640" height="360" controls>
             <source src="videos/AQPRypKoOhnvChWwmRlK7AobLZQJ7-RyXTkHxktL2h-yvzfBJOOUe2cSJNgD3aDSdwVKFv8g35fz8PJcXKsPqkwh.mp4" type="video/mp4">
-            A böngésződ nem támogatja a videó lejátszását.
-        </video>
-     - https://www.facebook.com/reel/1098670988460291
-       - AQPwICIYIEWCoG3xfcEoz21s1cPHuvrSO6QOwXQp3S3g9RrwIixw2DRv6iEF12u9jVQLWyIYhdBN2cXP_wkJ-QE-rD6GTPyehw_9HPzehw.mp4
-     - https://www.facebook.com/reel/1199786081858693
-       - AQPbXWNlaqludrLnLJ4T1ObWyBdr4NzVcmCTM_zW97KMEHgK6vosjWTrYSPv_GBhR4IaJcFIKZ-9DpMMXoP_ke51-5fQVj49gGlFrzY.mp4 
+            A böngésződ nem támogatja a videó lejátszását.</video>
+       - [Letöltés: mp4](videos/AQPRypKoOhnvChWwmRlK7AobLZQJ7-RyXTkHxktL2h-yvzfBJOOUe2cSJNgD3aDSdwVKFv8g35fz8PJcXKsPqkwh.mp4)
+     - [Facebook](https://www.facebook.com/reel/1098670988460291)
+       - <video width="640" height="360" controls>
+            <source src="videos/AQPwICIYIEWCoG3xfcEoz21s1cPHuvrSO6QOwXQp3S3g9RrwIixw2DRv6iEF12u9jVQLWyIYhdBN2cXP_wkJ-QE-rD6GTPyehw_9HPzehw.mp4" type="video/mp4">A böngésződ nem támogatja a videó lejátszását.</video>
+       - [Letöltés: mp4](videos/AQPwICIYIEWCoG3xfcEoz21s1cPHuvrSO6QOwXQp3S3g9RrwIixw2DRv6iEF12u9jVQLWyIYhdBN2cXP_wkJ-QE-rD6GTPyehw_9HPzehw.mp4)
+     - [Facebook](https://www.facebook.com/reel/1199786081858693)
+       - <video width="640" height="360" controls>
+            <source src="videos/AQPbXWNlaqludrLnLJ4T1ObWyBdr4NzVcmCTM_zW97KMEHgK6vosjWTrYSPv_GBhR4IaJcFIKZ-9DpMMXoP_ke51-5fQVj49gGlFrzY.mp4" type="video/mp4"> A böngésződ nem támogatja a videó lejátszását.</video>
+       - [Letöltés: mp4](videos/AQPwICIYIEWCoG3xfcEoz21s1cPHuvrSO6QOwXQp3S3g9RrwIixw2DRv6iEF12u9jVQLWyIYhdBN2cXP_wkJ-QE-rD6GTPyehw_9HPzehw.mp4)
     - Lapocka
        - https://www.facebook.com/reel/1253580029045523
        - https://www.facebook.com/reel/1369409827566882
