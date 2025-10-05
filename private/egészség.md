@@ -21,6 +21,7 @@ Egészség
        - <video width="640" height="360" controls>
             <source src="videos/AQPRypKoOhnvChWwmRlK7AobLZQJ7-RyXTkHxktL2h-yvzfBJOOUe2cSJNgD3aDSdwVKFv8g35fz8PJcXKsPqkwh.mp4" type="video/mp4">
             A böngésződ nem támogatja a videó lejátszását.</video>
+       - https://github.com/user-attachments/assets/e948367c-0816-49db-96a3-9af6a5f0fe96
        - [Letöltés: mp4](videos/AQPRypKoOhnvChWwmRlK7AobLZQJ7-RyXTkHxktL2h-yvzfBJOOUe2cSJNgD3aDSdwVKFv8g35fz8PJcXKsPqkwh.mp4)
      - [Facebook](https://www.facebook.com/reel/1098670988460291)
        - <video width="640" height="360" controls>
