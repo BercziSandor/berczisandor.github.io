@@ -1,9 +1,31 @@
 
 ```bash
-#!/bin/bash
-git_root=/c/Entwicklung/work/_git
-${git_root}/dailyUtils/private/gpx/interactiveMap/gpx-poi-tools/scripts/batch_process.sh ${git_root}/berczisandor.github.io/private/e/26-DrauRadweg/gpx
+/c/Entwicklung/work/_git/dailyUtils/private/gpx/interactiveMap/gpx-poi-tools/scripts/batch_process.sh \
+	/c/Entwicklung/work/_git/berczisandor.github.io/private/e/26-DrauRadweg/gpx
+
 ```
+
+```bash
+source /c/Entwicklung/work/_git/dailyUtils/development/rename_files.sh
+rename_files Camping-Alla-Baita Misurina *.gpx
+rename_files Campingplatz-Dellach-Drau Dellach *.gpx
+rename_files Camping-Seehof Villach *.gpx
+rename_files Camping-Rosental-Roz Dullach *.gpx
+rename_files Campingplatz-Lavamund Lavamünd *.gpx
+rename_files Maribor-Studenci Maribor *.gpx
+```
+
+```bash
+python3 /c/Entwicklung/work/_git/dailyUtils/private/gpx/joinGpx/join_gpx.py \
+    ../1-Misurina-Lienz.gpx \
+    ../2-Lienz-Spittal-an-der-Drau.gpx \
+    ../3-Spittal-an-der-Drau-Ferlach.gpx \
+    ../4-Ferlach-Lavamund.gpx \
+    ../5-Lavamund-Maribor.gpx \
+    >0-Misurina-Maribor.gpx
+```
+
+
 
 ```
 Hallo,
