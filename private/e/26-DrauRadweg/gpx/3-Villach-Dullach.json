@@ -1,15 +1,136 @@
 {
   "points": [
     {
-      "name": "Pension Singer",
+      "name": "checkin",
+      "icon": "🍺",
+      "description": "Pub",
+      "lat": 46.6134022,
+      "lon": 14.0347235,
+      "color": "orange",
+      "popup": "checkin",
+      "category": "Food & Drink",
+      "osm_url": "https://www.openstreetmap.org/node/282548538"
+    },
+    {
+      "name": "Schlosshotel Velden",
       "icon": "🏠",
       "description": "Hotel",
-      "lat": 46.5453954,
-      "lon": 14.2535992,
+      "lat": 46.612172,
+      "lon": 14.0426563,
       "color": "blue",
-      "popup": "Pension Singer<br>Phone: +43422784020",
+      "popup": "Schlosshotel Velden",
       "category": "Accommodation",
-      "osm_url": "https://www.openstreetmap.org/node/698593286"
+      "osm_url": "https://www.openstreetmap.org/node/290458357"
+    },
+    {
+      "name": "Wörtherseeapotheke",
+      "icon": "💊",
+      "description": "Pharmacy",
+      "lat": 46.6133582,
+      "lon": 14.0342841,
+      "color": "green",
+      "popup": "Wörtherseeapotheke<br>Opening hours: Sep-Jun Mo-Fr 08:30-12:30,14:30-18:30; Sep-Jun Sa 08:00-12:00; Jul-Aug Mo-Sa 08:00-19:00",
+      "category": "Health",
+      "osm_url": "https://www.openstreetmap.org/node/295391580"
+    },
+    {
+      "name": "Kaiserhütte",
+      "icon": "🏔",
+      "description": "Viewpoint",
+      "lat": 46.5543934,
+      "lon": 14.2990865,
+      "color": "green",
+      "popup": "Kaiserhütte",
+      "category": "Sightseeing",
+      "osm_url": "https://www.openstreetmap.org/node/325123571"
+    },
+    {
+      "name": "Viewpoint",
+      "icon": "🏔",
+      "description": "Viewpoint",
+      "lat": 46.6053702,
+      "lon": 14.2235696,
+      "color": "green",
+      "popup": "Viewpoint",
+      "category": "Sightseeing",
+      "osm_url": "https://www.openstreetmap.org/node/462748039"
+    },
+    {
+      "name": "13er, Casino Bar",
+      "icon": "🍺",
+      "description": "Pub",
+      "lat": 46.6150682,
+      "lon": 14.0432026,
+      "color": "orange",
+      "popup": "13er, Casino Bar<br>Am Corso 17",
+      "category": "Food & Drink",
+      "osm_url": "https://www.openstreetmap.org/node/502993382"
+    },
+    {
+      "name": "Haus Ina",
+      "icon": "🏠",
+      "description": "Guest House",
+      "lat": 46.6087779,
+      "lon": 14.1776398,
+      "color": "blue",
+      "popup": "Haus Ina",
+      "category": "Accommodation",
+      "osm_url": "https://www.openstreetmap.org/node/539476252"
+    },
+    {
+      "name": "Haus Lechleitner",
+      "icon": "🏠",
+      "description": "Guest House",
+      "lat": 46.6079317,
+      "lon": 14.1775249,
+      "color": "blue",
+      "popup": "Haus Lechleitner",
+      "category": "Accommodation",
+      "osm_url": "https://www.openstreetmap.org/node/539476253"
+    },
+    {
+      "name": "Pension Bisamberg",
+      "icon": "🏠",
+      "description": "Guest House",
+      "lat": 46.6065725,
+      "lon": 14.1795645,
+      "color": "blue",
+      "popup": "Pension Bisamberg<br>Lindenweg 3",
+      "category": "Accommodation",
+      "osm_url": "https://www.openstreetmap.org/node/539476301"
+    },
+    {
+      "name": "Conditorei Fally",
+      "icon": "☕",
+      "description": "Cafe",
+      "lat": 46.6055051,
+      "lon": 14.1809611,
+      "color": "orange",
+      "popup": "Conditorei Fally<br>Opening hours: Mo-Fr 08:30-20:00",
+      "category": "Food & Drink",
+      "osm_url": "https://www.openstreetmap.org/node/539499269"
+    },
+    {
+      "name": "Cafe - Cest la Vie",
+      "icon": "☕",
+      "description": "Cafe",
+      "lat": 46.6070159,
+      "lon": 14.1808081,
+      "color": "orange",
+      "popup": "Cafe - Cest la Vie",
+      "category": "Food & Drink",
+      "osm_url": "https://www.openstreetmap.org/node/539499309"
+    },
+    {
+      "name": "Seehotel Vinzenz",
+      "icon": "🏠",
+      "description": "Hotel",
+      "lat": 46.6167943,
+      "lon": 14.0925159,
+      "color": "blue",
+      "popup": "Seehotel Vinzenz<br>Phone: +4342742889<br>Süduferstraße 154",
+      "category": "Accommodation",
+      "osm_url": "https://www.openstreetmap.org/node/698566571"
     },
     {
       "name": "Pension Claudia",
@@ -23,15 +144,15 @@
       "osm_url": "https://www.openstreetmap.org/node/724927405"
     },
     {
-      "name": "Hotel Rosentalerhof",
-      "icon": "🏠",
-      "description": "Hotel",
-      "lat": 46.5652725,
-      "lon": 14.0310157,
-      "color": "blue",
-      "popup": "Hotel Rosentalerhof",
-      "category": "Accommodation",
-      "osm_url": "https://www.openstreetmap.org/node/768544954"
+      "name": "Ralfitos drinks&more",
+      "icon": "☕",
+      "description": "Cafe",
+      "lat": 46.6056205,
+      "lon": 14.2936334,
+      "color": "orange",
+      "popup": "Ralfitos drinks&more<br>Opening hours: Mo-Sa 10:00-22:00;Su, PH off",
+      "category": "Food & Drink",
+      "osm_url": "https://www.openstreetmap.org/node/1094890757"
     },
     {
       "name": "Hotel Seestuben",
@@ -56,15 +177,81 @@
       "osm_url": "https://www.openstreetmap.org/node/1240512691"
     },
     {
+      "name": "Hotel",
+      "icon": "🏠",
+      "description": "Hotel",
+      "lat": 46.6028556,
+      "lon": 14.0040592,
+      "color": "blue",
+      "popup": "Hotel",
+      "category": "Accommodation",
+      "osm_url": "https://www.openstreetmap.org/node/1272039842"
+    },
+    {
+      "name": "Kristöfl",
+      "icon": "🏠",
+      "description": "Guest House",
+      "lat": 46.6057656,
+      "lon": 13.9979618,
+      "color": "blue",
+      "popup": "Kristöfl",
+      "category": "Accommodation",
+      "osm_url": "https://www.openstreetmap.org/node/1272046895"
+    },
+    {
+      "name": "Monument",
+      "icon": "🗿",
+      "description": "Monument",
+      "lat": 46.6046401,
+      "lon": 14.0034219,
+      "color": "gray",
+      "popup": "Monument",
+      "category": "Sightseeing",
+      "osm_url": "https://www.openstreetmap.org/node/1314076765"
+    },
+    {
+      "name": "Monument",
+      "icon": "🗿",
+      "description": "Monument",
+      "lat": 46.6058425,
+      "lon": 14.0026503,
+      "color": "gray",
+      "popup": "Monument",
+      "category": "Sightseeing",
+      "osm_url": "https://www.openstreetmap.org/node/1314076816"
+    },
+    {
+      "name": "Monument",
+      "icon": "🗿",
+      "description": "Monument",
+      "lat": 46.6056313,
+      "lon": 14.0024403,
+      "color": "gray",
+      "popup": "Monument",
+      "category": "Sightseeing",
+      "osm_url": "https://www.openstreetmap.org/node/1314076817"
+    },
+    {
       "name": "Drinking Water",
       "icon": "💧",
       "description": "Drinking Water",
-      "lat": 46.5452852,
-      "lon": 14.2515311,
+      "lat": 46.606163,
+      "lon": 14.0022937,
       "color": "blue",
       "popup": "Drinking Water",
       "category": "Water",
-      "osm_url": "https://www.openstreetmap.org/node/1363736247"
+      "osm_url": "https://www.openstreetmap.org/node/1314076844"
+    },
+    {
+      "name": "Seepromenade",
+      "icon": "🏔",
+      "description": "Viewpoint",
+      "lat": 46.6121363,
+      "lon": 14.0439877,
+      "color": "green",
+      "popup": "Seepromenade",
+      "category": "Sightseeing",
+      "osm_url": "https://www.openstreetmap.org/node/1337325256"
     },
     {
       "name": "Drinking Water",
@@ -78,6 +265,39 @@
       "osm_url": "https://www.openstreetmap.org/node/1368750400"
     },
     {
+      "name": "Friedensglocke",
+      "icon": "🎯",
+      "description": "Attraction",
+      "lat": 46.6176645,
+      "lon": 14.164403,
+      "color": "purple",
+      "popup": "Friedensglocke",
+      "category": "Sightseeing",
+      "osm_url": "https://www.openstreetmap.org/node/1389422562"
+    },
+    {
+      "name": "FeWo Perdacher",
+      "icon": "🏠",
+      "description": "Hotel",
+      "lat": 46.6027087,
+      "lon": 14.1819275,
+      "color": "blue",
+      "popup": "FeWo Perdacher<br>Phone: +43 650 419 2000<br><a href='www.perdacher.com' target='_blank'>Website</a><br>Raunacher Straße 16",
+      "category": "Accommodation",
+      "osm_url": "https://www.openstreetmap.org/node/1507707883"
+    },
+    {
+      "name": "Dr. Doris Schmidhofer",
+      "icon": "💊",
+      "description": "Pharmacy",
+      "lat": 46.6065638,
+      "lon": 14.1822507,
+      "color": "green",
+      "popup": "Dr. Doris Schmidhofer",
+      "category": "Health",
+      "osm_url": "https://www.openstreetmap.org/node/1507712569"
+    },
+    {
       "name": "Lagerhaus Stüber",
       "icon": "☕",
       "description": "Cafe",
@@ -87,6 +307,50 @@
       "popup": "Lagerhaus Stüber",
       "category": "Food & Drink",
       "osm_url": "https://www.openstreetmap.org/node/1608890640"
+    },
+    {
+      "name": "Hotel",
+      "icon": "🏠",
+      "description": "Hotel",
+      "lat": 46.6106432,
+      "lon": 14.0366104,
+      "color": "blue",
+      "popup": "Hotel",
+      "category": "Accommodation",
+      "osm_url": "https://www.openstreetmap.org/node/1745789919"
+    },
+    {
+      "name": "Café im LustGARTEN",
+      "icon": "☕",
+      "description": "Cafe",
+      "lat": 46.6052612,
+      "lon": 14.2981945,
+      "color": "orange",
+      "popup": "Café im LustGARTEN<br>Opening hours: Mo-Fr 10:00-22:00, Sa 10:00-15:00<br>Phone: +43 463 230190<br><a href='https://www.lustgarten.at/' target='_blank'>Website</a><br>Rosentaler Straße 145",
+      "category": "Food & Drink",
+      "osm_url": "https://www.openstreetmap.org/node/1752633288"
+    },
+    {
+      "name": "Drinking Water",
+      "icon": "💧",
+      "description": "Drinking Water",
+      "lat": 46.6048098,
+      "lon": 14.2816934,
+      "color": "blue",
+      "popup": "Drinking Water",
+      "category": "Water",
+      "osm_url": "https://www.openstreetmap.org/node/1842959128"
+    },
+    {
+      "name": "Do & Ga",
+      "icon": "☕",
+      "description": "Cafe",
+      "lat": 46.6139555,
+      "lon": 14.0426905,
+      "color": "orange",
+      "popup": "Do & Ga<br>Opening hours: 10:00-0:00<br>Phone: +43 4274 51633<br><a href='http://www.doga-cafebar.at' target='_blank'>Website</a><br>Am Corso 27",
+      "category": "Food & Drink",
+      "osm_url": "https://www.openstreetmap.org/node/2019816082"
     },
     {
       "name": "Genuss-Meierei Villach",
@@ -100,15 +364,81 @@
       "osm_url": "https://www.openstreetmap.org/node/2028689199"
     },
     {
-      "name": "Wahaha Paradise",
+      "name": "Viewpoint",
+      "icon": "🏔",
+      "description": "Viewpoint",
+      "lat": 46.6092148,
+      "lon": 14.0464762,
+      "color": "green",
+      "popup": "Viewpoint",
+      "category": "Sightseeing",
+      "osm_url": "https://www.openstreetmap.org/node/2091217417"
+    },
+    {
+      "name": "Hotel Veldener Traumschiff",
       "icon": "🏠",
       "description": "Hotel",
-      "lat": 46.5329128,
-      "lon": 14.1328831,
+      "lat": 46.6096701,
+      "lon": 14.0464488,
       "color": "blue",
-      "popup": "Wahaha Paradise<br><a href='https://www.wahaha-paradise.com/' target='_blank'>Website</a>",
+      "popup": "Hotel Veldener Traumschiff<br><a href='https://www.veldener-traumschiff.at/' target='_blank'>Website</a><br>Seecorso 40",
       "category": "Accommodation",
-      "osm_url": "https://www.openstreetmap.org/node/2334228821"
+      "osm_url": "https://www.openstreetmap.org/node/2324476283"
+    },
+    {
+      "name": "Hotel Post",
+      "icon": "🏠",
+      "description": "Hotel",
+      "lat": 46.6161182,
+      "lon": 14.0439438,
+      "color": "blue",
+      "popup": "Hotel Post",
+      "category": "Accommodation",
+      "osm_url": "https://www.openstreetmap.org/node/2368114578"
+    },
+    {
+      "name": "Hotel Carinthia",
+      "icon": "🏠",
+      "description": "Hotel",
+      "lat": 46.6133725,
+      "lon": 14.0415919,
+      "color": "blue",
+      "popup": "Hotel Carinthia<br>Phone: +43 4274 2171<br><a href='http://www.hotelcarinthia.at/' target='_blank'>Website</a><br>Karawankenplatz 3",
+      "category": "Accommodation",
+      "osm_url": "https://www.openstreetmap.org/node/3554983895"
+    },
+    {
+      "name": "Leopold",
+      "icon": "🏠",
+      "description": "Hotel",
+      "lat": 46.6106173,
+      "lon": 14.0443125,
+      "color": "blue",
+      "popup": "Leopold<br>Phone: +43 4274 26 32<br>Seecorso 18",
+      "category": "Accommodation",
+      "osm_url": "https://www.openstreetmap.org/node/3554993505"
+    },
+    {
+      "name": "Hotel Wörth",
+      "icon": "🏠",
+      "description": "Hotel",
+      "lat": 46.6154196,
+      "lon": 14.1625453,
+      "color": "blue",
+      "popup": "Hotel Wörth",
+      "category": "Accommodation",
+      "osm_url": "https://www.openstreetmap.org/node/3584276789"
+    },
+    {
+      "name": "Old Car's Motel",
+      "icon": "☕",
+      "description": "Cafe",
+      "lat": 46.6018257,
+      "lon": 14.0201006,
+      "color": "orange",
+      "popup": "Old Car's Motel<br>Phone: +43 688 9052629<br>Rosegger Straße 108",
+      "category": "Food & Drink",
+      "osm_url": "https://www.openstreetmap.org/node/3676511900"
     },
     {
       "name": "Drinking Water",
@@ -221,15 +551,26 @@
       "osm_url": "https://www.openstreetmap.org/node/4320908443"
     },
     {
-      "name": "Sparovec",
-      "icon": "🛒",
-      "description": "Convenience Store",
-      "lat": 46.5393106,
-      "lon": 14.2585161,
+      "name": "Hochquellen Trinkwasser",
+      "icon": "💧",
+      "description": "Drinking Water",
+      "lat": 46.6136063,
+      "lon": 14.0420895,
+      "color": "blue",
+      "popup": "Hochquellen Trinkwasser",
+      "category": "Water",
+      "osm_url": "https://www.openstreetmap.org/node/4359257905"
+    },
+    {
+      "name": "Viewpoint",
+      "icon": "🏔",
+      "description": "Viewpoint",
+      "lat": 46.6038148,
+      "lon": 14.0014865,
       "color": "green",
-      "popup": "Sparovec",
-      "category": "Shopping",
-      "osm_url": "https://www.openstreetmap.org/node/4552087316"
+      "popup": "Viewpoint",
+      "category": "Sightseeing",
+      "osm_url": "https://www.openstreetmap.org/node/4426201822"
     },
     {
       "name": "Petelinz",
@@ -287,6 +628,83 @@
       "osm_url": "https://www.openstreetmap.org/node/4936920047"
     },
     {
+      "name": "Schatzi Wörthersee",
+      "icon": "🍺",
+      "description": "Pub",
+      "lat": 46.6136289,
+      "lon": 14.0415798,
+      "color": "orange",
+      "popup": "Schatzi Wörthersee<br>Karawankenplatz 3",
+      "category": "Food & Drink",
+      "osm_url": "https://www.openstreetmap.org/node/5331528663"
+    },
+    {
+      "name": "Antonio Rella",
+      "icon": "☕",
+      "description": "Cafe",
+      "lat": 46.6163021,
+      "lon": 14.0456088,
+      "color": "orange",
+      "popup": "Antonio Rella<br>Am Corso 5",
+      "category": "Food & Drink",
+      "osm_url": "https://www.openstreetmap.org/node/5340914866"
+    },
+    {
+      "name": "Café Moro",
+      "icon": "🍺",
+      "description": "Pub",
+      "lat": 46.6156409,
+      "lon": 14.043616,
+      "color": "orange",
+      "popup": "Café Moro<br>Phone: +43 4274 2279<br><a href='https://www.moro.at/' target='_blank'>Website</a><br>Am Corso 8",
+      "category": "Food & Drink",
+      "osm_url": "https://www.openstreetmap.org/node/5346673608"
+    },
+    {
+      "name": "Casino Hotel",
+      "icon": "🏠",
+      "description": "Hotel",
+      "lat": 46.6152485,
+      "lon": 14.0425716,
+      "color": "blue",
+      "popup": "Casino Hotel<br>Phone: +43 4274 51233<br><a href='https://www.casino-hotel.at/' target='_blank'>Website</a><br>Am Corso 10",
+      "category": "Accommodation",
+      "osm_url": "https://www.openstreetmap.org/node/5348585053"
+    },
+    {
+      "name": "Le Cafe",
+      "icon": "☕",
+      "description": "Cafe",
+      "lat": 46.6154508,
+      "lon": 14.0429702,
+      "color": "orange",
+      "popup": "Le Cafe<br><a href='https://www.casino-hotel.at/index.php/en/en-recommend/en-lecafe' target='_blank'>Website</a><br>Am Corso 10",
+      "category": "Food & Drink",
+      "osm_url": "https://www.openstreetmap.org/node/5348585054"
+    },
+    {
+      "name": "Aqua Cafe Bar",
+      "icon": "🍺",
+      "description": "Pub",
+      "lat": 46.6127832,
+      "lon": 14.0421955,
+      "color": "orange",
+      "popup": "Aqua Cafe Bar<br>Seecorso 4",
+      "category": "Food & Drink",
+      "osm_url": "https://www.openstreetmap.org/node/5356396749"
+    },
+    {
+      "name": "Viewpoint",
+      "icon": "🏔",
+      "description": "Viewpoint",
+      "lat": 46.610307,
+      "lon": 14.0604495,
+      "color": "green",
+      "popup": "Viewpoint",
+      "category": "Sightseeing",
+      "osm_url": "https://www.openstreetmap.org/node/5356396756"
+    },
+    {
       "name": "Café Mephisto",
       "icon": "☕",
       "description": "Cafe",
@@ -298,26 +716,15 @@
       "osm_url": "https://www.openstreetmap.org/node/5576039099"
     },
     {
-      "name": "Drinking Water",
-      "icon": "💧",
-      "description": "Drinking Water",
-      "lat": 46.5323846,
-      "lon": 14.1802644,
+      "name": "Ferienparadies Truppe-Muschett",
+      "icon": "🏠",
+      "description": "Guest House",
+      "lat": 46.6085991,
+      "lon": 14.0562449,
       "color": "blue",
-      "popup": "Drinking Water",
-      "category": "Water",
-      "osm_url": "https://www.openstreetmap.org/node/5793369861"
-    },
-    {
-      "name": "Drinking Water",
-      "icon": "💧",
-      "description": "Drinking Water",
-      "lat": 46.5445747,
-      "lon": 14.2865181,
-      "color": "blue",
-      "popup": "Drinking Water",
-      "category": "Water",
-      "osm_url": "https://www.openstreetmap.org/node/5845737408"
+      "popup": "Ferienparadies Truppe-Muschett<br><a href='https://www.ferienparadies-velden.at' target='_blank'>Website</a>",
+      "category": "Accommodation",
+      "osm_url": "https://www.openstreetmap.org/node/5657230546"
     },
     {
       "name": "Biotop Föderlach",
@@ -342,15 +749,92 @@
       "osm_url": "https://www.openstreetmap.org/node/5981746921"
     },
     {
-      "name": "Bicycle Repair",
-      "icon": "🛠",
-      "description": "Bicycle Repair",
-      "lat": 46.5349173,
-      "lon": 14.0879918,
-      "color": "green",
-      "popup": "Bicycle Repair<br>not in a good shape",
-      "category": "Cycling",
-      "osm_url": "https://www.openstreetmap.org/node/6629903626"
+      "name": "CheckIn24",
+      "icon": "🏠",
+      "description": "Guest House",
+      "lat": 46.613348,
+      "lon": 14.0348478,
+      "color": "blue",
+      "popup": "CheckIn24<br>Phone: +43 6643373232<br><a href='https://www.24checkin.com/' target='_blank'>Website</a><br>Villacher Straße 27",
+      "category": "Accommodation",
+      "osm_url": "https://www.openstreetmap.org/node/6566218936"
+    },
+    {
+      "name": "Hermitage Vital Resort",
+      "icon": "🏠",
+      "description": "Hotel",
+      "lat": 46.6221227,
+      "lon": 14.1190391,
+      "color": "blue",
+      "popup": "Hermitage Vital Resort",
+      "category": "Accommodation",
+      "osm_url": "https://www.openstreetmap.org/node/6681840769"
+    },
+    {
+      "name": "Sitter",
+      "icon": "🏠",
+      "description": "Guest House",
+      "lat": 46.6216916,
+      "lon": 14.1198854,
+      "color": "blue",
+      "popup": "Sitter",
+      "category": "Accommodation",
+      "osm_url": "https://www.openstreetmap.org/node/6681971558"
+    },
+    {
+      "name": "Lex Apartments",
+      "icon": "🏠",
+      "description": "Guest House",
+      "lat": 46.6229995,
+      "lon": 14.1267367,
+      "color": "blue",
+      "popup": "Lex Apartments",
+      "category": "Accommodation",
+      "osm_url": "https://www.openstreetmap.org/node/6682017278"
+    },
+    {
+      "name": "Seewirt",
+      "icon": "🏠",
+      "description": "Hotel",
+      "lat": 46.6232452,
+      "lon": 14.1286215,
+      "color": "blue",
+      "popup": "Seewirt",
+      "category": "Accommodation",
+      "osm_url": "https://www.openstreetmap.org/node/6682017283"
+    },
+    {
+      "name": "Seepension Ria",
+      "icon": "🏠",
+      "description": "Guest House",
+      "lat": 46.6234686,
+      "lon": 14.1282065,
+      "color": "blue",
+      "popup": "Seepension Ria",
+      "category": "Accommodation",
+      "osm_url": "https://www.openstreetmap.org/node/6682035813"
+    },
+    {
+      "name": "Guest House",
+      "icon": "🏠",
+      "description": "Guest House",
+      "lat": 46.6207434,
+      "lon": 14.1308583,
+      "color": "blue",
+      "popup": "Guest House",
+      "category": "Accommodation",
+      "osm_url": "https://www.openstreetmap.org/node/6682035847"
+    },
+    {
+      "name": "The Original FX Mayr",
+      "icon": "🏠",
+      "description": "Hotel",
+      "lat": 46.6236695,
+      "lon": 14.1220007,
+      "color": "blue",
+      "popup": "The Original FX Mayr<br><a href='https://www.original-mayr.com/' target='_blank'>Website</a>",
+      "category": "Accommodation",
+      "osm_url": "https://www.openstreetmap.org/node/6682037337"
     },
     {
       "name": "Drinking Water",
@@ -362,6 +846,94 @@
       "popup": "Drinking Water",
       "category": "Water",
       "osm_url": "https://www.openstreetmap.org/node/6696768737"
+    },
+    {
+      "name": "Drinking Water",
+      "icon": "💧",
+      "description": "Drinking Water",
+      "lat": 46.6102324,
+      "lon": 14.0446439,
+      "color": "blue",
+      "popup": "Drinking Water<br>Trinkwasser aus Hochquelle, Dauerfluss.",
+      "category": "Water",
+      "osm_url": "https://www.openstreetmap.org/node/6712808547"
+    },
+    {
+      "name": "Billa",
+      "icon": "🛒",
+      "description": "Supermarket",
+      "lat": 46.6066576,
+      "lon": 14.2914132,
+      "color": "green",
+      "popup": "Billa<br>Opening hours: Mo-Fr 07:15-19:30; Sa 07:15-18:00<br>Petruigasse 13",
+      "category": "Shopping",
+      "osm_url": "https://www.openstreetmap.org/node/7082026738"
+    },
+    {
+      "name": "Bicycle Rental",
+      "icon": "🚲",
+      "description": "Bicycle Rental",
+      "lat": 46.612116,
+      "lon": 14.0439162,
+      "color": "green",
+      "popup": "Bicycle Rental<br>Phone: +43 463 537 3333<br><a href='https://www.nextbike.at' target='_blank'>Website</a>",
+      "category": "Cycling",
+      "osm_url": "https://www.openstreetmap.org/node/7148537046"
+    },
+    {
+      "name": "Hotel Eden Park - Retro Chique",
+      "icon": "🏠",
+      "description": "Hotel",
+      "lat": 46.608544,
+      "lon": 14.0471136,
+      "color": "blue",
+      "popup": "Hotel Eden Park - Retro Chique<br>Phone: +43 4274 3030<br><a href='https://www.edenpark.at/' target='_blank'>Website</a><br>Das Hotel Eden Park - Retro Chique liegt in Velden direkt am Wörthersee, Kärnten, Österreich, und bietet 18 Zimmer & Apartments in zentraler Lage und Seezugang.<br>Augsdorfer Straße 12",
+      "category": "Accommodation",
+      "osm_url": "https://www.openstreetmap.org/node/7491778195"
+    },
+    {
+      "name": "Bicycle Repair",
+      "icon": "🛠",
+      "description": "Bicycle Repair",
+      "lat": 46.6019657,
+      "lon": 14.2972572,
+      "color": "green",
+      "popup": "Bicycle Repair",
+      "category": "Cycling",
+      "osm_url": "https://www.openstreetmap.org/node/7546048055"
+    },
+    {
+      "name": "Bicycle Repair",
+      "icon": "🛠",
+      "description": "Bicycle Repair",
+      "lat": 46.6127812,
+      "lon": 14.0427166,
+      "color": "green",
+      "popup": "Bicycle Repair",
+      "category": "Cycling",
+      "osm_url": "https://www.openstreetmap.org/node/7840458770"
+    },
+    {
+      "name": "Linde Villas",
+      "icon": "🏠",
+      "description": "Hotel",
+      "lat": 46.6163732,
+      "lon": 14.1592105,
+      "color": "blue",
+      "popup": "Linde Villas",
+      "category": "Accommodation",
+      "osm_url": "https://www.openstreetmap.org/node/8305679366"
+    },
+    {
+      "name": "Seeappartments Schwarzvilla",
+      "icon": "🏠",
+      "description": "Guest House",
+      "lat": 46.6100885,
+      "lon": 14.0565279,
+      "color": "blue",
+      "popup": "Seeappartments Schwarzvilla<br><a href='https://www.schwarzvilla.at/de/' target='_blank'>Website</a>",
+      "category": "Accommodation",
+      "osm_url": "https://www.openstreetmap.org/node/8370490531"
     },
     {
       "name": "Drinking Water",
@@ -386,6 +958,72 @@
       "osm_url": "https://www.openstreetmap.org/node/8693895262"
     },
     {
+      "name": "Bicycle Repair",
+      "icon": "🛠",
+      "description": "Bicycle Repair",
+      "lat": 46.6109525,
+      "lon": 14.2603089,
+      "color": "green",
+      "popup": "Bicycle Repair",
+      "category": "Cycling",
+      "osm_url": "https://www.openstreetmap.org/node/8807224312"
+    },
+    {
+      "name": "Kirchenwirt",
+      "icon": "🏠",
+      "description": "Hotel",
+      "lat": 46.6155441,
+      "lon": 14.0392351,
+      "color": "blue",
+      "popup": "Kirchenwirt<br><a href='https://www.kirchenwirt-velden.at/' target='_blank'>Website</a>",
+      "category": "Accommodation",
+      "osm_url": "https://www.openstreetmap.org/node/8926527373"
+    },
+    {
+      "name": "Oremushof",
+      "icon": "🏠",
+      "description": "Hotel",
+      "lat": 46.614338,
+      "lon": 14.0405896,
+      "color": "blue",
+      "popup": "Oremushof<br><a href='https://www.oremushof.at/' target='_blank'>Website</a>",
+      "category": "Accommodation",
+      "osm_url": "https://www.openstreetmap.org/node/8926527388"
+    },
+    {
+      "name": "Bernstein Apotheke",
+      "icon": "💊",
+      "description": "Pharmacy",
+      "lat": 46.5992763,
+      "lon": 14.2954025,
+      "color": "green",
+      "popup": "Bernstein Apotheke",
+      "category": "Health",
+      "osm_url": "https://www.openstreetmap.org/node/9724834136"
+    },
+    {
+      "name": "Drinking Water",
+      "icon": "💧",
+      "description": "Drinking Water",
+      "lat": 46.6046186,
+      "lon": 14.2954123,
+      "color": "blue",
+      "popup": "Drinking Water",
+      "category": "Water",
+      "osm_url": "https://www.openstreetmap.org/node/9830027133"
+    },
+    {
+      "name": "Drinking Water",
+      "icon": "💧",
+      "description": "Drinking Water",
+      "lat": 46.6066686,
+      "lon": 14.1821037,
+      "color": "blue",
+      "popup": "Drinking Water",
+      "category": "Water",
+      "osm_url": "https://www.openstreetmap.org/node/10899503403"
+    },
+    {
       "name": "Bench and Bicycle repair",
       "icon": "🛠",
       "description": "Bicycle Repair",
@@ -395,6 +1033,39 @@
       "popup": "Bench and Bicycle repair",
       "category": "Cycling",
       "osm_url": "https://www.openstreetmap.org/node/11074938231"
+    },
+    {
+      "name": "Aussichtspunkt Maiernigg",
+      "icon": "🏔",
+      "description": "Viewpoint",
+      "lat": 46.6079505,
+      "lon": 14.2389419,
+      "color": "green",
+      "popup": "Aussichtspunkt Maiernigg",
+      "category": "Sightseeing",
+      "osm_url": "https://www.openstreetmap.org/node/11161641077"
+    },
+    {
+      "name": "Abholmarkt",
+      "icon": "🛒",
+      "description": "Supermarket",
+      "lat": 46.605901,
+      "lon": 14.2985834,
+      "color": "green",
+      "popup": "Abholmarkt<br>Fleisch- U. Wurstwaren",
+      "category": "Shopping",
+      "osm_url": "https://www.openstreetmap.org/node/11482349974"
+    },
+    {
+      "name": "Frida Café",
+      "icon": "☕",
+      "description": "Cafe",
+      "lat": 46.6063766,
+      "lon": 14.290292,
+      "color": "orange",
+      "popup": "Frida Café<br>Opening hours: Mo off; Tu-Su 14:00-20:00<br>Phone: +43 664 1802017<br><a href='https://www.schachmuseum.at/frida-cafe.html' target='_blank'>Website</a>",
+      "category": "Food & Drink",
+      "osm_url": "https://www.openstreetmap.org/node/11866504715"
     },
     {
       "name": "Valentinsquelle",
@@ -411,12 +1082,23 @@
       "name": "Drinking Water",
       "icon": "💧",
       "description": "Drinking Water",
-      "lat": 46.5348939,
-      "lon": 14.0879805,
+      "lat": 46.6052768,
+      "lon": 14.1783525,
       "color": "blue",
       "popup": "Drinking Water",
       "category": "Water",
-      "osm_url": "https://www.openstreetmap.org/node/13183335099"
+      "osm_url": "https://www.openstreetmap.org/node/12195585586"
+    },
+    {
+      "name": "Bicycle Repair",
+      "icon": "🛠",
+      "description": "Bicycle Repair",
+      "lat": 46.6070634,
+      "lon": 14.1811487,
+      "color": "green",
+      "popup": "Bicycle Repair<br>Opening hours: 24/7",
+      "category": "Cycling",
+      "osm_url": "https://www.openstreetmap.org/node/12797478204"
     },
     {
       "name": "Drinking Water",
@@ -450,6 +1132,105 @@
       "popup": "Drinking Water",
       "category": "Water",
       "osm_url": "https://www.openstreetmap.org/node/13298322239"
+    },
+    {
+      "name": "Schloss Reifnitz",
+      "icon": "🏰",
+      "description": "Castle",
+      "lat": 46.6112166,
+      "lon": 14.1816074,
+      "color": "purple",
+      "popup": "Schloss Reifnitz",
+      "category": "Sightseeing",
+      "osm_url": "https://www.openstreetmap.org/way/43063025"
+    },
+    {
+      "name": "Hotel Erlenheim",
+      "icon": "🏠",
+      "description": "Hotel",
+      "lat": 46.6098822,
+      "lon": 14.077767,
+      "color": "blue",
+      "popup": "Hotel Erlenheim<br><a href='https://erlenheim.at/' target='_blank'>Website</a><br>Schieflinger Straße 26",
+      "category": "Accommodation",
+      "osm_url": "https://www.openstreetmap.org/way/45273777"
+    },
+    {
+      "name": "Seepension Skant",
+      "icon": "🏠",
+      "description": "Guest House",
+      "lat": 46.6120106,
+      "lon": 14.0776931,
+      "color": "blue",
+      "popup": "Seepension Skant<br>Phone: +43 4274 2803<br><a href='http://www.skant.at/' target='_blank'>Website</a><br>Süduferstraße 41",
+      "category": "Accommodation",
+      "osm_url": "https://www.openstreetmap.org/way/45273832"
+    },
+    {
+      "name": "Strandbad",
+      "icon": "☕",
+      "description": "Cafe",
+      "lat": 46.6117898,
+      "lon": 14.079187,
+      "color": "orange",
+      "popup": "Strandbad<br>Süduferstraße 175",
+      "category": "Food & Drink",
+      "osm_url": "https://www.openstreetmap.org/way/45341145"
+    },
+    {
+      "name": "Flairhotel",
+      "icon": "🏠",
+      "description": "Hotel",
+      "lat": 46.6139812,
+      "lon": 14.0870114,
+      "color": "blue",
+      "popup": "Flairhotel<br><a href='https://flairhotel.at/' target='_blank'>Website</a><br>Quellenweg 97",
+      "category": "Accommodation",
+      "osm_url": "https://www.openstreetmap.org/way/45341175"
+    },
+    {
+      "name": "Appart-Pension Seehang",
+      "icon": "🏠",
+      "description": "Guest House",
+      "lat": 46.6148776,
+      "lon": 14.0915404,
+      "color": "blue",
+      "popup": "Appart-Pension Seehang<br>Phone: +436769548515<br><a href='https://www.seehang-lewe.at/' target='_blank'>Website</a><br>Unser schönes Haus liegt in traumhafter Lage mit Blick auf den Wörthersee, ruhig, ohne Verkehr, und doch nicht weit weg von Velden, wo immer etwas los ist. Die atemberaubende Kulisse unsere Landschaft wird Sie gleich verzaubern.<br>Bergweg 92",
+      "category": "Accommodation",
+      "osm_url": "https://www.openstreetmap.org/way/45341220"
+    },
+    {
+      "name": "Adlerhorst",
+      "icon": "🏠",
+      "description": "Guest House",
+      "lat": 46.6148549,
+      "lon": 14.0919979,
+      "color": "blue",
+      "popup": "Adlerhorst<br>Bergweg 180",
+      "category": "Accommodation",
+      "osm_url": "https://www.openstreetmap.org/way/45341221"
+    },
+    {
+      "name": "Billa",
+      "icon": "🛒",
+      "description": "Supermarket",
+      "lat": 46.6047247,
+      "lon": 14.1771344,
+      "color": "green",
+      "popup": "Billa<br>Opening hours: Mo-Fr 08:00-18:50; Sa 08:00-17:50; Su 08:00-13:00,15:00-18:00<br>Koschatstraße 1",
+      "category": "Shopping",
+      "osm_url": "https://www.openstreetmap.org/way/45496706"
+    },
+    {
+      "name": "Strandhotel Sille",
+      "icon": "🏠",
+      "description": "Hotel",
+      "lat": 46.6067259,
+      "lon": 14.1828992,
+      "color": "blue",
+      "popup": "Strandhotel Sille<br>Phone: +43 4273 2237<br>Wörthersee-Süduferstraße 108",
+      "category": "Accommodation",
+      "osm_url": "https://www.openstreetmap.org/way/45498941"
     },
     {
       "name": "Camping Seehof",
@@ -540,6 +1321,39 @@
       "osm_url": "https://www.openstreetmap.org/way/58488260"
     },
     {
+      "name": "Cafe & Bäckerei Sonja",
+      "icon": "☕",
+      "description": "Cafe",
+      "lat": 46.6016778,
+      "lon": 13.9589974,
+      "color": "orange",
+      "popup": "Cafe & Bäckerei Sonja<br>Landesstraße 33",
+      "category": "Food & Drink",
+      "osm_url": "https://www.openstreetmap.org/way/62009362"
+    },
+    {
+      "name": "Penny",
+      "icon": "🛒",
+      "description": "Supermarket",
+      "lat": 46.6062169,
+      "lon": 14.2989758,
+      "color": "green",
+      "popup": "Penny<br>Rosentaler Straße 133",
+      "category": "Shopping",
+      "osm_url": "https://www.openstreetmap.org/way/83403430"
+    },
+    {
+      "name": "Spar",
+      "icon": "🛒",
+      "description": "Supermarket",
+      "lat": 46.5801161,
+      "lon": 14.2821005,
+      "color": "green",
+      "popup": "Spar<br>Bundesstraße 16",
+      "category": "Shopping",
+      "osm_url": "https://www.openstreetmap.org/way/93940394"
+    },
+    {
       "name": "Frühstückspension Draublick",
       "icon": "🏠",
       "description": "Guest House",
@@ -562,6 +1376,127 @@
       "osm_url": "https://www.openstreetmap.org/way/97089368"
     },
     {
+      "name": "Velden 24",
+      "icon": "🏠",
+      "description": "Hotel",
+      "lat": 46.601747,
+      "lon": 14.020575,
+      "color": "blue",
+      "popup": "Velden 24<br>Phone: +43 664 5113322<br><a href='https://www.velden24.at/' target='_blank'>Website</a><br>Rosegger Straße 121",
+      "category": "Accommodation",
+      "osm_url": "https://www.openstreetmap.org/way/112677490"
+    },
+    {
+      "name": "Hotel Velden \"Bacherlwirt\"",
+      "icon": "🏠",
+      "description": "Hotel",
+      "lat": 46.6100962,
+      "lon": 14.039258,
+      "color": "blue",
+      "popup": "Hotel Velden \"Bacherlwirt\"<br>Phone: +43 512 9001 11959<br><a href='https://www.hotelvelden.at/' target='_blank'>Website</a>",
+      "category": "Accommodation",
+      "osm_url": "https://www.openstreetmap.org/way/117887415"
+    },
+    {
+      "name": "Gästehaus Berginz",
+      "icon": "🏠",
+      "description": "Guest House",
+      "lat": 46.6106635,
+      "lon": 14.040912,
+      "color": "blue",
+      "popup": "Gästehaus Berginz<br>Phone: +43 4274 2438<br><a href='http://www.berginz.at' target='_blank'>Website</a><br>Rosentaler Straße 19a",
+      "category": "Accommodation",
+      "osm_url": "https://www.openstreetmap.org/way/119768879"
+    },
+    {
+      "name": "Unser Lagerhaus",
+      "icon": "🛒",
+      "description": "Marketplace",
+      "lat": 46.60905,
+      "lon": 14.0385051,
+      "color": "green",
+      "popup": "Unser Lagerhaus<br>Erlenweg 3",
+      "category": "Shopping",
+      "osm_url": "https://www.openstreetmap.org/way/119768902"
+    },
+    {
+      "name": "Gästehaus Berginz",
+      "icon": "🏠",
+      "description": "Guest House",
+      "lat": 46.6106063,
+      "lon": 14.0401928,
+      "color": "blue",
+      "popup": "Gästehaus Berginz<br>Phone: +43 4274 2438<br><a href='http://www.berginz.at' target='_blank'>Website</a><br>Rosentaler Straße 19",
+      "category": "Accommodation",
+      "osm_url": "https://www.openstreetmap.org/way/119768913"
+    },
+    {
+      "name": "MPREIS",
+      "icon": "🛒",
+      "description": "Supermarket",
+      "lat": 46.6134381,
+      "lon": 14.0386586,
+      "color": "green",
+      "popup": "MPREIS<br>Opening hours: PH 08:00-12:00,15:00-18:00, Mo-Fr 08:00-19:00, Sa 08:00-18:00, Su,PH 08:00-12:00,15:00-18:00<br>Villacher Straße 9",
+      "category": "Shopping",
+      "osm_url": "https://www.openstreetmap.org/way/119771179"
+    },
+    {
+      "name": "Billa",
+      "icon": "🛒",
+      "description": "Supermarket",
+      "lat": 46.560112,
+      "lon": 14.2821206,
+      "color": "green",
+      "popup": "Billa<br>Göltschacher Straße 2",
+      "category": "Shopping",
+      "osm_url": "https://www.openstreetmap.org/way/122107687"
+    },
+    {
+      "name": "Flaschenpost",
+      "icon": "☕",
+      "description": "Cafe",
+      "lat": 46.6179489,
+      "lon": 14.1638265,
+      "color": "orange",
+      "popup": "Flaschenpost<br>Schiffsplatz 3",
+      "category": "Food & Drink",
+      "osm_url": "https://www.openstreetmap.org/way/124988038"
+    },
+    {
+      "name": "Seehof",
+      "icon": "🏠",
+      "description": "Hotel",
+      "lat": 46.6167446,
+      "lon": 14.1609974,
+      "color": "blue",
+      "popup": "Seehof<br><a href='https://www.seehof.cc/' target='_blank'>Website</a><br>Kirchenweg 1",
+      "category": "Accommodation",
+      "osm_url": "https://www.openstreetmap.org/way/124988039"
+    },
+    {
+      "name": "Gasthof Pension Gabriele",
+      "icon": "🏠",
+      "description": "Guest House",
+      "lat": 46.6160435,
+      "lon": 14.1614371,
+      "color": "blue",
+      "popup": "Gasthof Pension Gabriele<br><a href='http://www.gasthof-pension-gabriele.at/' target='_blank'>Website</a><br>Primusweg 2",
+      "category": "Accommodation",
+      "osm_url": "https://www.openstreetmap.org/way/124988052"
+    },
+    {
+      "name": "Hotel Linde",
+      "icon": "🏠",
+      "description": "Hotel",
+      "lat": 46.6178532,
+      "lon": 14.1623478,
+      "color": "blue",
+      "popup": "Hotel Linde<br><a href='https://www.hotellinde.at' target='_blank'>Website</a><br>Lindenplatz 3",
+      "category": "Accommodation",
+      "osm_url": "https://www.openstreetmap.org/way/124988054"
+    },
+    {
       "name": "Gasthof Plasch",
       "icon": "🏠",
       "description": "Hotel",
@@ -571,6 +1506,193 @@
       "popup": "Gasthof Plasch<br>Opening hours: PH,Mo-Su 06:00-22:00",
       "category": "Accommodation",
       "osm_url": "https://www.openstreetmap.org/way/130917297"
+    },
+    {
+      "name": "Schloss Velden",
+      "icon": "🏰",
+      "description": "Castle",
+      "lat": 46.6121584,
+      "lon": 14.043234,
+      "color": "purple",
+      "popup": "Schloss Velden",
+      "category": "Sightseeing",
+      "osm_url": "https://www.openstreetmap.org/way/144341290"
+    },
+    {
+      "name": "Beach",
+      "icon": "🏖",
+      "description": "Beach",
+      "lat": 46.6145204,
+      "lon": 14.0468598,
+      "color": "yellow",
+      "popup": "Beach",
+      "category": "Leisure",
+      "osm_url": "https://www.openstreetmap.org/way/144381701"
+    },
+    {
+      "name": "Veldener Traumschiff",
+      "icon": "🏠",
+      "description": "Hotel",
+      "lat": 46.6098215,
+      "lon": 14.0463703,
+      "color": "blue",
+      "popup": "Veldener Traumschiff<br><a href='https://www.veldener-traumschiff.at/' target='_blank'>Website</a><br>Seecorso 40",
+      "category": "Accommodation",
+      "osm_url": "https://www.openstreetmap.org/way/144503534"
+    },
+    {
+      "name": "Sonnen-Apotheke",
+      "icon": "💊",
+      "description": "Pharmacy",
+      "lat": 46.6134479,
+      "lon": 14.0420808,
+      "color": "green",
+      "popup": "Sonnen-Apotheke<br>Opening hours: Mo-Fr 08:00-19:00, Sa 08:00-12:30,15:00-18:00, Su 09:00-12:00,15:00-18:00<br>Karawankenplatz 6",
+      "category": "Health",
+      "osm_url": "https://www.openstreetmap.org/way/148859973"
+    },
+    {
+      "name": "Seehotel Engstler",
+      "icon": "🏠",
+      "description": "Hotel",
+      "lat": 46.6144874,
+      "lon": 14.042963,
+      "color": "blue",
+      "popup": "Seehotel Engstler<br>Phone: +43 4274 2644-0<br><a href='https://www.engstler.com/' target='_blank'>Website</a><br>Am Corso 21",
+      "category": "Accommodation",
+      "osm_url": "https://www.openstreetmap.org/way/148859980"
+    },
+    {
+      "name": "Villa bulfon",
+      "icon": "🏠",
+      "description": "Hotel",
+      "lat": 46.6157123,
+      "lon": 14.0444063,
+      "color": "blue",
+      "popup": "Villa bulfon<br>Phone: +43 4274 26 14<br><a href='https://www.villabulfon.at/' target='_blank'>Website</a><br>Seerestaurant Rosé<br>Am Corso 9,11",
+      "category": "Accommodation",
+      "osm_url": "https://www.openstreetmap.org/way/148859983"
+    },
+    {
+      "name": "Hotel",
+      "icon": "🏠",
+      "description": "Hotel",
+      "lat": 46.6147547,
+      "lon": 14.0446315,
+      "color": "blue",
+      "popup": "Hotel<br>Seepromenade 3",
+      "category": "Accommodation",
+      "osm_url": "https://www.openstreetmap.org/way/148860005"
+    },
+    {
+      "name": "Strandhotel Morak",
+      "icon": "🏠",
+      "description": "Hotel",
+      "lat": 46.6098373,
+      "lon": 14.0475753,
+      "color": "blue",
+      "popup": "Strandhotel Morak<br>Seecorso 42",
+      "category": "Accommodation",
+      "osm_url": "https://www.openstreetmap.org/way/148866486"
+    },
+    {
+      "name": "Strandbad Leopold",
+      "icon": "☕",
+      "description": "Cafe",
+      "lat": 46.6104531,
+      "lon": 14.0448187,
+      "color": "orange",
+      "popup": "Strandbad Leopold<br>Seecorso 18",
+      "category": "Food & Drink",
+      "osm_url": "https://www.openstreetmap.org/way/148866503"
+    },
+    {
+      "name": "Ogris",
+      "icon": "🏠",
+      "description": "Hotel",
+      "lat": 46.6099623,
+      "lon": 14.0454661,
+      "color": "blue",
+      "popup": "Ogris<br>Seecorso 34",
+      "category": "Accommodation",
+      "osm_url": "https://www.openstreetmap.org/way/148866518"
+    },
+    {
+      "name": "Werzer's Hotel Velden",
+      "icon": "🏠",
+      "description": "Hotel",
+      "lat": 46.6094297,
+      "lon": 14.0517197,
+      "color": "blue",
+      "popup": "Werzer's Hotel Velden<br>Phone: +43 4274 38280-0<br><a href='https://velden.werzers.at' target='_blank'>Website</a><br>Seecorso 64a",
+      "category": "Accommodation",
+      "osm_url": "https://www.openstreetmap.org/way/148868083"
+    },
+    {
+      "name": "Tennis + Yacht Hotel",
+      "icon": "🏠",
+      "description": "Hotel",
+      "lat": 46.6097333,
+      "lon": 14.0524588,
+      "color": "blue",
+      "popup": "Tennis + Yacht Hotel<br>Phone: +43 4274 3195<br><a href='https://www.velden-hotel.at/' target='_blank'>Website</a><br>Seecorso 66",
+      "category": "Accommodation",
+      "osm_url": "https://www.openstreetmap.org/way/148868085"
+    },
+    {
+      "name": "Hotel Parks Velden",
+      "icon": "🏠",
+      "description": "Hotel",
+      "lat": 46.6096642,
+      "lon": 14.0544881,
+      "color": "blue",
+      "popup": "Hotel Parks Velden<br>Phone: +43 4274 2298<br><a href='https://www.parks-velden.at/' target='_blank'>Website</a><br>Neu renoviertes Hotel mit Classic Zimmern und Superior Zimmern  sowie Suiten direkt am Wörthersee mit eigenem Seezugang. Großer Wellness & Spa Bereich und SOL Beach Club.<br>Seecorso 68",
+      "category": "Accommodation",
+      "osm_url": "https://www.openstreetmap.org/way/148868097"
+    },
+    {
+      "name": "Café-Pension am Campus Velden",
+      "icon": "🏠",
+      "description": "Guest House",
+      "lat": 46.6113937,
+      "lon": 14.0396927,
+      "color": "blue",
+      "popup": "Café-Pension am Campus Velden<br>Bäckerteichstraße 6",
+      "category": "Accommodation",
+      "osm_url": "https://www.openstreetmap.org/way/149027940"
+    },
+    {
+      "name": "Gästehaus Gertrude",
+      "icon": "🏠",
+      "description": "Hotel",
+      "lat": 46.6122921,
+      "lon": 14.0404792,
+      "color": "blue",
+      "popup": "Gästehaus Gertrude<br>Phone: +43 664 54 58 891<br><a href='https://www.haus-gertrude.at' target='_blank'>Website</a><br>Rosentaler Straße 8",
+      "category": "Accommodation",
+      "osm_url": "https://www.openstreetmap.org/way/149027949"
+    },
+    {
+      "name": "Villa Flora",
+      "icon": "🏠",
+      "description": "Hotel",
+      "lat": 46.6111315,
+      "lon": 14.0363512,
+      "color": "blue",
+      "popup": "Villa Flora<br>Markus-Pernhart-Straße 7",
+      "category": "Accommodation",
+      "osm_url": "https://www.openstreetmap.org/way/149241626"
+    },
+    {
+      "name": "Pension Urania",
+      "icon": "🏠",
+      "description": "Guest House",
+      "lat": 46.6107588,
+      "lon": 14.0394865,
+      "color": "blue",
+      "popup": "Pension Urania<br>Phone: +43 4274 2696<br><a href='https://www.pension-urania.com/' target='_blank'>Website</a><br>Mühlweg 2",
+      "category": "Accommodation",
+      "osm_url": "https://www.openstreetmap.org/way/149241631"
     },
     {
       "name": "Camping Rosental Rož",
@@ -584,15 +1706,48 @@
       "osm_url": "https://www.openstreetmap.org/way/153783782"
     },
     {
-      "name": "Pension Stausee",
+      "name": "Hofer",
+      "icon": "🛒",
+      "description": "Supermarket",
+      "lat": 46.6056617,
+      "lon": 14.0352303,
+      "color": "green",
+      "popup": "Hofer<br>Opening hours: Mo-Fr 08:00-18:50; Sa 08:00-17:50; Su,PH 08:00-13:00,15:00-18:00<br>Rosentaler Straße 78",
+      "category": "Shopping",
+      "osm_url": "https://www.openstreetmap.org/way/155023402"
+    },
+    {
+      "name": "Eurospar",
+      "icon": "🛒",
+      "description": "Supermarket",
+      "lat": 46.6050425,
+      "lon": 14.0366287,
+      "color": "green",
+      "popup": "Eurospar<br>Rosentaler Straße 74",
+      "category": "Shopping",
+      "osm_url": "https://www.openstreetmap.org/way/155023438"
+    },
+    {
+      "name": "Hubertushof",
       "icon": "🏠",
-      "description": "Guest House",
-      "lat": 46.550528,
-      "lon": 14.0748474,
+      "description": "Hotel",
+      "lat": 46.6156965,
+      "lon": 14.0442975,
       "color": "blue",
-      "popup": "Pension Stausee<br>Draublickweg 68a",
+      "popup": "Hubertushof<br>Phone: +43 4274 26760<br><a href='https://www.seehotelhubertushof.com/' target='_blank'>Website</a><br>Europaplatz 1",
       "category": "Accommodation",
-      "osm_url": "https://www.openstreetmap.org/way/243125317"
+      "osm_url": "https://www.openstreetmap.org/way/178361547"
+    },
+    {
+      "name": "Cap Wörth",
+      "icon": "🏠",
+      "description": "Hostel",
+      "lat": 46.6101694,
+      "lon": 14.064704,
+      "color": "blue",
+      "popup": "Cap Wörth<br>Phone: +43 4274 2646<br><a href='https://www.hiyou.at/' target='_blank'>Website</a><br>Seecorso 39",
+      "category": "Accommodation",
+      "osm_url": "https://www.openstreetmap.org/way/179494065"
     },
     {
       "name": "Cafe TAF-IN",
@@ -606,26 +1761,158 @@
       "osm_url": "https://www.openstreetmap.org/way/265014493"
     },
     {
-      "name": "Feriendorf Rosental by S4Y",
+      "name": "Billa",
+      "icon": "🛒",
+      "description": "Supermarket",
+      "lat": 46.6070391,
+      "lon": 14.2555488,
+      "color": "green",
+      "popup": "Billa<br>Opening hours: Mo-Fr 08:00-18:50; Sa 08:00-17:50; Su;PH 08:00-13:00; Su;PH 15:00-18:00<br>Wörthersee-Südufer-Straße 60",
+      "category": "Shopping",
+      "osm_url": "https://www.openstreetmap.org/way/267064477"
+    },
+    {
+      "name": "Schloss Sekirn",
+      "icon": "🏰",
+      "description": "Castle",
+      "lat": 46.610964,
+      "lon": 14.2168299,
+      "color": "purple",
+      "popup": "Schloss Sekirn<br>Wörthersee-Süduferstraße 60",
+      "category": "Sightseeing",
+      "osm_url": "https://www.openstreetmap.org/way/267530268"
+    },
+    {
+      "name": "Hotel Rösch",
       "icon": "🏠",
       "description": "Hotel",
-      "lat": 46.5328236,
-      "lon": 14.1332469,
+      "lat": 46.6062937,
+      "lon": 14.2559413,
       "color": "blue",
-      "popup": "Feriendorf Rosental by S4Y<br>Phone: +43 676 88885802<br><a href='https://www.feriendorf-rosental.at/' target='_blank'>Website</a><br>Feriendorf 1",
+      "popup": "Hotel Rösch<br><a href='http://www.hotel-roesch.at/' target='_blank'>Website</a><br>Wörthersee-Südufer-Straße 55",
       "category": "Accommodation",
-      "osm_url": "https://www.openstreetmap.org/way/301978293"
+      "osm_url": "https://www.openstreetmap.org/way/284451047"
+    },
+    {
+      "name": "Hotel Weidenhof",
+      "icon": "🏠",
+      "description": "Hotel",
+      "lat": 46.6072755,
+      "lon": 14.2529009,
+      "color": "blue",
+      "popup": "Hotel Weidenhof<br>Wörthersee-Südufer-Straße 66",
+      "category": "Accommodation",
+      "osm_url": "https://www.openstreetmap.org/way/308131385"
+    },
+    {
+      "name": "SeeHotel Europa",
+      "icon": "🏠",
+      "description": "Hotel",
+      "lat": 46.6157073,
+      "lon": 14.0469216,
+      "color": "blue",
+      "popup": "SeeHotel Europa<br>Phone: +43 4274 2770<br><a href='https://www.seehotel-europa.at/' target='_blank'>Website</a><br>Wrannpark 1-3",
+      "category": "Accommodation",
+      "osm_url": "https://www.openstreetmap.org/way/350559707"
+    },
+    {
+      "name": "Hotel Kärntnerhof Velden by S4Y",
+      "icon": "🏠",
+      "description": "Hotel",
+      "lat": 46.6136683,
+      "lon": 14.0329451,
+      "color": "blue",
+      "popup": "Hotel Kärntnerhof Velden by S4Y<br>Opening hours: 07.30-24.00 Uhr<br>Phone: +43 676 8888 5813<br><a href='https://www.kaerntnerhof.com/' target='_blank'>Website</a><br>Relaxen am Wörthersee:  Der Sommerurlaub im Hotel Kärntnerhof Velden by S4Y am Wörthersee bietet eine familiäre Atmosphäre und ein hervorragendes Frühstück an.<br>Villacher Straße 24",
+      "category": "Accommodation",
+      "osm_url": "https://www.openstreetmap.org/way/357209742"
     },
     {
       "name": "Beach",
       "icon": "🏖",
       "description": "Beach",
-      "lat": 46.5377407,
-      "lon": 14.0944362,
+      "lat": 46.602014,
+      "lon": 13.9498366,
       "color": "yellow",
       "popup": "Beach",
       "category": "Leisure",
-      "osm_url": "https://www.openstreetmap.org/way/346609380"
+      "osm_url": "https://www.openstreetmap.org/way/363517813"
+    },
+    {
+      "name": "Bundschuhs Strandcafe",
+      "icon": "🍺",
+      "description": "Pub",
+      "lat": 46.6106375,
+      "lon": 14.0577544,
+      "color": "orange",
+      "popup": "Bundschuhs Strandcafe<br>Phone: +43 4274 2886<br><a href='https://www.seeappartements-bundschuh.at/cafe-strandbad' target='_blank'>Website</a>",
+      "category": "Food & Drink",
+      "osm_url": "https://www.openstreetmap.org/way/364816165"
+    },
+    {
+      "name": "Pension Haus Sonnengrund",
+      "icon": "🏠",
+      "description": "Guest House",
+      "lat": 46.6038855,
+      "lon": 14.1837276,
+      "color": "blue",
+      "popup": "Pension Haus Sonnengrund<br>Frühstückspension - ganzjährig geöffnet Nähere Infos auf der Website www.zwander.at<br>Raunacherstraße 13",
+      "category": "Accommodation",
+      "osm_url": "https://www.openstreetmap.org/way/409080493"
+    },
+    {
+      "name": "Haus Sonnengrund",
+      "icon": "🏠",
+      "description": "Guest House",
+      "lat": 46.6035485,
+      "lon": 14.1843051,
+      "color": "blue",
+      "popup": "Haus Sonnengrund<br>Raunacher Straße 17",
+      "category": "Accommodation",
+      "osm_url": "https://www.openstreetmap.org/way/409080495"
+    },
+    {
+      "name": "Hotel Esplanade",
+      "icon": "🏠",
+      "description": "Hotel",
+      "lat": 46.6090628,
+      "lon": 14.1784759,
+      "color": "blue",
+      "popup": "Hotel Esplanade<br>Wörthersee-Süduferstraße 141",
+      "category": "Accommodation",
+      "osm_url": "https://www.openstreetmap.org/way/409321956"
+    },
+    {
+      "name": "Strandhotel Sille",
+      "icon": "🏠",
+      "description": "Hotel",
+      "lat": 46.6067286,
+      "lon": 14.1827119,
+      "color": "blue",
+      "popup": "Strandhotel Sille<br>Phone: +43 4273 2237",
+      "category": "Accommodation",
+      "osm_url": "https://www.openstreetmap.org/way/409348722"
+    },
+    {
+      "name": "Seeappartment Linde",
+      "icon": "🏠",
+      "description": "Hotel",
+      "lat": 46.6164809,
+      "lon": 14.1581317,
+      "color": "blue",
+      "popup": "Seeappartment Linde<br><a href='http://www.app-linde.at/' target='_blank'>Website</a><br>Kirchenweg 12",
+      "category": "Accommodation",
+      "osm_url": "https://www.openstreetmap.org/way/411079978"
+    },
+    {
+      "name": "Seeappartment Linde",
+      "icon": "🏠",
+      "description": "Hotel",
+      "lat": 46.6167171,
+      "lon": 14.1575565,
+      "color": "blue",
+      "popup": "Seeappartment Linde<br><a href='http://www.app-linde.at/' target='_blank'>Website</a><br>Kirchenweg 14",
+      "category": "Accommodation",
+      "osm_url": "https://www.openstreetmap.org/way/411079979"
     },
     {
       "name": "Hostel",
@@ -639,38 +1926,104 @@
       "osm_url": "https://www.openstreetmap.org/way/445148334"
     },
     {
-      "name": "Juritz",
+      "name": "Villa Schwarzenfels",
+      "icon": "🏰",
+      "description": "Castle",
+      "lat": 46.6128625,
+      "lon": 14.2352836,
+      "color": "purple",
+      "popup": "Villa Schwarzenfels<br>Wörthersee-Süduferstraße 18",
+      "category": "Sightseeing",
+      "osm_url": "https://www.openstreetmap.org/way/496658050"
+    },
+    {
+      "name": "Café Waldarena",
+      "icon": "🍺",
+      "description": "Pub",
+      "lat": 46.6071891,
+      "lon": 14.0331593,
+      "color": "orange",
+      "popup": "Café Waldarena<br>Sportplatzstraße 5",
+      "category": "Food & Drink",
+      "osm_url": "https://www.openstreetmap.org/way/549879628"
+    },
+    {
+      "name": "Hotel Rocket Rooms Velden",
+      "icon": "🏠",
+      "description": "Hotel",
+      "lat": 46.6145042,
+      "lon": 14.0417595,
+      "color": "blue",
+      "popup": "Hotel Rocket Rooms Velden<br>Phone: +43 4274 50 777<br><a href='https://www.rocket-rooms.at/' target='_blank'>Website</a><br>Koschatpromenade 2",
+      "category": "Accommodation",
+      "osm_url": "https://www.openstreetmap.org/way/550457557"
+    },
+    {
+      "name": "Beach",
+      "icon": "🏖",
+      "description": "Beach",
+      "lat": 46.6103533,
+      "lon": 14.0449295,
+      "color": "yellow",
+      "popup": "Beach",
+      "category": "Leisure",
+      "osm_url": "https://www.openstreetmap.org/way/558775576"
+    },
+    {
+      "name": "Strandhotel Morak",
+      "icon": "🏠",
+      "description": "Hotel",
+      "lat": 46.6098429,
+      "lon": 14.0476232,
+      "color": "blue",
+      "popup": "Strandhotel Morak<br>Seecorso 44",
+      "category": "Accommodation",
+      "osm_url": "https://www.openstreetmap.org/way/670823795"
+    },
+    {
+      "name": "EuroParcs Wörthersee",
       "icon": "⛺",
       "description": "Camping Site",
-      "lat": 46.5281329,
-      "lon": 14.1712708,
+      "lat": 46.6186287,
+      "lon": 14.1033088,
       "color": "green",
-      "popup": "Juritz",
+      "popup": "EuroParcs Wörthersee<br>Auenstraße 47",
       "category": "Accommodation",
-      "osm_url": "https://www.openstreetmap.org/way/609179917"
+      "osm_url": "https://www.openstreetmap.org/way/710997596"
     },
     {
       "name": "Beach",
       "icon": "🏖",
       "description": "Beach",
-      "lat": 46.545046,
-      "lon": 14.2858648,
+      "lat": 46.6181283,
+      "lon": 14.1621939,
       "color": "yellow",
       "popup": "Beach",
       "category": "Leisure",
-      "osm_url": "https://www.openstreetmap.org/way/799815703"
+      "osm_url": "https://www.openstreetmap.org/way/823556387"
+    },
+    {
+      "name": "Gustav Mahler Komponierhäuschen",
+      "icon": "🎯",
+      "description": "Attraction",
+      "lat": 46.6112121,
+      "lon": 14.2345498,
+      "color": "purple",
+      "popup": "Gustav Mahler Komponierhäuschen",
+      "category": "Sightseeing",
+      "osm_url": "https://www.openstreetmap.org/way/1177226463"
     },
     {
       "name": "Beach",
       "icon": "🏖",
       "description": "Beach",
-      "lat": 46.5446694,
-      "lon": 14.2857097,
+      "lat": 46.6017965,
+      "lon": 13.9501209,
       "color": "yellow",
       "popup": "Beach",
       "category": "Leisure",
-      "osm_url": "https://www.openstreetmap.org/way/799815704"
+      "osm_url": "https://www.openstreetmap.org/way/1315351587"
     }
   ],
-  "ikonok": "🏠;🏠;🏠;🏠;🏠;💧;💧;☕;🛒;🏠;💧;💧;💧;💧;💧;💧;💧;💧;💧;💧;🛒;🏔;🏔;🏔;💧;💧;☕;💧;💧;🏔;💧;🛠;💧;💧;💧;🛠;💧;💧;💧;💧;💧;⛺;☕;☕;🏠;🏠;🏠;🛒;🏠;🏠;🏠;🏠;⛺;🏠;☕;🏠;🏖;🏠;⛺;🏖;🏖"
+  "ikonok": "🍺;🏠;💊;🏔;🏔;🍺;🏠;🏠;🏠;☕;☕;🏠;🏠;☕;🏠;🏠;🏠;🏠;🗿;🗿;🗿;💧;🏔;💧;🎯;🏠;💊;☕;🏠;☕;💧;☕;🛒;🏔;🏠;🏠;🏠;🏠;🏠;☕;💧;💧;💧;💧;💧;💧;💧;💧;💧;💧;💧;🏔;🏔;🏔;🏔;💧;💧;🍺;☕;🍺;🏠;☕;🍺;🏔;☕;🏠;🏔;💧;🏠;🏠;🏠;🏠;🏠;🏠;🏠;🏠;💧;💧;🛒;🚲;🏠;🛠;🛠;🏠;🏠;💧;💧;🛠;🏠;🏠;💊;💧;💧;🛠;🏔;🛒;☕;💧;💧;🛠;💧;💧;💧;🏰;🏠;🏠;☕;🏠;🏠;🏠;🛒;🏠;⛺;☕;☕;🏠;🏠;🏠;🛒;🏠;☕;🛒;🛒;🏠;🏠;🏠;🏠;🏠;🛒;🏠;🛒;🛒;☕;🏠;🏠;🏠;🏠;🏰;🏖;🏠;💊;🏠;🏠;🏠;🏠;☕;🏠;🏠;🏠;🏠;🏠;🏠;🏠;🏠;⛺;🛒;🛒;🏠;🏠;☕;🛒;🏰;🏠;🏠;🏠;🏠;🏖;🍺;🏠;🏠;🏠;🏠;🏠;🏠;🏠;🏰;🍺;🏠;🏖;🏠;⛺;🏖;🎯;🏖"
 }
