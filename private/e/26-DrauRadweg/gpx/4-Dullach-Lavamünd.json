@@ -1,6 +1,17 @@
 {
   "points": [
     {
+      "name": "Alte Post",
+      "icon": "🏠",
+      "description": "Hotel",
+      "lat": 46.6163497,
+      "lon": 14.5751223,
+      "color": "blue",
+      "popup": "Alte Post",
+      "category": "Accommodation",
+      "osm_url": "https://www.openstreetmap.org/node/278208508"
+    },
+    {
       "name": "Sonne",
       "icon": "🏠",
       "description": "Hotel",
@@ -12,6 +23,39 @@
       "osm_url": "https://www.openstreetmap.org/node/913337756"
     },
     {
+      "name": "Viewpoint",
+      "icon": "🏔",
+      "description": "Viewpoint",
+      "lat": 46.611985,
+      "lon": 14.7992933,
+      "color": "green",
+      "popup": "Viewpoint",
+      "category": "Sightseeing",
+      "osm_url": "https://www.openstreetmap.org/node/2315215194"
+    },
+    {
+      "name": "Buschenschank Fleiss",
+      "icon": "🍺",
+      "description": "Pub",
+      "lat": 46.6102485,
+      "lon": 14.8000134,
+      "color": "orange",
+      "popup": "Buschenschank Fleiss",
+      "category": "Food & Drink",
+      "osm_url": "https://www.openstreetmap.org/node/2315224393"
+    },
+    {
+      "name": "Drinking Water",
+      "icon": "💧",
+      "description": "Drinking Water",
+      "lat": 46.6194801,
+      "lon": 14.5478566,
+      "color": "blue",
+      "popup": "Drinking Water",
+      "category": "Water",
+      "osm_url": "https://www.openstreetmap.org/node/2383387041"
+    },
+    {
       "name": "Gasthof Torwirt",
       "icon": "🏠",
       "description": "Hotel",
@@ -21,17 +65,6 @@
       "popup": "Gasthof Torwirt<br>Phone: +43 4356 2228<br><a href='https://www.torwirt.at/' target='_blank'>Website</a><br>Lavamünd 45",
       "category": "Accommodation",
       "osm_url": "https://www.openstreetmap.org/node/2404765626"
-    },
-    {
-      "name": "Strandpension Liane",
-      "icon": "🏠",
-      "description": "Guest House",
-      "lat": 46.6053064,
-      "lon": 14.5717106,
-      "color": "blue",
-      "popup": "Strandpension Liane<br><a href='https://www.pension-liane.at/' target='_blank'>Website</a><br>Westuferstraße 28",
-      "category": "Accommodation",
-      "osm_url": "https://www.openstreetmap.org/node/2417825570"
     },
     {
       "name": "Drinking Water",
@@ -56,15 +89,26 @@
       "osm_url": "https://www.openstreetmap.org/node/2423331968"
     },
     {
-      "name": "Osou",
-      "icon": "🏠",
-      "description": "Guest House",
-      "lat": 46.6059092,
-      "lon": 14.5484706,
-      "color": "blue",
-      "popup": "Osou<br>Phone: +43 664 73412826<br><a href='http://www.pension-osou.at' target='_blank'>Website</a>",
-      "category": "Accommodation",
-      "osm_url": "https://www.openstreetmap.org/node/3131100768"
+      "name": "Kanzianus",
+      "icon": "💊",
+      "description": "Pharmacy",
+      "lat": 46.6151218,
+      "lon": 14.574568,
+      "color": "green",
+      "popup": "Kanzianus<br>Klopeiner Straße 2",
+      "category": "Health",
+      "osm_url": "https://www.openstreetmap.org/node/2426499338"
+    },
+    {
+      "name": "BiRo",
+      "icon": "☕",
+      "description": "Cafe",
+      "lat": 46.6152542,
+      "lon": 14.5746003,
+      "color": "orange",
+      "popup": "BiRo",
+      "category": "Food & Drink",
+      "osm_url": "https://www.openstreetmap.org/node/2449445873"
     },
     {
       "name": "Drinking Water",
@@ -276,15 +320,26 @@
       "osm_url": "https://www.openstreetmap.org/node/5616730207"
     },
     {
-      "name": "Viewpoint",
+      "name": "Infoblick Stein",
       "icon": "🏔",
       "description": "Viewpoint",
-      "lat": 46.6027018,
-      "lon": 14.5605941,
+      "lat": 46.6129841,
+      "lon": 14.5344079,
       "color": "green",
-      "popup": "Viewpoint",
+      "popup": "Infoblick Stein",
       "category": "Sightseeing",
-      "osm_url": "https://www.openstreetmap.org/node/5771252321"
+      "osm_url": "https://www.openstreetmap.org/node/5661768531"
+    },
+    {
+      "name": "Drinking Water",
+      "icon": "💧",
+      "description": "Drinking Water",
+      "lat": 46.6192448,
+      "lon": 14.5466965,
+      "color": "blue",
+      "popup": "Drinking Water",
+      "category": "Water",
+      "osm_url": "https://www.openstreetmap.org/node/5838499956"
     },
     {
       "name": "Drinking Water",
@@ -296,17 +351,6 @@
       "popup": "Drinking Water",
       "category": "Water",
       "osm_url": "https://www.openstreetmap.org/node/5839732208"
-    },
-    {
-      "name": "Seehotel Princes",
-      "icon": "🏠",
-      "description": "Hotel",
-      "lat": 46.6033026,
-      "lon": 14.5716572,
-      "color": "blue",
-      "popup": "Seehotel Princes<br><a href='https://www.princes.at/' target='_blank'>Website</a>",
-      "category": "Accommodation",
-      "osm_url": "https://www.openstreetmap.org/node/7443346195"
     },
     {
       "name": "Museumscafe",
@@ -463,17 +507,6 @@
       "osm_url": "https://www.openstreetmap.org/node/9947938822"
     },
     {
-      "name": "Hotel Auszeit",
-      "icon": "🏠",
-      "description": "Hotel",
-      "lat": 46.6037089,
-      "lon": 14.5716492,
-      "color": "blue",
-      "popup": "Hotel Auszeit",
-      "category": "Accommodation",
-      "osm_url": "https://www.openstreetmap.org/node/9948849755"
-    },
-    {
       "name": "Gästehaus Rettl",
       "icon": "🏠",
       "description": "Guest House",
@@ -516,17 +549,6 @@
       "popup": "Camping Rosental Rož",
       "category": "Accommodation",
       "osm_url": "https://www.openstreetmap.org/way/153783782"
-    },
-    {
-      "name": "Ferienwohnungen Sonnenblick",
-      "icon": "🏠",
-      "description": "Guest House",
-      "lat": 46.6057279,
-      "lon": 14.5695821,
-      "color": "blue",
-      "popup": "Ferienwohnungen Sonnenblick<br>Kleinseeweg 23",
-      "category": "Accommodation",
-      "osm_url": "https://www.openstreetmap.org/way/162283245"
     },
     {
       "name": "Hotel Reichmann",
@@ -606,17 +628,6 @@
       "osm_url": "https://www.openstreetmap.org/way/233387981"
     },
     {
-      "name": "Pension Waldperle",
-      "icon": "🏠",
-      "description": "Guest House",
-      "lat": 46.6043496,
-      "lon": 14.5710958,
-      "color": "blue",
-      "popup": "Pension Waldperle<br><a href='http://www.waldperle.at' target='_blank'>Website</a><br>Kleinseeweg 8",
-      "category": "Accommodation",
-      "osm_url": "https://www.openstreetmap.org/way/233387982"
-    },
-    {
       "name": "Strandpension SeeJuwel",
       "icon": "🏠",
       "description": "Guest House",
@@ -637,6 +648,17 @@
       "popup": "Billa<br>Klopeiner Straße 24-26",
       "category": "Shopping",
       "osm_url": "https://www.openstreetmap.org/way/234392053"
+    },
+    {
+      "name": "Penny Markt",
+      "icon": "🛒",
+      "description": "Supermarket",
+      "lat": 46.6139695,
+      "lon": 14.5761269,
+      "color": "green",
+      "popup": "Penny Markt<br>Opening hours: Mo-Fr 07:15-19:00; Sa 07:15-17:00<br>Klopeiner Straße 7",
+      "category": "Shopping",
+      "osm_url": "https://www.openstreetmap.org/way/234392054"
     },
     {
       "name": "Pension Carina",
@@ -670,6 +692,17 @@
       "popup": "Appartment Kristan<br>Am See XIII 2",
       "category": "Accommodation",
       "osm_url": "https://www.openstreetmap.org/way/368261551"
+    },
+    {
+      "name": "Spar",
+      "icon": "🛒",
+      "description": "Supermarket",
+      "lat": 46.6150175,
+      "lon": 14.5744214,
+      "color": "green",
+      "popup": "Spar<br>Opening hours: Mo-Fr 08:00-18:50; Th 08:00-18:00; Sa 08:00-17:50; Su,PH 08:00-13:00, 15:00-18:00<br>Klopeiner Straße 3",
+      "category": "Shopping",
+      "osm_url": "https://www.openstreetmap.org/way/406440682"
     },
     {
       "name": "Hotel Birkenhof am See",
@@ -738,37 +771,15 @@
       "osm_url": "https://www.openstreetmap.org/way/430430866"
     },
     {
-      "name": "Schloss Möchling",
-      "icon": "🏰",
-      "description": "Castle",
-      "lat": 46.5876185,
-      "lon": 14.515274,
-      "color": "purple",
-      "popup": "Schloss Möchling",
-      "category": "Sightseeing",
-      "osm_url": "https://www.openstreetmap.org/way/434892074"
-    },
-    {
-      "name": "Hotel",
+      "name": "Hotel Marko",
       "icon": "🏠",
       "description": "Hotel",
-      "lat": 46.6036817,
-      "lon": 14.5719552,
+      "lat": 46.6118979,
+      "lon": 14.5694536,
       "color": "blue",
-      "popup": "Hotel<br>Westuferstraße 47",
+      "popup": "Hotel Marko<br>Seenweg 41",
       "category": "Accommodation",
-      "osm_url": "https://www.openstreetmap.org/way/527878077"
-    },
-    {
-      "name": "Haus am See",
-      "icon": "🏠",
-      "description": "Guest House",
-      "lat": 46.6041103,
-      "lon": 14.5720276,
-      "color": "blue",
-      "popup": "Haus am See<br>Phone: +43 650 3339962<br><a href='http://jesse.at/' target='_blank'>Website</a><br>Westuferstraße 43",
-      "category": "Accommodation",
-      "osm_url": "https://www.openstreetmap.org/way/527878079"
+      "osm_url": "https://www.openstreetmap.org/way/515467983"
     },
     {
       "name": "Amerika-Holzer",
@@ -804,28 +815,6 @@
       "osm_url": "https://www.openstreetmap.org/way/544412631"
     },
     {
-      "name": "Pension Seelilie",
-      "icon": "🏠",
-      "description": "Guest House",
-      "lat": 46.6064267,
-      "lon": 14.5689113,
-      "color": "blue",
-      "popup": "Pension Seelilie<br>Kleinseeweg 29",
-      "category": "Accommodation",
-      "osm_url": "https://www.openstreetmap.org/way/544417618"
-    },
-    {
-      "name": "Ferienwohnung Buller",
-      "icon": "🏠",
-      "description": "Guest House",
-      "lat": 46.6060968,
-      "lon": 14.5690118,
-      "color": "blue",
-      "popup": "Ferienwohnung Buller<br>Kleinseeweg 27",
-      "category": "Accommodation",
-      "osm_url": "https://www.openstreetmap.org/way/544417619"
-    },
-    {
       "name": "Ferienhotel & Spa Sonne See-Restaurant",
       "icon": "🏠",
       "description": "Hotel",
@@ -848,5 +837,5 @@
       "osm_url": "https://www.openstreetmap.org/way/1283331266"
     }
   ],
-  "ikonok": "🏠;🏠;🏠;💧;🏠;🏠;💧;💧;💧;💧;💧;💧;💧;💧;💧;🛒;🍺;☕;🏠;💧;🏠;🏠;🛒;🛒;☕;🏔;💧;🏠;☕;🏠;🏠;🏠;🏠;💧;🎯;🏠;🛠;🏔;🏠;🏠;🏠;🏠;🏠;🏠;☕;🛠;⛺;🏠;🏠;⛺;⛺;🛒;🎯;🏠;🏠;🏠;🏠;🛒;🏠;🏠;🏠;🏠;🏠;🏠;🏠;🏠;🏠;🏰;🏠;🏠;🏠;🏠;🏠;🏠;🏠;🏠;🏔"
+  "ikonok": "🏠;🏠;🏔;🍺;💧;🏠;💧;🏠;💊;☕;💧;💧;💧;💧;💧;💧;💧;💧;💧;🛒;🍺;☕;🏠;💧;🏠;🏠;🛒;🛒;☕;🏔;💧;💧;☕;🏠;🏠;🏠;🏠;💧;🎯;🏠;🛠;🏔;🏠;🏠;🏠;🏠;🏠;☕;🛠;⛺;🏠;⛺;⛺;🛒;🎯;🏠;🏠;🏠;🛒;🛒;🏠;🏠;🏠;🛒;🏠;🏠;🏠;🏠;🏠;🏠;🏠;🏠;🏠;🏠;🏠;🏔"
 }

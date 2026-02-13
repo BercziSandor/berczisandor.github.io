@@ -12,6 +12,94 @@
       "osm_url": "https://www.openstreetmap.org/node/293122485"
     },
     {
+      "name": "Wulfenia Apotheke",
+      "icon": "💊",
+      "description": "Pharmacy",
+      "lat": 46.6121709,
+      "lon": 13.8435618,
+      "color": "green",
+      "popup": "Wulfenia Apotheke<br>Opening hours: Mo-Fr 08:00-18:00; Sa 08:00-12:00<br>Phone: +43 4242 24903<br><a href='https://www.wulfenia-apotheke.at' target='_blank'>Website</a><br>Hans-Gasser-Platz 2",
+      "category": "Health",
+      "osm_url": "https://www.openstreetmap.org/node/293123035"
+    },
+    {
+      "name": "Team Santé Obere Apotheke",
+      "icon": "💊",
+      "description": "Pharmacy",
+      "lat": 46.6127748,
+      "lon": 13.8459104,
+      "color": "green",
+      "popup": "Team Santé Obere Apotheke<br>Opening hours: Mo-Fr 08:00-18:00; Sa 08:00-13:00<br>Phone: +43 4242 24128<br><a href='https://www.obere-apotheke.at' target='_blank'>Website</a><br>10. Oktober-Straße 4",
+      "category": "Health",
+      "osm_url": "https://www.openstreetmap.org/node/293123037"
+    },
+    {
+      "name": "Kreis Apotheke",
+      "icon": "💊",
+      "description": "Pharmacy",
+      "lat": 46.6142937,
+      "lon": 13.8471355,
+      "color": "green",
+      "popup": "Kreis Apotheke<br>Opening hours: Mo-Fr 08:00-18:00; Sa 08:00-13:00<br>Phone: +43 4242 24118<br><a href='https://www.kreis-apotheke.at' target='_blank'>Website</a><br>Hauptplatz 9",
+      "category": "Health",
+      "osm_url": "https://www.openstreetmap.org/node/293883759"
+    },
+    {
+      "name": "Bernold",
+      "icon": "☕",
+      "description": "Cafe",
+      "lat": 46.6156576,
+      "lon": 13.848855,
+      "color": "orange",
+      "popup": "Bernold<br>Opening hours: Mo-Fr 07:00-21:00; Sa 07:30-21:00; Su 09:00-21:00<br><a href='http://facebook.com/cafebernold' target='_blank'>Website</a><br>Nikolaiplatz 2",
+      "category": "Food & Drink",
+      "osm_url": "https://www.openstreetmap.org/node/311724156"
+    },
+    {
+      "name": "29er",
+      "icon": "🍺",
+      "description": "Pub",
+      "lat": 46.615777,
+      "lon": 13.8452059,
+      "color": "orange",
+      "popup": "29er<br>Opening hours: We 08:00-13:00,17:00-23:00; Th,Fr 09:00-13:00,17:00-23:00; Sa 08:00-14:00,17:00-23:00<br><a href='https://www.lederergasse29.at/' target='_blank'>Website</a><br>Lederergasse 29",
+      "category": "Food & Drink",
+      "osm_url": "https://www.openstreetmap.org/node/311726022"
+    },
+    {
+      "name": "Luna",
+      "icon": "🍺",
+      "description": "Pub",
+      "lat": 46.6149609,
+      "lon": 13.8447161,
+      "color": "orange",
+      "popup": "Luna<br>Kaiser-Josef-Platz 2",
+      "category": "Food & Drink",
+      "osm_url": "https://www.openstreetmap.org/node/311726023"
+    },
+    {
+      "name": "Interspar",
+      "icon": "🛒",
+      "description": "Supermarket",
+      "lat": 46.6145766,
+      "lon": 13.8424096,
+      "color": "green",
+      "popup": "Interspar<br>Opening hours: Mo-Fr 08:00-20:00; Sa 08:00-18:00<br>Ringmauergasse 9",
+      "category": "Shopping",
+      "osm_url": "https://www.openstreetmap.org/node/311726339"
+    },
+    {
+      "name": "multi Store",
+      "icon": "🛒",
+      "description": "Supermarket",
+      "lat": 46.6138191,
+      "lon": 13.8442092,
+      "color": "green",
+      "popup": "multi Store<br>Widmanngasse 28",
+      "category": "Shopping",
+      "osm_url": "https://www.openstreetmap.org/node/311726340"
+    },
+    {
       "name": "Annenhof",
       "icon": "🍺",
       "description": "Beer Garden",
@@ -23,6 +111,72 @@
       "osm_url": "https://www.openstreetmap.org/node/311727124"
     },
     {
+      "name": "Hotel Palais26",
+      "icon": "🏠",
+      "description": "Hotel",
+      "lat": 46.6137088,
+      "lon": 13.8461962,
+      "color": "blue",
+      "popup": "Hotel Palais26<br>Phone: +43 4242 26101<br><a href='https://www.palais26.at/de/' target='_blank'>Website</a><br>Top renoviert & direkt im Zentrum von Villach liegt das Hotel Palais26 in bester Lage in der Villacher Altstadt. Moderne Zimmer und das trendige Restaurant Charles sorgen für den perfekten Aufenthalt in Villach. Egal ob im Urlaub oder auf Geschäftsreise.<br>Hauptplatz 26",
+      "category": "Accommodation",
+      "osm_url": "https://www.openstreetmap.org/node/313468146"
+    },
+    {
+      "name": "Hotel City",
+      "icon": "🏠",
+      "description": "Hotel",
+      "lat": 46.6176271,
+      "lon": 13.849526,
+      "color": "blue",
+      "popup": "Hotel City<br>Bahnhofplatz 3",
+      "category": "Accommodation",
+      "osm_url": "https://www.openstreetmap.org/node/313468149"
+    },
+    {
+      "name": "Hotel Mosser",
+      "icon": "🏠",
+      "description": "Hotel",
+      "lat": 46.6164952,
+      "lon": 13.8488447,
+      "color": "blue",
+      "popup": "Hotel Mosser<br>Phone: +43 4242 24115<br><a href='http://www.hotelmosser.info/' target='_blank'>Website</a>",
+      "category": "Accommodation",
+      "osm_url": "https://www.openstreetmap.org/node/313468150"
+    },
+    {
+      "name": "Engel Apotheke",
+      "icon": "💊",
+      "description": "Pharmacy",
+      "lat": 46.6175234,
+      "lon": 13.8485776,
+      "color": "green",
+      "popup": "Engel Apotheke<br>Opening hours: Mo-Fr 08:00-18:00; Sa 08:00-12:00<br>Phone: +43 4242 244 72<br><a href='http://www.engelapo-villach.at' target='_blank'>Website</a><br>Bahnhofstraße 17",
+      "category": "Health",
+      "osm_url": "https://www.openstreetmap.org/node/322161700"
+    },
+    {
+      "name": "Billa",
+      "icon": "🛒",
+      "description": "Supermarket",
+      "lat": 46.6175922,
+      "lon": 13.8492277,
+      "color": "green",
+      "popup": "Billa<br>Opening hours: Mo-Fr 07:15-19:30; Sa 07:15-18:00<br><a href='https://www.billa.at' target='_blank'>Website</a><br>Bahnhofplatz 4",
+      "category": "Shopping",
+      "osm_url": "https://www.openstreetmap.org/node/348034232"
+    },
+    {
+      "name": "Zum Flaschl",
+      "icon": "🍺",
+      "description": "Pub",
+      "lat": 46.6141954,
+      "lon": 13.8460812,
+      "color": "orange",
+      "popup": "Zum Flaschl<br>Seilergasse 1",
+      "category": "Food & Drink",
+      "osm_url": "https://www.openstreetmap.org/node/348056403"
+    },
+    {
       "name": "Drinking Water",
       "icon": "💧",
       "description": "Drinking Water",
@@ -32,6 +186,39 @@
       "popup": "Drinking Water",
       "category": "Water",
       "osm_url": "https://www.openstreetmap.org/node/353211550"
+    },
+    {
+      "name": "Drinking Water",
+      "icon": "💧",
+      "description": "Drinking Water",
+      "lat": 46.614121,
+      "lon": 13.8324648,
+      "color": "blue",
+      "popup": "Drinking Water",
+      "category": "Water",
+      "osm_url": "https://www.openstreetmap.org/node/353213846"
+    },
+    {
+      "name": "Drinking Water",
+      "icon": "💧",
+      "description": "Drinking Water",
+      "lat": 46.6171196,
+      "lon": 13.8428632,
+      "color": "blue",
+      "popup": "Drinking Water",
+      "category": "Water",
+      "osm_url": "https://www.openstreetmap.org/node/417009049"
+    },
+    {
+      "name": "Drinking Water",
+      "icon": "💧",
+      "description": "Drinking Water",
+      "lat": 46.6154875,
+      "lon": 13.8315006,
+      "color": "blue",
+      "popup": "Drinking Water",
+      "category": "Water",
+      "osm_url": "https://www.openstreetmap.org/node/444496166"
     },
     {
       "name": "Drinking Water",
@@ -67,6 +254,28 @@
       "osm_url": "https://www.openstreetmap.org/node/540754921"
     },
     {
+      "name": "Caffè Latte Bar",
+      "icon": "☕",
+      "description": "Cafe",
+      "lat": 46.612924,
+      "lon": 13.8458257,
+      "color": "orange",
+      "popup": "Caffè Latte Bar<br>Opening hours: Mo-Th 07:30-18:00; Fr 07:30-20:00; Sa 08:00-20:00; Su off<br>Phone: +43 650 5251530<br>10. Oktober-Straße 2",
+      "category": "Food & Drink",
+      "osm_url": "https://www.openstreetmap.org/node/579812119"
+    },
+    {
+      "name": "Bar Italia",
+      "icon": "☕",
+      "description": "Cafe",
+      "lat": 46.6135382,
+      "lon": 13.8460349,
+      "color": "orange",
+      "popup": "Bar Italia<br>Opening hours: Mo-Sa 07:00-24:00; Su 09:00-22:00<br>Phone: +43 4242 24802<br>Hauptplatz 28",
+      "category": "Food & Drink",
+      "osm_url": "https://www.openstreetmap.org/node/579812125"
+    },
+    {
       "name": "Drinking Water",
       "icon": "💧",
       "description": "Drinking Water",
@@ -89,6 +298,50 @@
       "osm_url": "https://www.openstreetmap.org/node/1237057393"
     },
     {
+      "name": "gössl",
+      "icon": "☕",
+      "description": "Cafe",
+      "lat": 46.6144215,
+      "lon": 13.8471881,
+      "color": "orange",
+      "popup": "gössl<br>Hauptplatz 7",
+      "category": "Food & Drink",
+      "osm_url": "https://www.openstreetmap.org/node/1237073130"
+    },
+    {
+      "name": "Turmstüberl",
+      "icon": "🍺",
+      "description": "Pub",
+      "lat": 46.6127805,
+      "lon": 13.8441569,
+      "color": "orange",
+      "popup": "Turmstüberl<br>Widmanngasse 44",
+      "category": "Food & Drink",
+      "osm_url": "https://www.openstreetmap.org/node/1238551927"
+    },
+    {
+      "name": "Bäckerei Café Weissensteiner",
+      "icon": "☕",
+      "description": "Cafe",
+      "lat": 46.6123943,
+      "lon": 13.8441959,
+      "color": "orange",
+      "popup": "Bäckerei Café Weissensteiner<br>Opening hours: Mo-Fr 07:00-17:00, Sa 07:00-13:00, PH,Su 17:00-13:00<br>Widmanngasse 46",
+      "category": "Food & Drink",
+      "osm_url": "https://www.openstreetmap.org/node/1238552936"
+    },
+    {
+      "name": "Hotel Goldenes Lamm",
+      "icon": "🏠",
+      "description": "Hotel",
+      "lat": 46.6148361,
+      "lon": 13.8476237,
+      "color": "blue",
+      "popup": "Hotel Goldenes Lamm<br><a href='https://www.goldeneslamm.at/' target='_blank'>Website</a><br>Hauptplatz 1",
+      "category": "Accommodation",
+      "osm_url": "https://www.openstreetmap.org/node/1239525428"
+    },
+    {
       "name": "Hotel Seestuben",
       "icon": "🏠",
       "description": "Hotel",
@@ -98,6 +351,127 @@
       "popup": "Hotel Seestuben<br>Treffner Straße 94",
       "category": "Accommodation",
       "osm_url": "https://www.openstreetmap.org/node/1239532665"
+    },
+    {
+      "name": "Gasthof zum Goldenen Löwen",
+      "icon": "🏠",
+      "description": "Guest House",
+      "lat": 46.6135953,
+      "lon": 13.8472885,
+      "color": "blue",
+      "popup": "Gasthof zum Goldenen Löwen<br>Leiningengasse 4",
+      "category": "Accommodation",
+      "osm_url": "https://www.openstreetmap.org/node/1240314375"
+    },
+    {
+      "name": "Paracelsushof",
+      "icon": "🗿",
+      "description": "Monument",
+      "lat": 46.6142668,
+      "lon": 13.8463248,
+      "color": "gray",
+      "popup": "Paracelsushof<br>Hauptplatz 18",
+      "category": "Sightseeing",
+      "osm_url": "https://www.openstreetmap.org/node/1240393815"
+    },
+    {
+      "name": "Dreifaltigkeitssäule",
+      "icon": "🗿",
+      "description": "Monument",
+      "lat": 46.6139118,
+      "lon": 13.8465848,
+      "color": "gray",
+      "popup": "Dreifaltigkeitssäule<br>Hauptplatz 22",
+      "category": "Sightseeing",
+      "osm_url": "https://www.openstreetmap.org/node/1240396581"
+    },
+    {
+      "name": "Maria-Immaculata-Säule",
+      "icon": "🗿",
+      "description": "Monument",
+      "lat": 46.6145074,
+      "lon": 13.844228,
+      "color": "gray",
+      "popup": "Maria-Immaculata-Säule",
+      "category": "Sightseeing",
+      "osm_url": "https://www.openstreetmap.org/node/1240402125"
+    },
+    {
+      "name": "Cafe Konditorei Restaurant Rainer",
+      "icon": "☕",
+      "description": "Cafe",
+      "lat": 46.6128199,
+      "lon": 13.8449606,
+      "color": "orange",
+      "popup": "Cafe Konditorei Restaurant Rainer<br>Opening hours: Mo-Sa 08:00-18:30; Su 09:30-18:30<br>Phone: +43 4242 243770<br><a href='http://www.konditorei-rainer-restaurant.at/' target='_blank'>Website</a><br>Kirchenplatz 5",
+      "category": "Food & Drink",
+      "osm_url": "https://www.openstreetmap.org/node/1245329810"
+    },
+    {
+      "name": "Cafe Harmonie",
+      "icon": "☕",
+      "description": "Cafe",
+      "lat": 46.6135164,
+      "lon": 13.8432195,
+      "color": "orange",
+      "popup": "Cafe Harmonie<br>Weißbriachgasse 14",
+      "category": "Food & Drink",
+      "osm_url": "https://www.openstreetmap.org/node/1245768064"
+    },
+    {
+      "name": "Cafe Orange",
+      "icon": "☕",
+      "description": "Cafe",
+      "lat": 46.6147261,
+      "lon": 13.8455966,
+      "color": "orange",
+      "popup": "Cafe Orange<br>Kaiser-Josef-Platz 8",
+      "category": "Food & Drink",
+      "osm_url": "https://www.openstreetmap.org/node/1252234533"
+    },
+    {
+      "name": "Cafe Zeitlos",
+      "icon": "☕",
+      "description": "Cafe",
+      "lat": 46.6176069,
+      "lon": 13.8490961,
+      "color": "orange",
+      "popup": "Cafe Zeitlos<br>Bahnhofplatz 2",
+      "category": "Food & Drink",
+      "osm_url": "https://www.openstreetmap.org/node/1253830554"
+    },
+    {
+      "name": "Cafe Sylvia",
+      "icon": "☕",
+      "description": "Cafe",
+      "lat": 46.6179696,
+      "lon": 13.8499984,
+      "color": "orange",
+      "popup": "Cafe Sylvia<br><a href='http://194.177.142.131/inhalt/tourismus/tiscover_essen.asp?_sysUrl=http://www.tiscover.com/at/guide/108939sy,de,SCH1/objectId,CTR1161618at,bodyOnly,nostyle,curr,EUR,ffs,2,parentId,RGN788at,season,at1,selectedEntry,catering/intern.html' target='_blank'>Website</a><br>Bahnhofplatz 2",
+      "category": "Food & Drink",
+      "osm_url": "https://www.openstreetmap.org/node/1253834659"
+    },
+    {
+      "name": "Rauterbrunnen",
+      "icon": "💧",
+      "description": "Drinking Water",
+      "lat": 46.613304,
+      "lon": 13.8460563,
+      "color": "blue",
+      "popup": "Rauterbrunnen",
+      "category": "Water",
+      "osm_url": "https://www.openstreetmap.org/node/1611160945"
+    },
+    {
+      "name": "Oldies Pub",
+      "icon": "🍺",
+      "description": "Pub",
+      "lat": 46.6151556,
+      "lon": 13.8457274,
+      "color": "orange",
+      "popup": "Oldies Pub",
+      "category": "Food & Drink",
+      "osm_url": "https://www.openstreetmap.org/node/1907407595"
     },
     {
       "name": "Gasthof Lampersberger",
@@ -164,6 +538,17 @@
       "popup": "Pfarrhof Möllbrücke",
       "category": "Accommodation",
       "osm_url": "https://www.openstreetmap.org/node/2408904432"
+    },
+    {
+      "name": "Drinking Water",
+      "icon": "💧",
+      "description": "Drinking Water",
+      "lat": 46.6148931,
+      "lon": 13.8454935,
+      "color": "blue",
+      "popup": "Drinking Water",
+      "category": "Water",
+      "osm_url": "https://www.openstreetmap.org/node/2409987323"
     },
     {
       "name": "Drinking Water",
@@ -241,6 +626,50 @@
       "popup": "Adeg",
       "category": "Shopping",
       "osm_url": "https://www.openstreetmap.org/node/3158383092"
+    },
+    {
+      "name": "McMullens",
+      "icon": "🍺",
+      "description": "Pub",
+      "lat": 46.6147794,
+      "lon": 13.8465912,
+      "color": "orange",
+      "popup": "McMullens<br>Opening hours: Mo-Su 17:00-01:00<br>Phone: +436765302353<br><a href='https://www.mcmullens.at' target='_blank'>Website</a><br>Hauptplatz 10",
+      "category": "Food & Drink",
+      "osm_url": "https://www.openstreetmap.org/node/3180735861"
+    },
+    {
+      "name": "Reformhaus Martin",
+      "icon": "🛒",
+      "description": "Supermarket",
+      "lat": 46.6142704,
+      "lon": 13.8425858,
+      "color": "green",
+      "popup": "Reformhaus Martin<br>Phone: +43 4242 29565<br><a href='https://www.reformstark.at/' target='_blank'>Website</a><br>Ringmauergasse 9",
+      "category": "Shopping",
+      "osm_url": "https://www.openstreetmap.org/node/3180735862"
+    },
+    {
+      "name": "Spar Express",
+      "icon": "🛒",
+      "description": "Convenience Store",
+      "lat": 46.6133374,
+      "lon": 13.8380373,
+      "color": "green",
+      "popup": "Spar Express<br>Opening hours: Mo-Sa 06:00-22:00; Su,PH 07:00-20:00<br>Phone: +43 676 3550456<br><a href='https://www.spar.at' target='_blank'>Website</a><br>Tiroler Straße 10",
+      "category": "Shopping",
+      "osm_url": "https://www.openstreetmap.org/node/3236965259"
+    },
+    {
+      "name": "Spar",
+      "icon": "🛒",
+      "description": "Supermarket",
+      "lat": 46.6130335,
+      "lon": 13.8353783,
+      "color": "green",
+      "popup": "Spar<br>Opening hours: Mo-Fr 07:00-19:00; Sa 07:00-18:00<br>Tiroler Straße 19",
+      "category": "Shopping",
+      "osm_url": "https://www.openstreetmap.org/node/3291292769"
     },
     {
       "name": "Cafe Bar Porcia",
@@ -353,6 +782,39 @@
       "osm_url": "https://www.openstreetmap.org/node/3429743243"
     },
     {
+      "name": "Byblos",
+      "icon": "🍺",
+      "description": "Pub",
+      "lat": 46.61559,
+      "lon": 13.8462654,
+      "color": "orange",
+      "popup": "Byblos",
+      "category": "Food & Drink",
+      "osm_url": "https://www.openstreetmap.org/node/3586415363"
+    },
+    {
+      "name": "Irish Bar",
+      "icon": "🍺",
+      "description": "Pub",
+      "lat": 46.6156236,
+      "lon": 13.8462007,
+      "color": "orange",
+      "popup": "Irish Bar",
+      "category": "Food & Drink",
+      "osm_url": "https://www.openstreetmap.org/node/3586415369"
+    },
+    {
+      "name": "Stadthotel Das Villach",
+      "icon": "🏠",
+      "description": "Hotel",
+      "lat": 46.6155804,
+      "lon": 13.8463833,
+      "color": "blue",
+      "popup": "Stadthotel Das Villach<br>Phone: +43 664 4747972<br><a href='https://www.hoteldasvillach.at/' target='_blank'>Website</a><br>Lederergasse 20",
+      "category": "Accommodation",
+      "osm_url": "https://www.openstreetmap.org/node/3586415371"
+    },
+    {
       "name": "Drinking Water",
       "icon": "💧",
       "description": "Drinking Water",
@@ -373,6 +835,28 @@
       "popup": "Aussichtsplattform DrAUENland",
       "category": "Sightseeing",
       "osm_url": "https://www.openstreetmap.org/node/4260328772"
+    },
+    {
+      "name": "Bellini",
+      "icon": "☕",
+      "description": "Cafe",
+      "lat": 46.6143151,
+      "lon": 13.847463,
+      "color": "orange",
+      "popup": "Bellini",
+      "category": "Food & Drink",
+      "osm_url": "https://www.openstreetmap.org/node/4309673902"
+    },
+    {
+      "name": "Regenbogen",
+      "icon": "🛒",
+      "description": "Convenience Store",
+      "lat": 46.6140982,
+      "lon": 13.8481347,
+      "color": "green",
+      "popup": "Regenbogen",
+      "category": "Shopping",
+      "osm_url": "https://www.openstreetmap.org/node/4309674263"
     },
     {
       "name": "Cafe Centro",
@@ -411,12 +895,56 @@
       "name": "Drinking Water",
       "icon": "💧",
       "description": "Drinking Water",
+      "lat": 46.6123248,
+      "lon": 13.8435834,
+      "color": "blue",
+      "popup": "Drinking Water",
+      "category": "Water",
+      "osm_url": "https://www.openstreetmap.org/node/4362139287"
+    },
+    {
+      "name": "Drinking Water",
+      "icon": "💧",
+      "description": "Drinking Water",
       "lat": 46.8318939,
       "lon": 13.36875,
       "color": "blue",
       "popup": "Drinking Water",
       "category": "Water",
       "osm_url": "https://www.openstreetmap.org/node/4374899349"
+    },
+    {
+      "name": "Weltladen",
+      "icon": "🛒",
+      "description": "Convenience Store",
+      "lat": 46.6135761,
+      "lon": 13.8455067,
+      "color": "green",
+      "popup": "Weltladen",
+      "category": "Shopping",
+      "osm_url": "https://www.openstreetmap.org/node/4395969430"
+    },
+    {
+      "name": "AntoAn",
+      "icon": "☕",
+      "description": "Cafe",
+      "lat": 46.6169788,
+      "lon": 13.8486686,
+      "color": "orange",
+      "popup": "AntoAn<br>Opening hours: Mo-Fr 10:00-23:00",
+      "category": "Food & Drink",
+      "osm_url": "https://www.openstreetmap.org/node/4396071505"
+    },
+    {
+      "name": "Plan B",
+      "icon": "☕",
+      "description": "Cafe",
+      "lat": 46.6177331,
+      "lon": 13.8484011,
+      "color": "orange",
+      "popup": "Plan B<br>Opening hours: Mo-Fr 08:00-18:00+; Sa,Su,PH 08:00-18:00+",
+      "category": "Food & Drink",
+      "osm_url": "https://www.openstreetmap.org/node/4396071513"
     },
     {
       "name": "Drinking Water",
@@ -463,6 +991,50 @@
       "osm_url": "https://www.openstreetmap.org/node/4513589417"
     },
     {
+      "name": "Drinking Water",
+      "icon": "💧",
+      "description": "Drinking Water",
+      "lat": 46.6175841,
+      "lon": 13.8482834,
+      "color": "blue",
+      "popup": "Drinking Water",
+      "category": "Water",
+      "osm_url": "https://www.openstreetmap.org/node/4975639075"
+    },
+    {
+      "name": "Admiral",
+      "icon": "☕",
+      "description": "Cafe",
+      "lat": 46.6145342,
+      "lon": 13.8430865,
+      "color": "orange",
+      "popup": "Admiral",
+      "category": "Food & Drink",
+      "osm_url": "https://www.openstreetmap.org/node/5359349103"
+    },
+    {
+      "name": "Jibi's",
+      "icon": "☕",
+      "description": "Cafe",
+      "lat": 46.6137162,
+      "lon": 13.8343991,
+      "color": "orange",
+      "popup": "Jibi's<br>Opening hours: Mo-Fr 10:00-23:00; Sa 10:00-01:00<br>Phone: +43 664 396 3560<br><a href='http://www.jibis.at' target='_blank'>Website</a><br>Tiroler Straße 26",
+      "category": "Food & Drink",
+      "osm_url": "https://www.openstreetmap.org/node/5427490252"
+    },
+    {
+      "name": "Die Greißlerei",
+      "icon": "☕",
+      "description": "Cafe",
+      "lat": 46.6119576,
+      "lon": 13.8407482,
+      "color": "orange",
+      "popup": "Die Greißlerei<br>Opening hours: Mo-We 09:00-13:00; Th-Fr 09:00-13:00,16:00-21:00; Sa,Su off<br>Phone: +43 677 62643323<br>Völkendorfer Straße 1",
+      "category": "Food & Drink",
+      "osm_url": "https://www.openstreetmap.org/node/5497596701"
+    },
+    {
       "name": "Aussichtspunkt Guckalm *gesperrt! - Verbotszone!",
       "icon": "🏔",
       "description": "Viewpoint",
@@ -472,6 +1044,17 @@
       "popup": "Aussichtspunkt Guckalm *gesperrt! - Verbotszone!",
       "category": "Sightseeing",
       "osm_url": "https://www.openstreetmap.org/node/5554620221"
+    },
+    {
+      "name": "Cafettino",
+      "icon": "☕",
+      "description": "Cafe",
+      "lat": 46.6135242,
+      "lon": 13.8355141,
+      "color": "orange",
+      "popup": "Cafettino<br>Opening hours: Mo-Fr 07:00-02:00<br>Phone: +43 4242 26222<br><a href='https://www.gastro-service-kaernten.at' target='_blank'>Website</a><br>Tiroler Straße 20",
+      "category": "Food & Drink",
+      "osm_url": "https://www.openstreetmap.org/node/5566675339"
     },
     {
       "name": "Drinking Water",
@@ -505,6 +1088,28 @@
       "popup": "Bicycle Repair",
       "category": "Cycling",
       "osm_url": "https://www.openstreetmap.org/node/5860406717"
+    },
+    {
+      "name": "Drinking Water",
+      "icon": "💧",
+      "description": "Drinking Water",
+      "lat": 46.6158484,
+      "lon": 13.8490576,
+      "color": "blue",
+      "popup": "Drinking Water",
+      "category": "Water",
+      "osm_url": "https://www.openstreetmap.org/node/5879485470"
+    },
+    {
+      "name": "Hotel Europa",
+      "icon": "🏠",
+      "description": "Hotel",
+      "lat": 46.6169445,
+      "lon": 13.8490676,
+      "color": "blue",
+      "popup": "Hotel Europa",
+      "category": "Accommodation",
+      "osm_url": "https://www.openstreetmap.org/node/5986634946"
     },
     {
       "name": "Drinking Water",
@@ -562,6 +1167,28 @@
       "osm_url": "https://www.openstreetmap.org/node/7058395502"
     },
     {
+      "name": "Im Wohnzimmer",
+      "icon": "☕",
+      "description": "Cafe",
+      "lat": 46.6126048,
+      "lon": 13.8445646,
+      "color": "orange",
+      "popup": "Im Wohnzimmer<br>Opening hours: Mo-Fr 08:08-20:20; Sa 09:09-14:14<br>Phone: +43 664 5347498<br><a href='http://www.imwohnzimmer.at/' target='_blank'>Website</a><br>Widmanngasse 43",
+      "category": "Food & Drink",
+      "osm_url": "https://www.openstreetmap.org/node/7071644722"
+    },
+    {
+      "name": "Alt-Wiener-Café",
+      "icon": "☕",
+      "description": "Cafe",
+      "lat": 46.6167789,
+      "lon": 13.847371,
+      "color": "orange",
+      "popup": "Alt-Wiener-Café<br>Kassinsteig 2",
+      "category": "Food & Drink",
+      "osm_url": "https://www.openstreetmap.org/node/7164337275"
+    },
+    {
       "name": "Viewpoint",
       "icon": "🏔",
       "description": "Viewpoint",
@@ -606,6 +1233,17 @@
       "osm_url": "https://www.openstreetmap.org/node/7840953064"
     },
     {
+      "name": "Bicycle Repair",
+      "icon": "🛠",
+      "description": "Bicycle Repair",
+      "lat": 46.6153949,
+      "lon": 13.8489715,
+      "color": "green",
+      "popup": "Bicycle Repair",
+      "category": "Cycling",
+      "osm_url": "https://www.openstreetmap.org/node/7850573860"
+    },
+    {
       "name": "Bierstüberl",
       "icon": "☕",
       "description": "Cafe",
@@ -626,6 +1264,28 @@
       "popup": "Naturkostladen Chili<br>Phone: +43 664 75004085<br>Tiroler Straße 10",
       "category": "Shopping",
       "osm_url": "https://www.openstreetmap.org/node/7934553485"
+    },
+    {
+      "name": "Sweet & Delicious",
+      "icon": "☕",
+      "description": "Cafe",
+      "lat": 46.6150682,
+      "lon": 13.8473845,
+      "color": "orange",
+      "popup": "Sweet & Delicious<br>Lederergasse 4",
+      "category": "Food & Drink",
+      "osm_url": "https://www.openstreetmap.org/node/7939348986"
+    },
+    {
+      "name": "Drinking Water",
+      "icon": "💧",
+      "description": "Drinking Water",
+      "lat": 46.615396,
+      "lon": 13.8474298,
+      "color": "blue",
+      "popup": "Drinking Water<br>Trinkschale für Hunde vorhanden",
+      "category": "Water",
+      "osm_url": "https://www.openstreetmap.org/node/8320749507"
     },
     {
       "name": "Drinking Water",
@@ -650,6 +1310,39 @@
       "osm_url": "https://www.openstreetmap.org/node/8571066327"
     },
     {
+      "name": "Hotel Fugger",
+      "icon": "🏠",
+      "description": "Hotel",
+      "lat": 46.6144068,
+      "lon": 13.8455077,
+      "color": "blue",
+      "popup": "Hotel Fugger<br>Phone: +43 650 5815808",
+      "category": "Accommodation",
+      "osm_url": "https://www.openstreetmap.org/node/8899936107"
+    },
+    {
+      "name": "Boxenstop",
+      "icon": "🍺",
+      "description": "Pub",
+      "lat": 46.6154305,
+      "lon": 13.8466273,
+      "color": "orange",
+      "popup": "Boxenstop",
+      "category": "Food & Drink",
+      "osm_url": "https://www.openstreetmap.org/node/8899948220"
+    },
+    {
+      "name": "Drinking Water",
+      "icon": "💧",
+      "description": "Drinking Water",
+      "lat": 46.6161556,
+      "lon": 13.8478495,
+      "color": "blue",
+      "popup": "Drinking Water",
+      "category": "Water",
+      "osm_url": "https://www.openstreetmap.org/node/9144798539"
+    },
+    {
       "name": "Bicycle Repair",
       "icon": "🛠",
       "description": "Bicycle Repair",
@@ -672,6 +1365,28 @@
       "osm_url": "https://www.openstreetmap.org/node/9416383802"
     },
     {
+      "name": "Drinking Water",
+      "icon": "💧",
+      "description": "Drinking Water",
+      "lat": 46.6170945,
+      "lon": 13.8440146,
+      "color": "blue",
+      "popup": "Drinking Water",
+      "category": "Water",
+      "osm_url": "https://www.openstreetmap.org/node/9712992092"
+    },
+    {
+      "name": "Gedenkstätte",
+      "icon": "🗿",
+      "description": "Monument",
+      "lat": 46.6132888,
+      "lon": 13.8452043,
+      "color": "gray",
+      "popup": "Gedenkstätte",
+      "category": "Sightseeing",
+      "osm_url": "https://www.openstreetmap.org/node/9760977688"
+    },
+    {
       "name": "FriDos",
       "icon": "🍺",
       "description": "Beer Garden",
@@ -681,6 +1396,116 @@
       "popup": "FriDos<br>Opening hours: Mo-Su,PH 09:00-17:00; \"Bei Schlechtwetter 10:00-13:00\"<br><a href='https://www.fridos.at' target='_blank'>Website</a>",
       "category": "Food & Drink",
       "osm_url": "https://www.openstreetmap.org/node/9849950879"
+    },
+    {
+      "name": "Mittagskogelblick CCV-Brücke",
+      "icon": "🎯",
+      "description": "Attraction",
+      "lat": 46.6154921,
+      "lon": 13.8483633,
+      "color": "purple",
+      "popup": "Mittagskogelblick CCV-Brücke<br>Bilderrahmen mit Mittagskogelblick",
+      "category": "Sightseeing",
+      "osm_url": "https://www.openstreetmap.org/node/9956848357"
+    },
+    {
+      "name": "Dobratschblick Draubrücke",
+      "icon": "🎯",
+      "description": "Attraction",
+      "lat": 46.6156093,
+      "lon": 13.8482927,
+      "color": "purple",
+      "popup": "Dobratschblick Draubrücke<br>Bilderrahmen mit Dobratschblick",
+      "category": "Sightseeing",
+      "osm_url": "https://www.openstreetmap.org/node/9956890102"
+    },
+    {
+      "name": "XXL-Stehlampen",
+      "icon": "🎯",
+      "description": "Attraction",
+      "lat": 46.6122608,
+      "lon": 13.8438685,
+      "color": "purple",
+      "popup": "XXL-Stehlampen",
+      "category": "Sightseeing",
+      "osm_url": "https://www.openstreetmap.org/node/9956908809"
+    },
+    {
+      "name": "XXL-Lampenschirme",
+      "icon": "🎯",
+      "description": "Attraction",
+      "lat": 46.6134528,
+      "lon": 13.8457321,
+      "color": "purple",
+      "popup": "XXL-Lampenschirme",
+      "category": "Sightseeing",
+      "osm_url": "https://www.openstreetmap.org/node/9956928242"
+    },
+    {
+      "name": "Riesenherz",
+      "icon": "🎯",
+      "description": "Attraction",
+      "lat": 46.6159371,
+      "lon": 13.8490591,
+      "color": "purple",
+      "popup": "Riesenherz",
+      "category": "Sightseeing",
+      "osm_url": "https://www.openstreetmap.org/node/9956928681"
+    },
+    {
+      "name": "Streetart - Bansky - Luftballon",
+      "icon": "🎯",
+      "description": "Attraction",
+      "lat": 46.6144359,
+      "lon": 13.84487,
+      "color": "purple",
+      "popup": "Streetart - Bansky - Luftballon",
+      "category": "Sightseeing",
+      "osm_url": "https://www.openstreetmap.org/node/9956931522"
+    },
+    {
+      "name": "Friedenstauben",
+      "icon": "🎯",
+      "description": "Attraction",
+      "lat": 46.6130258,
+      "lon": 13.8462383,
+      "color": "purple",
+      "popup": "Friedenstauben",
+      "category": "Sightseeing",
+      "osm_url": "https://www.openstreetmap.org/node/9956931966"
+    },
+    {
+      "name": "Pflanzenwand",
+      "icon": "🎯",
+      "description": "Attraction",
+      "lat": 46.6132906,
+      "lon": 13.8446592,
+      "color": "purple",
+      "popup": "Pflanzenwand",
+      "category": "Sightseeing",
+      "osm_url": "https://www.openstreetmap.org/node/9956937064"
+    },
+    {
+      "name": "XXL-Bilderrahmen",
+      "icon": "🎯",
+      "description": "Attraction",
+      "lat": 46.6128162,
+      "lon": 13.8446163,
+      "color": "purple",
+      "popup": "XXL-Bilderrahmen",
+      "category": "Sightseeing",
+      "osm_url": "https://www.openstreetmap.org/node/9956937065"
+    },
+    {
+      "name": "Streetart",
+      "icon": "🎯",
+      "description": "Attraction",
+      "lat": 46.6137561,
+      "lon": 13.8443316,
+      "color": "purple",
+      "popup": "Streetart",
+      "category": "Sightseeing",
+      "osm_url": "https://www.openstreetmap.org/node/9956947285"
     },
     {
       "name": "Drinking Water",
@@ -738,6 +1563,39 @@
       "osm_url": "https://www.openstreetmap.org/node/10599293262"
     },
     {
+      "name": "Villacher Hochwasserstein",
+      "icon": "🎯",
+      "description": "Attraction",
+      "lat": 46.6152371,
+      "lon": 13.8469547,
+      "color": "purple",
+      "popup": "Villacher Hochwasserstein",
+      "category": "Sightseeing",
+      "osm_url": "https://www.openstreetmap.org/node/11093164566"
+    },
+    {
+      "name": "Retro",
+      "icon": "☕",
+      "description": "Cafe",
+      "lat": 46.6137052,
+      "lon": 13.8446737,
+      "color": "orange",
+      "popup": "Retro",
+      "category": "Food & Drink",
+      "osm_url": "https://www.openstreetmap.org/node/11239874125"
+    },
+    {
+      "name": "Harry's Home",
+      "icon": "🏠",
+      "description": "Hotel",
+      "lat": 46.6174769,
+      "lon": 13.8481871,
+      "color": "blue",
+      "popup": "Harry's Home<br><a href='https://harrys-home.com' target='_blank'>Website</a><br>Bahnhofplatz 5",
+      "category": "Accommodation",
+      "osm_url": "https://www.openstreetmap.org/node/11410741082"
+    },
+    {
       "name": "Bicycle Repair",
       "icon": "🛠",
       "description": "Bicycle Repair",
@@ -749,6 +1607,17 @@
       "osm_url": "https://www.openstreetmap.org/node/11460245454"
     },
     {
+      "name": "autArKerie",
+      "icon": "🛒",
+      "description": "Convenience Store",
+      "lat": 46.6170853,
+      "lon": 13.8486412,
+      "color": "green",
+      "popup": "autArKerie<br>Opening hours: Mo-Fr 08:00-12:00",
+      "category": "Shopping",
+      "osm_url": "https://www.openstreetmap.org/node/11963562262"
+    },
+    {
       "name": "Bicycle Repair",
       "icon": "🛠",
       "description": "Bicycle Repair",
@@ -758,6 +1627,17 @@
       "popup": "Bicycle Repair",
       "category": "Cycling",
       "osm_url": "https://www.openstreetmap.org/node/12100288500"
+    },
+    {
+      "name": "Biest Specialty Coffee",
+      "icon": "☕",
+      "description": "Cafe",
+      "lat": 46.6159844,
+      "lon": 13.8481959,
+      "color": "orange",
+      "popup": "Biest Specialty Coffee<br>Opening hours: 10:00-18:00<br>Phone: +43 650 2526242<br><a href='https://www.biestcoffee.at/kontaktiere-uns' target='_blank'>Website</a><br>Draupromenade 6",
+      "category": "Food & Drink",
+      "osm_url": "https://www.openstreetmap.org/node/12120202123"
     },
     {
       "name": "Drinking Water",
@@ -958,6 +1838,28 @@
       "osm_url": "https://www.openstreetmap.org/node/13298366053"
     },
     {
+      "name": "Pharmacy",
+      "icon": "💊",
+      "description": "Pharmacy",
+      "lat": 46.617671,
+      "lon": 13.8484223,
+      "color": "green",
+      "popup": "Pharmacy",
+      "category": "Health",
+      "osm_url": "https://www.openstreetmap.org/node/13332444540"
+    },
+    {
+      "name": "Dinzlschloss",
+      "icon": "🏰",
+      "description": "Castle",
+      "lat": 46.6162085,
+      "lon": 13.831545,
+      "color": "purple",
+      "popup": "Dinzlschloss<br><a href='https://bda.at/text/136/908/10253/' target='_blank'>Website</a><br>Kulturamt<br>Schlossgasse 11",
+      "category": "Sightseeing",
+      "osm_url": "https://www.openstreetmap.org/way/37935650"
+    },
+    {
       "name": "Hofer",
       "icon": "🛒",
       "description": "Supermarket",
@@ -1033,6 +1935,39 @@
       "popup": "Little Italy<br>St.Martiner-Straße 42",
       "category": "Food & Drink",
       "osm_url": "https://www.openstreetmap.org/way/133882249"
+    },
+    {
+      "name": "Jugendgästehaus Villach",
+      "icon": "🏠",
+      "description": "Hostel",
+      "lat": 46.6159686,
+      "lon": 13.8332519,
+      "color": "blue",
+      "popup": "Jugendgästehaus Villach<br>Phone: +43 4242 56368<br><a href='https://www.oejhv.at/jugendherbergen/kaernten/villach/' target='_blank'>Website</a><br>St.Martiner-Straße 13a",
+      "category": "Accommodation",
+      "osm_url": "https://www.openstreetmap.org/way/136705250"
+    },
+    {
+      "name": "Franziskanerkloster Villach",
+      "icon": "🏛",
+      "description": "Monastery",
+      "lat": 46.6161299,
+      "lon": 13.8499281,
+      "color": "brown",
+      "popup": "Franziskanerkloster Villach<br>Nikolaiplatz 1",
+      "category": "Sightseeing",
+      "osm_url": "https://www.openstreetmap.org/way/138358047"
+    },
+    {
+      "name": "Eschey-Hof",
+      "icon": "🗿",
+      "description": "Monument",
+      "lat": 46.6136229,
+      "lon": 13.8440795,
+      "color": "gray",
+      "popup": "Eschey-Hof<br>Widmanngasse 30",
+      "category": "Sightseeing",
+      "osm_url": "https://www.openstreetmap.org/way/139754178"
     },
     {
       "name": "Cafe Fanzott M&M",
@@ -1143,6 +2078,17 @@
       "popup": "Schloss Raggnitz",
       "category": "Sightseeing",
       "osm_url": "https://www.openstreetmap.org/way/185207147"
+    },
+    {
+      "name": "Wochenmarkt",
+      "icon": "🛒",
+      "description": "Marketplace",
+      "lat": 46.6159987,
+      "lon": 13.8441175,
+      "color": "green",
+      "popup": "Wochenmarkt<br>Opening hours: We 07:00-12:00; Sa 07:00-12:00",
+      "category": "Shopping",
+      "osm_url": "https://www.openstreetmap.org/way/221311555"
     },
     {
       "name": "Greifs Land Cafe",
@@ -1376,6 +2322,39 @@
       "osm_url": "https://www.openstreetmap.org/way/1003531918"
     },
     {
+      "name": "Fliegende Schirme",
+      "icon": "🎯",
+      "description": "Attraction",
+      "lat": 46.6151883,
+      "lon": 13.8469832,
+      "color": "purple",
+      "popup": "Fliegende Schirme",
+      "category": "Sightseeing",
+      "osm_url": "https://www.openstreetmap.org/way/1086680373"
+    },
+    {
+      "name": "Wohnzimmer am Hauptplatz",
+      "icon": "🎯",
+      "description": "Attraction",
+      "lat": 46.6143588,
+      "lon": 13.8469847,
+      "color": "purple",
+      "popup": "Wohnzimmer am Hauptplatz",
+      "category": "Sightseeing",
+      "osm_url": "https://www.openstreetmap.org/way/1086680868"
+    },
+    {
+      "name": "Vogelkäfige",
+      "icon": "🎯",
+      "description": "Attraction",
+      "lat": 46.6128061,
+      "lon": 13.8460057,
+      "color": "purple",
+      "popup": "Vogelkäfige",
+      "category": "Sightseeing",
+      "osm_url": "https://www.openstreetmap.org/way/1086681983"
+    },
+    {
       "name": "Untere Sachsenburg",
       "icon": "🏰",
       "description": "Castle",
@@ -1387,5 +2366,5 @@
       "osm_url": "https://www.openstreetmap.org/way/1381384282"
     }
   ],
-  "ikonok": "💊;🍺;💧;💧;🛒;🛒;💧;☕;🏠;🏠;🛒;🏠;💧;💧;🏠;💧;💧;💧;💧;☕;☕;🛒;☕;🛒;☕;🛒;☕;🛒;🍺;☕;☕;🍺;💧;🏔;☕;☕;☕;💧;💧;💧;💧;💧;🏔;💧;💧;🛠;💧;🏰;🛒;☕;☕;🏔;💧;🛒;💧;☕;🛒;💧;💧;🛠;💊;🍺;💧;🛒;🛠;🛒;🛒;🛠;🛠;💧;💧;💧;💧;💧;💧;🛠;💧;🏰;🛠;💧;💧;🛠;🛠;💧;💧;💧;💧;🛒;🛒;⛺;🏰;🛒;💊;☕;☕;💊;🏠;🛒;🛒;💊;💊;🛒;🛒;🏰;☕;🏠;⛺;🛒;🏥;🛒;🏠;🏰;🏠;🛒;🛒;☕;🛒;🛒;🛒;🛒;☕;⛺;🏖;🏰;🛒;🏰"
+  "ikonok": "💊;💊;💊;💊;☕;🍺;🍺;🛒;🛒;🍺;🏠;🏠;🏠;💊;🛒;🍺;💧;💧;💧;💧;💧;🛒;🛒;☕;☕;💧;☕;☕;🍺;☕;🏠;🏠;🏠;🗿;🗿;🗿;☕;☕;☕;☕;☕;💧;🍺;🏠;🛒;🏠;💧;💧;🏠;💧;💧;💧;💧;💧;☕;☕;🛒;🍺;🛒;🛒;🛒;☕;🛒;☕;🛒;☕;🛒;🍺;☕;☕;🍺;🍺;🍺;🏠;💧;🏔;☕;🛒;☕;☕;☕;💧;💧;🛒;☕;☕;💧;💧;💧;💧;💧;☕;☕;☕;🏔;☕;💧;💧;🛠;💧;🏠;💧;🏰;🛒;☕;☕;☕;☕;🏔;💧;🛒;💧;🛠;☕;🛒;☕;💧;💧;💧;🏠;🍺;💧;🛠;💊;💧;🗿;🍺;🎯;🎯;🎯;🎯;🎯;🎯;🎯;🎯;🎯;🎯;💧;🛒;🛠;🛒;🛒;🎯;☕;🏠;🛠;🛒;🛠;☕;💧;💧;💧;💧;💧;💧;🛠;💧;🏰;🛠;💧;💧;🛠;🛠;💧;💧;💧;💧;💊;🏰;🛒;🛒;⛺;🏰;🛒;💊;☕;🏠;🏛;🗿;☕;💊;🏠;🛒;🛒;💊;💊;🛒;🛒;🏰;🛒;☕;🏠;⛺;🛒;🏥;🛒;🏠;🏰;🏠;🛒;🛒;☕;🛒;🛒;🛒;🛒;☕;⛺;🏖;🏰;🛒;🎯;🎯;🎯;🏰"
 }
