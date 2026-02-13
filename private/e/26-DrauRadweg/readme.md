@@ -25,6 +25,16 @@ python3 /c/Entwicklung/work/_git/dailyUtils/private/gpx/joinGpx/join_gpx.py \
     >0-Misurina-Maribor.gpx
 ```
 
+https://overpass-turbo.eu/
+
+https://overpass-turbo.eu/s/2gZN
+
+```
+[out:json][timeout:25];
+nwr["tourism"="camp_site"]({{bbox}});
+out geom;
+```
+
 
 
 ```
