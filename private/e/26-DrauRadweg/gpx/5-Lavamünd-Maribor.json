@@ -1,28 +1,6 @@
 {
   "points": [
     {
-      "name": "Timeout",
-      "icon": "🍺",
-      "description": "Pub",
-      "lat": 46.6126819,
-      "lon": 15.1658414,
-      "color": "orange",
-      "popup": "Timeout",
-      "category": "Food & Drink",
-      "osm_url": "https://www.openstreetmap.org/node/250655258"
-    },
-    {
-      "name": "Tuš Market",
-      "icon": "🛒",
-      "description": "Supermarket",
-      "lat": 46.6129662,
-      "lon": 15.1661125,
-      "color": "green",
-      "popup": "Tuš Market",
-      "category": "Shopping",
-      "osm_url": "https://www.openstreetmap.org/node/250655259"
-    },
-    {
       "name": "Bar-Market Orozel",
       "icon": "🍺",
       "description": "Pub",
@@ -122,15 +100,26 @@
       "osm_url": "https://www.openstreetmap.org/node/403272462"
     },
     {
-      "name": "Stari grad",
+      "name": "Pharmacy",
+      "icon": "💊",
+      "description": "Pharmacy",
+      "lat": 46.5987204,
+      "lon": 15.1640559,
+      "color": "green",
+      "popup": "Pharmacy",
+      "category": "Health",
+      "osm_url": "https://www.openstreetmap.org/node/429965641"
+    },
+    {
+      "name": "Viewpoint",
       "icon": "🏔",
       "description": "Viewpoint",
-      "lat": 46.6178865,
-      "lon": 15.2208827,
+      "lat": 46.601524,
+      "lon": 15.1704296,
       "color": "green",
-      "popup": "Stari grad",
+      "popup": "Viewpoint",
       "category": "Sightseeing",
-      "osm_url": "https://www.openstreetmap.org/node/963535332"
+      "osm_url": "https://www.openstreetmap.org/node/717714285"
     },
     {
       "name": "Market Hribček",
@@ -397,17 +386,6 @@
       "osm_url": "https://www.openstreetmap.org/node/3973137782"
     },
     {
-      "name": "Mercator",
-      "icon": "🛒",
-      "description": "Supermarket",
-      "lat": 46.6148296,
-      "lon": 15.2127311,
-      "color": "green",
-      "popup": "Mercator",
-      "category": "Shopping",
-      "osm_url": "https://www.openstreetmap.org/node/4687113391"
-    },
-    {
       "name": "Post Hostel",
       "icon": "🏠",
       "description": "Hostel",
@@ -463,17 +441,6 @@
       "osm_url": "https://www.openstreetmap.org/node/5005270187"
     },
     {
-      "name": "Hostel Radlje",
-      "icon": "🏠",
-      "description": "Guest House",
-      "lat": 46.61446,
-      "lon": 15.2241013,
-      "color": "blue",
-      "popup": "Hostel Radlje<br>Phone: +386 41 77 11 78<br><a href='https://www.greenresort.si' target='_blank'>Website</a><br>Mariborska cesta 8",
-      "category": "Accommodation",
-      "osm_url": "https://www.openstreetmap.org/node/5009504325"
-    },
-    {
       "name": "Falco bar",
       "icon": "☕",
       "description": "Cafe",
@@ -527,17 +494,6 @@
       "popup": "Čili bar<br>Koroška cesta 80",
       "category": "Food & Drink",
       "osm_url": "https://www.openstreetmap.org/node/5483324315"
-    },
-    {
-      "name": "Drinking Water",
-      "icon": "💧",
-      "description": "Drinking Water",
-      "lat": 46.6061046,
-      "lon": 15.124518,
-      "color": "blue",
-      "popup": "Drinking Water",
-      "category": "Water",
-      "osm_url": "https://www.openstreetmap.org/node/5554850421"
     },
     {
       "name": "Drinking Water",
@@ -606,61 +562,6 @@
       "osm_url": "https://www.openstreetmap.org/node/8048182303"
     },
     {
-      "name": "Marenberg Cafe",
-      "icon": "☕",
-      "description": "Cafe",
-      "lat": 46.6144608,
-      "lon": 15.2230409,
-      "color": "orange",
-      "popup": "Marenberg Cafe",
-      "category": "Food & Drink",
-      "osm_url": "https://www.openstreetmap.org/node/8196770321"
-    },
-    {
-      "name": "Monument",
-      "icon": "🗿",
-      "description": "Monument",
-      "lat": 46.6147539,
-      "lon": 15.223724,
-      "color": "gray",
-      "popup": "Monument",
-      "category": "Sightseeing",
-      "osm_url": "https://www.openstreetmap.org/node/8198578268"
-    },
-    {
-      "name": "Tuš market Radlje ob Dravi",
-      "icon": "🛒",
-      "description": "Convenience Store",
-      "lat": 46.6149213,
-      "lon": 15.2234253,
-      "color": "green",
-      "popup": "Tuš market Radlje ob Dravi<br>Phone: +386 70 882 099<br><a href='https://www.tus.si' target='_blank'>Website</a>",
-      "category": "Shopping",
-      "osm_url": "https://www.openstreetmap.org/node/8198578277"
-    },
-    {
-      "name": "Lekarna Radlje ob Dravi",
-      "icon": "💊",
-      "description": "Pharmacy",
-      "lat": 46.6146977,
-      "lon": 15.224117,
-      "color": "green",
-      "popup": "Lekarna Radlje ob Dravi<br>Phone: +386 (02) 877 07 37<br><a href='https://www.koroskalekarna.si/' target='_blank'>Website</a><br>Mariborska cesta 3",
-      "category": "Health",
-      "osm_url": "https://www.openstreetmap.org/node/8198578278"
-    },
-    {
-      "name": "Monument",
-      "icon": "🗿",
-      "description": "Monument",
-      "lat": 46.6128393,
-      "lon": 15.166811,
-      "color": "gray",
-      "popup": "Monument",
-      "category": "Sightseeing",
-      "osm_url": "https://www.openstreetmap.org/node/8416716170"
-    },
-    {
       "name": "Bar Ekspreso",
       "icon": "☕",
       "description": "Cafe",
@@ -672,15 +573,15 @@
       "osm_url": "https://www.openstreetmap.org/node/8518819694"
     },
     {
-      "name": "Zdravstveni Dom Radlje ob Dravi",
-      "icon": "🚨",
-      "description": "Clinic",
-      "lat": 46.6136434,
-      "lon": 15.2307353,
-      "color": "red",
-      "popup": "Zdravstveni Dom Radlje ob Dravi<br>Mariborska cesta 37",
-      "category": "Health",
-      "osm_url": "https://www.openstreetmap.org/node/8758585281"
+      "name": "Monument",
+      "icon": "🗿",
+      "description": "Monument",
+      "lat": 46.6025951,
+      "lon": 15.1616177,
+      "color": "gray",
+      "popup": "Monument",
+      "category": "Sightseeing",
+      "osm_url": "https://www.openstreetmap.org/node/8522255017"
     },
     {
       "name": "Drinking Water",
@@ -692,17 +593,6 @@
       "popup": "Drinking Water",
       "category": "Water",
       "osm_url": "https://www.openstreetmap.org/node/9104213654"
-    },
-    {
-      "name": "Monument",
-      "icon": "🗿",
-      "description": "Monument",
-      "lat": 46.6114401,
-      "lon": 15.1708049,
-      "color": "gray",
-      "popup": "Monument",
-      "category": "Sightseeing",
-      "osm_url": "https://www.openstreetmap.org/node/9138507139"
     },
     {
       "name": "Parna lokomotiva JŽ 18-005",
@@ -738,17 +628,6 @@
       "osm_url": "https://www.openstreetmap.org/node/9661456575"
     },
     {
-      "name": "Lift - cycling bar",
-      "icon": "☕",
-      "description": "Cafe",
-      "lat": 46.6143862,
-      "lon": 15.2086104,
-      "color": "orange",
-      "popup": "Lift - cycling bar<br>Opening hours: Mo-Fr 06:00-22:00; Sa 07:00-22:00; Su 08:00-12:00<br>Koroška cesta 69c",
-      "category": "Food & Drink",
-      "osm_url": "https://www.openstreetmap.org/node/9945400853"
-    },
-    {
       "name": "Gästehaus Rettl",
       "icon": "🏠",
       "description": "Guest House",
@@ -769,17 +648,6 @@
       "popup": "Viewpoint",
       "category": "Sightseeing",
       "osm_url": "https://www.openstreetmap.org/node/10053997051"
-    },
-    {
-      "name": "Spar",
-      "icon": "🛒",
-      "description": "Supermarket",
-      "lat": 46.6088458,
-      "lon": 15.1632746,
-      "color": "green",
-      "popup": "Spar<br>Opening hours: Mo-Fr 07:00-19:00; Sa 07:00-17:00; Su 08:00-12:00",
-      "category": "Shopping",
-      "osm_url": "https://www.openstreetmap.org/node/10906076795"
     },
     {
       "name": "NA POLJANAH - HEROJA ŠERCERJA",
@@ -903,17 +771,6 @@
       "osm_url": "https://www.openstreetmap.org/node/13184688266"
     },
     {
-      "name": "Mačja kavarna Rozi",
-      "icon": "☕",
-      "description": "Cafe",
-      "lat": 46.6146305,
-      "lon": 15.2093025,
-      "color": "orange",
-      "popup": "Mačja kavarna Rozi<br>Opening hours: Mo-Fr 12:00-19:00; Sa 09:00-19:00; Su 09:00-15:00",
-      "category": "Food & Drink",
-      "osm_url": "https://www.openstreetmap.org/node/13369436027"
-    },
-    {
       "name": "Hotel Tabor Maribor",
       "icon": "🏠",
       "description": "Hotel",
@@ -1035,39 +892,6 @@
       "osm_url": "https://www.openstreetmap.org/way/239794973"
     },
     {
-      "name": "Lidl",
-      "icon": "🛒",
-      "description": "Supermarket",
-      "lat": 46.613554,
-      "lon": 15.2081798,
-      "color": "green",
-      "popup": "Lidl<br>Opening hours: Mo-Sa 08:00-20:00<br>Dobrava 45",
-      "category": "Shopping",
-      "osm_url": "https://www.openstreetmap.org/way/282026248"
-    },
-    {
-      "name": "Zdravstveni Dom Radlje ob Dravi",
-      "icon": "🚨",
-      "description": "Clinic",
-      "lat": 46.6136862,
-      "lon": 15.2304884,
-      "color": "red",
-      "popup": "Zdravstveni Dom Radlje ob Dravi<br><a href='http://www.zd-radlje.si/' target='_blank'>Website</a><br>Mariborska cesta 37",
-      "category": "Health",
-      "osm_url": "https://www.openstreetmap.org/way/292394873"
-    },
-    {
-      "name": "Hofer",
-      "icon": "🛒",
-      "description": "Supermarket",
-      "lat": 46.6149414,
-      "lon": 15.2070292,
-      "color": "green",
-      "popup": "Hofer<br>Opening hours: Mo-Sa 08:00-20:00; Su 08:00-15:00<br><a href='https://www.hofer.si/' target='_blank'>Website</a><br>Koroška cesta 69B",
-      "category": "Shopping",
-      "osm_url": "https://www.openstreetmap.org/way/292396023"
-    },
-    {
       "name": "Lekarna Kalohova",
       "icon": "💊",
       "description": "Pharmacy",
@@ -1156,39 +980,6 @@
       "osm_url": "https://www.openstreetmap.org/way/542620416"
     },
     {
-      "name": "Bar Kučer",
-      "icon": "🍺",
-      "description": "Pub",
-      "lat": 46.6065544,
-      "lon": 15.1246306,
-      "color": "orange",
-      "popup": "Bar Kučer<br>Gortina 93",
-      "category": "Food & Drink",
-      "osm_url": "https://www.openstreetmap.org/way/863582386"
-    },
-    {
-      "name": "Trgovina z živili",
-      "icon": "🛒",
-      "description": "Convenience Store",
-      "lat": 46.606173,
-      "lon": 15.1192997,
-      "color": "green",
-      "popup": "Trgovina z živili<br>Opening hours: Mo-Fr 08:00-18:00; Sa 08:00-13:00<br>Gortina 17",
-      "category": "Shopping",
-      "osm_url": "https://www.openstreetmap.org/way/863585968"
-    },
-    {
-      "name": "Marketplace",
-      "icon": "🛒",
-      "description": "Marketplace",
-      "lat": 46.6140582,
-      "lon": 15.2253647,
-      "color": "green",
-      "popup": "Marketplace",
-      "category": "Shopping",
-      "osm_url": "https://www.openstreetmap.org/way/881594275"
-    },
-    {
       "name": "Pri Izidorju",
       "icon": "🏠",
       "description": "Guest House",
@@ -1266,5 +1057,5 @@
       "osm_url": "https://www.openstreetmap.org/way/1446960935"
     }
   ],
-  "ikonok": "🍺;🛒;🍺;🛒;🍺;🍺;🛒;🎯;🍺;🍺;🏠;🏔;🛒;💊;☕;💊;🛒;🍺;🛒;☕;🏠;💧;🛒;🛒;🍺;☕;🛒;☕;🛒;🛒;🛒;🍺;☕;🏠;🏠;🏔;🛒;🏠;🏠;🎯;☕;☕;🏠;☕;🛒;☕;☕;☕;💧;💧;💧;💧;🏔;☕;🛒;☕;🗿;🛒;💊;🗿;☕;🚨;💧;🗿;🎯;🛒;🛠;☕;🏠;🏔;🛒;🚲;🏰;☕;💧;💧;🛠;🏖;☕;💧;💧;🏔;☕;🏠;🛒;🏠;🛒;🏠;⛺;🛒;🛒;☕;🍺;🛒;🛒;🚨;🛒;💊;🛒;🚨;🏠;🏠;🏰;🛒;🏠;🍺;🛒;🛒;🏠;🎯;🏔;🛒;🏔;🏠;🏠"
+  "ikonok": "🍺;🛒;🍺;🍺;🛒;🎯;🍺;🍺;🏠;💊;🏔;🛒;💊;☕;💊;🛒;🍺;🛒;☕;🏠;💧;🛒;🛒;🍺;☕;🛒;☕;🛒;🛒;🛒;🍺;☕;🏠;🏠;🏔;🏠;🏠;🎯;☕;☕;☕;🛒;☕;☕;☕;💧;💧;💧;🏔;☕;🛒;☕;🗿;💧;🎯;🛒;🛠;🏠;🏔;🚲;🏰;☕;💧;💧;🛠;🏖;☕;💧;💧;🏔;🏠;🛒;🏠;🛒;🏠;⛺;🛒;🛒;☕;🍺;🛒;💊;🛒;🚨;🏠;🏠;🏰;🛒;🏠;🏠;🎯;🏔;🛒;🏔;🏠;🏠"
 }
