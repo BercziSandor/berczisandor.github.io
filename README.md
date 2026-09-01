@@ -1,6 +1,7 @@
 # Private
 
 Events:
+ - [🚲 ????????????? Alpok Adria](private/e/AlpokAdria/index.md.html)
  - [🚲 2026.08.20-26 Drauweg](private/e/26-DrauRadweg/index.md.html)
  - [🚲 2025.08.25-30 Regensburg -> Krems](private/e/2508-Regensburg_Krems/readme.md.html)
  - [🚲 2025.05.23-25 Balaton](private/e/2505-Balaton/readme.md.html)
