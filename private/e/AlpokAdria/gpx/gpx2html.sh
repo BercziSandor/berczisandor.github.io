@@ -5,6 +5,8 @@ set -e
 SCRIPTDIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 
 TARGETDIR=$1
+TARGETDIR=./gpx_alpe-adria-radweg.com
+
 TARGETDIR=$(readlink -f "${TARGETDIR}")
 if [ ! -d "${TARGETDIR}" ]; then
     echo "${TARGETDIR} does not exist, aborting"
