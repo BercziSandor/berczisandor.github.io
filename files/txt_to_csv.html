@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="hu">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>TXT → CSV átalakító</title>
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap" rel="stylesheet">
+        <style>
+        body{font-family:Roboto,Arial,sans-serif;max-width:1200px;margin:20px auto;padding:0 20px}
+        textarea{width:100%;box-sizing:border-box}
+        #txt,#result{height:280px}
+        .controls{margin:12px 0;display:flex;gap:10px;align-items:center;flex-wrap:wrap}
+        input[type=number]{width:90px}
+        button{padding:8px 14px;cursor:pointer}
+        .drop{border:2px dashed #999;padding:15px;margin:10px 0;color:#555}
+        </style>
+    </head>
+    <body>
+        <h2>TXT → CSV átalakító a Számlázz.hu oldalhoz</h2>
+        <p>
+            Az eszköz a beillesztett vagy betöltött TXT-szöveget a megadott számú oszlopba rendezi,
+            és pontosvesszővel elválasztott CSV-vé alakítja. A külön sorban szereplő „HUF” vagy „Ft”
+            kifejezést tartalmazó sorokat az előző sorhoz fűzi.
+        </p>
+        <ol>
+            <li>Illeszd be a szöveget a mezőbe, vagy húzz ide egy TXT-fájlt.</li>
+            <li>Add meg az oszlopok számát, majd kattints az „Átalakítás” gombra.</li>
+            <li>Az eredményt a „Másolás” gombbal másolhatod vágólapra, vagy CSV-fájlként letöltheted.</li>
+        </ol>
+        <div class="drop" id="dropZone">TXT fájl behúzása ide (drag & drop)</div>
+        <label>Szöveg:</label>
+        <textarea id="txt"></textarea>
+        <div class="controls">
+            <label>Oszlopok száma:</label>
+            <input type="number" id="cnt" min="1" value="7">
+            <button id="convertBtn">Átalakítás</button>
+            <button id="copyBtn">Másolás</button>
+            <button id="downloadBtn">CSV letöltés</button>
+        </div>
+        <h3>Eredmény</h3>
+        <textarea id="result" readonly></textarea>
+        <script>
+        const cntInput=document.getElementById('cnt');
+        const saved=localStorage.getItem('csvColumnCount');
+        if(saved) cntInput.value=saved;
+        cntInput.addEventListener('change',()=>{
+        localStorage.setItem('csvColumnCount',cntInput.value);
+        document.getElementById('convertBtn').click();
+        });
+        document.getElementById('convertBtn').addEventListener('click',()=>{
+        const cnt=parseInt(cntInput.value,10);
+        if(!cnt||cnt<1){alert('Érvényes oszlopszám kell');return;}
+        const lines=document.getElementById('txt').value
+        .split(/\r?\n/)
+        .map(x=>x.trim())
+        .filter(x=>x!=='' );
+        const items=[];
+        for(const line of lines){
+        if(/\b(?:HUF|Ft)\b/.test(line)&&items.length>0){
+        items[items.length-1]+=' '+line;
+        }else{
+        items.push(line);
+        }
+        }
+        const rows=[];
+        for(let i=0;i<items.length;i+=cnt){rows.push(items.slice(i,i+cnt).join(';'));}
+        document.getElementById('result').value=rows.join('\n');
+        });
+        document.getElementById('copyBtn').addEventListener('click', async () => {
+        const excelData =
+        document.getElementById('result').value.replace(/;/g, '\t');
+        await navigator.clipboard.writeText(excelData);
+        alert('A kimásolt adatokat közvetlenül be lehet illeszteni Excelbe.');
+        });
+        document.getElementById('downloadBtn').addEventListener('click',()=>{
+        const blob=new Blob([document.getElementById('result').value],{type:'text/csv'});
+        const a=document.createElement('a');
+        a.href=URL.createObjectURL(blob);
+        a.download='output.csv';
+        a.click();
+        URL.revokeObjectURL(a.href);
+        });
+        const dz=document.getElementById('dropZone');
+        dz.addEventListener('dragover',e=>{e.preventDefault();});
+        dz.addEventListener('drop',e=>{
+        e.preventDefault();
+        const f=e.dataTransfer.files[0];
+        if(!f) return;
+        const r=new FileReader();
+        r.onload=x=>document.getElementById('txt').value=x.target.result;
+        r.readAsText(f);
+        });
+        </script>
+    </body>
+</html>
